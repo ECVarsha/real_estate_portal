@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Listing Confirmation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f6f8;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .container {
+            background-color: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        h2 {
+            color: #2c3e50;
+        }
+        p {
+            font-size: 16px;
+            color: #555;
+            margin-top: 10px;
+            margin-bottom: 30px;
+        }
+        .home-btn {
+            text-decoration: none;
+            background-color: #5A6F94;
+            color: white;
+            padding: 12px 24px;
+            border-radius: 8px;
+            font-weight: bold;
+            transition: background-color 0.3s;
+        }
+        .home-btn:hover {
+            background-color: #5A6F94;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Thank you for your listing!</h2>
+        <p>Our verification team will contact you within 2-3 working days to validate the property.<br>
+           Your listing will go live once approved.</p>
+        <a class="home-btn" href="{% url 'home' %}">Go back to Home</a>
+    </div>
+</body>
+</html>

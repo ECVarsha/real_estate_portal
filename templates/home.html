@@ -1,0 +1,113 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real Estate Home</title>
+    <link rel="stylesheet" href="{% static 'css/home.css' %}">
+</head>
+
+<body>
+
+    <header>
+        <nav>
+            <ul class="left">
+                <li><a href="{% url 'home' %}">Home</a></li>
+                <li><a href="#">About Us</a></li>
+            </ul>
+            <ul class="right">
+                <li><a href="{% url 'post_property' %}">Post Property</a></li>
+                <li><a href="{% url 'login' %}">Login</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="Name">
+        <h1>Welcome to JV</h1>
+    </div>
+
+
+    <div class="search-bar">
+        <form method="GET" action="{% url 'property_search' %}">
+            <select name="city" id="city">
+                <option value="">City</option>
+                {% for city_value, city_name in city_choices %}
+                <option value="{{ city_value }}">{{ city_name }}</option>
+                {% endfor %}
+            </select>
+
+            <select name="property_type" id="houseType">
+                <option value="">House Type</option>
+                {% for prop_type in property_types %}
+                <option value="{{ prop_type.name }}">{{ prop_type.name }}</option>
+                {% endfor %}
+            </select>
+
+            <select name="budget" id="budget">
+                <option value="">Budget</option>
+                <option value="2000000">Below 20 L</option>
+                <option value="5000000">20L - 50L</option>
+                <option value="10000000">50L - 1Cr</option>
+                <option value="10000001">1Cr+</option>
+            </select>
+
+            <button type="submit">Search</button>
+        </form>
+    </div>
+
+    <section class="property-section">
+        <div class="category-container">
+            <div class="category-item" onclick="handleCategoryClick('Buy')">
+                <span>Buy</span>
+                <img src="{% static 'images/land.jpg' %}" alt="Buy" width="195">
+            </div>
+            <div class="category-item" onclick="handleCategoryClick('Rent')">
+                <span>Rent</span>
+                <img src="{% static 'images/land.jpg' %}" alt="Rent" width="195">
+            </div>
+            <div class="category-item" onclick="handleCategoryClick('New Projects')">
+                <span>New Projects</span>
+                <img src="{% static 'images/land.jpg' %}" alt="New Projects" width="195">
+            </div>
+            <div class="category-item" onclick="handleCategoryClick('PG')">
+                <span>PG</span>
+                <img src="{% static 'images/land.jpg' %}" alt="PG" width="195">
+            </div>
+            <div class="category-item" onclick="handleCategoryClick('Plot')">
+                <span>Plot</span>
+                <img src="{% static 'images/land.jpg' %}" alt="Plot" width="195">
+            </div>
+            <div class="category-item" onclick="handleCategoryClick('Commercial')">
+                <span>Commercial</span>
+                <img src="{% static 'images/land.jpg' %}" alt="Commercial" width="195">
+            </div>
+        </div>
+    </section>
+
+    <script>
+        function handleSearch() {
+            const city = document.getElementById('city').value;
+            const type = document.getElementById('houseType').value;
+            const budget = document.getElementById('budget').value;
+
+            const msg = document.getElementById('searchMessage');
+
+            if (!city || !type || !budget) {
+                msg.style.color = 'red';
+                msg.textContent = "Please select all options to search.";
+            } else {
+                msg.style.color = 'lightgreen';
+                msg.textContent = `Searching for ${type} in ${city} under ${budget}.`;
+            }
+        }
+
+        function handleCategoryClick(category) {
+            alert(`You clicked on ${category}. Redirecting...`);
+        }
+    </script>
+</body>
+
+</html>

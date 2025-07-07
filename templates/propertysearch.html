@@ -1,0 +1,93 @@
+
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Property Search - Real Estate</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <link rel="stylesheet" href="{% static 'css/propertysearch.css' %}">
+    <script>
+        // Initialize an empty properties object that will be populated via AJAX
+        var properties = {};
+        var defaultImageUrl = "{% static 'images/h2.jpg' %}";
+    </script>
+</head>
+
+<body>
+    <header class="navbar">
+        <nav>
+            <ul class="left">
+                <li><a href="{% url 'home' %}">Home</a></li>
+                <li><a href="#">About Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <div class="map-and-highlight">
+            <div class="map-container">
+                <div id="propertyMap"></div>
+            </div>
+            <div class="property-highlights">
+                {% for property in properties|slice:":2" %}
+                <div class="featured-property" 
+                     data-lat="{{ property.location.latitude|default:'51.505' }}" 
+                     data-lng="{{ property.location.longitude|default:'-0.09' }}" 
+                     data-id="{{ property.id }}">
+                    {% if property.main_image %}
+                    <img src="{{ property.main_image.url }}" alt="{{ property.title }}">
+                    {% else %}
+                    <img src="{% static 'images/h2.jpg' %}" alt="Default property image">
+                    {% endif %}
+                    <div class="property-details">
+                        <h3>{{ property.title }}</h3>
+                        <div class="property-meta">
+                            <span>🏠 {{ property.property_type.name }}</span>
+                            <span>🛏️ {{ property.bedrooms }} Beds</span>
+                            <span>🛁 {{ property.bathrooms }} Baths</span>
+                        </div>
+                        <div class="property-price">{{ property.get_price_display }}</div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </section>
+
+    <section class="properties">
+        <h2>Properties</h2>
+        <div class="property-grid">
+            {% for property in properties %}
+            <div class="property-card" data-name="{{ property.title }}" data-id="{{ property.id }}">
+                <button>
+                    {% if property.main_image %}
+                    <img src="{{ property.main_image.url }}" alt="{{ property.title }}">
+                    {% else %}
+                    <img src="{% static 'images/h2.jpg' %}" alt="Default property image">
+                    {% endif %}
+                    <p>{{ property.title }}</p>
+                </button>
+            </div>
+            {% endfor %}
+        </div>
+    </section>
+
+    <div id="propertyModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <img id="modalImage" class="modal-image" src="" alt="Property Image">
+            <h2 id="modalTitle"></h2>
+            <div class="modal-price" id="modalPrice"></div>
+            <div class="modal-details" id="modalDetails"></div>
+            <p class="modal-description" id="modalDescription"></p>
+            <a id="viewDetailsBtn" href="#" class="btn-primary">View Full Details</a>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="{% static 'js/propertysearch.js' %}"></script>
+</body>
+</html>

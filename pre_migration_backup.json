@@ -1,0 +1,7402 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2025-04-15T13:51:34.664Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "98",
+    "object_repr": "Modern Office Space in Pune",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2025-04-15T13:52:09.978Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "95",
+    "object_repr": "Premium Corporate Office",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2025-04-15T13:53:54.358Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "85",
+    "object_repr": "Executive Business Center - Noida",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2025-04-15T13:54:04.181Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "95",
+    "object_repr": "Premium Corporate Office",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2025-04-15T13:54:29.382Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "81",
+    "object_repr": "Fully-Furnished Office with Amenities",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2025-04-15T13:55:01.776Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "80",
+    "object_repr": "Tech-Ready Workspace",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2025-04-15T13:55:06.017Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "80",
+    "object_repr": "Tech-Ready Workspace",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2025-04-15T13:56:30.976Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "79",
+    "object_repr": "Flexible Coworking Office",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2025-04-15T13:57:10.515Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "77",
+    "object_repr": "Shared Workspace with Meeting Rooms",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2025-04-15T13:57:26.839Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "64",
+    "object_repr": "Class A Office Tower - Panoramic City Views",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2025-04-15T14:00:06.669Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "55",
+    "object_repr": "Luxury Executive Suite with Reception Services",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2025-04-15T14:00:31.117Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "39",
+    "object_repr": "Compact Office Cabin - Ideal for Startups",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2025-04-15T14:00:56.519Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "28",
+    "object_repr": "Budget-Friendly Office Space - Prime Location",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2025-04-15T14:02:26.062Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "26",
+    "object_repr": "Commercial Office Space for Sale in Chennai",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2025-04-15T14:03:13.852Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "25",
+    "object_repr": "Best Office Property in [Business District] - Parking Included",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2025-04-15T14:03:39.815Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "26",
+    "object_repr": "Commercial Office Space for Sale in Chennai",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2025-04-15T14:03:49.454Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "28",
+    "object_repr": "Budget-Friendly Office Space - Prime Location",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2025-04-15T14:03:59.379Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "25",
+    "object_repr": "Best Office Property in [Business District] - Parking Included",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2025-04-15T14:04:27.469Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "23",
+    "object_repr": "Serviced Office | Plug-and-Play | High-Speed Internet",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2025-04-15T14:04:49.616Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "22",
+    "object_repr": "Your Dream Office Awaits - Move-in Ready!",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2025-04-15T14:09:31.661Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "20",
+    "object_repr": "Productivity-Designed Workspace - Book a Tour Today",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2025-04-15T14:09:56.393Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "8",
+    "object_repr": "Corporate Address in Premium Business Hub",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2025-04-15T14:10:44.169Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "90",
+    "object_repr": "Prime Commercial Space",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2025-04-15T14:11:03.212Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "89",
+    "object_repr": "Premium Property for Lease – Ideal for Businesses",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2025-04-15T14:11:20.930Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "73",
+    "object_repr": "Corner Unit with High Foot Traffic – Move-in Ready",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2025-04-15T14:11:41.300Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "70",
+    "object_repr": "Spacious Property – Ample Parking & Modern Amenities",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2025-04-15T14:12:00.838Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "68",
+    "object_repr": "Exclusive Space in [Business District] – Customizable Layout",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2025-04-15T14:12:53.071Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "66",
+    "object_repr": "Luxury Property in [Landmark Area] – Premium Finishings",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2025-04-15T14:14:14.829Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "63",
+    "object_repr": "Elite Business Space – Prestigious Address",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2025-04-15T14:14:32.469Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "60",
+    "object_repr": "High-End Property – Ideal for Discerning Clients",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2025-04-15T14:14:53.168Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "59",
+    "object_repr": "Sophisticated Space with Skyline Views",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2025-04-15T14:15:09.263Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "57",
+    "object_repr": "Turnkey Property – Ready for Immediate Occupancy",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2025-04-15T14:15:25.435Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "56",
+    "object_repr": "Versatile Space – Perfect for Creative or Corporate Use",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2025-04-15T14:15:44.368Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "53",
+    "object_repr": "Open-Concept Property – Adaptable for Multiple Needs",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2025-04-15T14:16:03.330Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "51",
+    "object_repr": "Strategic Location – Near Transport & Major Attractions",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2025-04-15T14:16:23.223Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "47",
+    "object_repr": "High-Yield Commercial Investment – Strong ROI Potential",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2025-04-15T14:16:39.169Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "45",
+    "object_repr": "Freehold Opportunity – Build-to-Suit Available",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2025-04-15T14:16:58.805Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "41",
+    "object_repr": "Expansion-Ready Property – Scalable for Growing Businesses",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2025-04-15T14:17:15.276Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "33",
+    "object_repr": "Smart Property – Fiber Optic & Advanced Infrastructure",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 40,
+  "fields": {
+    "action_time": "2025-04-15T14:17:32.266Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "24",
+    "object_repr": "Eco-Conscious Space – Energy-Efficient Design",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 41,
+  "fields": {
+    "action_time": "2025-04-15T14:17:48.066Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "16",
+    "object_repr": "Unmatched Exposure – Ideal for Branding",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 42,
+  "fields": {
+    "action_time": "2025-04-15T14:18:03.841Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "10",
+    "object_repr": "A-Grade Property – Limited Availability",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 43,
+  "fields": {
+    "action_time": "2025-04-15T14:18:22.206Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "4",
+    "object_repr": "The Ultimate Business Address – Inquire Today",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 44,
+  "fields": {
+    "action_time": "2025-04-15T14:28:33.422Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "90",
+    "object_repr": "Prime Commercial Space",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 45,
+  "fields": {
+    "action_time": "2025-04-15T14:28:57.475Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "89",
+    "object_repr": "Premium Property for Lease – Ideal for Businesses",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 46,
+  "fields": {
+    "action_time": "2025-04-15T14:29:08.002Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "73",
+    "object_repr": "Corner Unit with High Foot Traffic – Move-in Ready",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 47,
+  "fields": {
+    "action_time": "2025-04-15T14:29:22.863Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "70",
+    "object_repr": "Spacious Property – Ample Parking & Modern Amenities",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 48,
+  "fields": {
+    "action_time": "2025-04-15T14:29:36.912Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "68",
+    "object_repr": "Exclusive Space in [Business District] – Customizable Layout",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 49,
+  "fields": {
+    "action_time": "2025-04-15T14:29:52.046Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "66",
+    "object_repr": "Luxury Property in [Landmark Area] – Premium Finishings",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 50,
+  "fields": {
+    "action_time": "2025-04-15T14:30:07.811Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "63",
+    "object_repr": "Elite Business Space – Prestigious Address",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 51,
+  "fields": {
+    "action_time": "2025-04-15T14:30:22.194Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "60",
+    "object_repr": "High-End Property – Ideal for Discerning Clients",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 52,
+  "fields": {
+    "action_time": "2025-04-15T14:30:44.007Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "59",
+    "object_repr": "Sophisticated Space with Skyline Views",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 53,
+  "fields": {
+    "action_time": "2025-04-15T14:31:06.028Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "57",
+    "object_repr": "Turnkey Property – Ready for Immediate Occupancy",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 54,
+  "fields": {
+    "action_time": "2025-04-15T14:31:21.964Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "56",
+    "object_repr": "Versatile Space – Perfect for Creative or Corporate Use",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 55,
+  "fields": {
+    "action_time": "2025-04-15T14:31:37.658Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "53",
+    "object_repr": "Open-Concept Property – Adaptable for Multiple Needs",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 56,
+  "fields": {
+    "action_time": "2025-04-15T14:31:48.805Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "51",
+    "object_repr": "Strategic Location – Near Transport & Major Attractions",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 57,
+  "fields": {
+    "action_time": "2025-04-15T14:32:00.752Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "47",
+    "object_repr": "High-Yield Commercial Investment – Strong ROI Potential",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 58,
+  "fields": {
+    "action_time": "2025-04-15T14:32:12.585Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "45",
+    "object_repr": "Freehold Opportunity – Build-to-Suit Available",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 59,
+  "fields": {
+    "action_time": "2025-04-15T14:32:24.648Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "41",
+    "object_repr": "Expansion-Ready Property – Scalable for Growing Businesses",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 60,
+  "fields": {
+    "action_time": "2025-04-15T14:32:35.870Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "33",
+    "object_repr": "Smart Property – Fiber Optic & Advanced Infrastructure",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 61,
+  "fields": {
+    "action_time": "2025-04-15T14:32:46.020Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "24",
+    "object_repr": "Eco-Conscious Space – Energy-Efficient Design",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 62,
+  "fields": {
+    "action_time": "2025-04-15T14:32:59.623Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "16",
+    "object_repr": "Unmatched Exposure – Ideal for Branding",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 63,
+  "fields": {
+    "action_time": "2025-04-15T14:33:10.044Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "10",
+    "object_repr": "A-Grade Property – Limited Availability",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 64,
+  "fields": {
+    "action_time": "2025-04-15T14:33:34.885Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "4",
+    "object_repr": "The Ultimate Business Address – Inquire Today",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 65,
+  "fields": {
+    "action_time": "2025-04-15T14:40:43.737Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "100",
+    "object_repr": "3BHK in Pune",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 66,
+  "fields": {
+    "action_time": "2025-04-15T14:40:55.367Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "94",
+    "object_repr": "4BHK in Pune",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 67,
+  "fields": {
+    "action_time": "2025-04-15T14:41:14.275Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "93",
+    "object_repr": "2BHK in Pune",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 68,
+  "fields": {
+    "action_time": "2025-04-15T14:44:37.100Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "91",
+    "object_repr": "4BHK in Pune",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 69,
+  "fields": {
+    "action_time": "2025-04-15T14:44:51.432Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "87",
+    "object_repr": "3BHK in Noida",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 70,
+  "fields": {
+    "action_time": "2025-04-15T14:45:57.757Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "86",
+    "object_repr": "3BHK in Noida",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 71,
+  "fields": {
+    "action_time": "2025-04-15T14:46:55.724Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "83",
+    "object_repr": "3BHK in Noida",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 72,
+  "fields": {
+    "action_time": "2025-04-15T14:47:10.067Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "74",
+    "object_repr": "3BHK in Mumbai",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 73,
+  "fields": {
+    "action_time": "2025-04-15T14:47:38.497Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "72",
+    "object_repr": "4BHK in Mumbai",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 74,
+  "fields": {
+    "action_time": "2025-04-15T14:47:49.216Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "69",
+    "object_repr": "3BHK in Kolkata",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 75,
+  "fields": {
+    "action_time": "2025-04-15T14:48:06.419Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "61",
+    "object_repr": "4BHK in Kolkata",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 76,
+  "fields": {
+    "action_time": "2025-04-15T14:48:19.785Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "54",
+    "object_repr": "4BHK in Hyderabad",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 77,
+  "fields": {
+    "action_time": "2025-04-15T14:48:32.244Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "46",
+    "object_repr": "4BHK in Gurgaon",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 78,
+  "fields": {
+    "action_time": "2025-04-15T14:48:53.852Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "44",
+    "object_repr": "4BHK in Gurgaon",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 79,
+  "fields": {
+    "action_time": "2025-04-15T14:49:05.934Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "40",
+    "object_repr": "2BHK in Delhi",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 80,
+  "fields": {
+    "action_time": "2025-04-15T14:49:21.326Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "37",
+    "object_repr": "2BHK in Delhi",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 81,
+  "fields": {
+    "action_time": "2025-04-15T14:49:36.746Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "36",
+    "object_repr": "2BHK in Delhi",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 82,
+  "fields": {
+    "action_time": "2025-04-15T14:49:48.115Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "34",
+    "object_repr": "3BHK in Delhi",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 83,
+  "fields": {
+    "action_time": "2025-04-15T14:50:03.831Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "30",
+    "object_repr": "2BHK in Chennai",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 84,
+  "fields": {
+    "action_time": "2025-04-15T14:50:17.732Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "29",
+    "object_repr": "2BHK in Chennai",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 85,
+  "fields": {
+    "action_time": "2025-04-15T14:50:29.272Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "18",
+    "object_repr": "4BHK in Bangalore",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 86,
+  "fields": {
+    "action_time": "2025-04-15T14:50:41.036Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "12",
+    "object_repr": "2BHK in Bangalore",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 87,
+  "fields": {
+    "action_time": "2025-04-15T14:50:52.798Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "6",
+    "object_repr": "4BHK in Ahmedabad",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 88,
+  "fields": {
+    "action_time": "2025-04-15T14:51:05.026Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "5",
+    "object_repr": "2BHK in Ahmedabad",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 89,
+  "fields": {
+    "action_time": "2025-04-15T14:51:17.733Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "2BHK in Ahmedabad",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 90,
+  "fields": {
+    "action_time": "2025-04-15T14:51:24.734Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "2BHK in Ahmedabad",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 91,
+  "fields": {
+    "action_time": "2025-04-15T14:51:48.394Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "4BHK in Ahmedabad",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 92,
+  "fields": {
+    "action_time": "2025-04-15T14:53:15.450Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "87",
+    "object_repr": "3BHK in Noida",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 93,
+  "fields": {
+    "action_time": "2025-04-15T14:53:42.446Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "86",
+    "object_repr": "3BHK in Noida",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 94,
+  "fields": {
+    "action_time": "2025-04-15T14:54:13.009Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "72",
+    "object_repr": "4BHK in Mumbai",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 95,
+  "fields": {
+    "action_time": "2025-04-15T14:54:38.496Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "72",
+    "object_repr": "4BHK in Mumbai",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 96,
+  "fields": {
+    "action_time": "2025-04-15T15:02:46.267Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "99",
+    "object_repr": "Premium Commercial Plot in [Prime Area] – High ROI Potential",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 97,
+  "fields": {
+    "action_time": "2025-04-15T15:03:09.217Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "96",
+    "object_repr": "Land for Sale – Strategic [City/Highway] Location",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 98,
+  "fields": {
+    "action_time": "2025-04-15T15:03:27.149Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "88",
+    "object_repr": "Corner Commercial Plot – High Visibility & Easy Access",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 99,
+  "fields": {
+    "action_time": "2025-04-15T15:04:35.582Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "84",
+    "object_repr": "Blank Canvas Land – Zoned Commercial (Approved Plans)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Bedrooms\", \"Bathrooms\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 100,
+  "fields": {
+    "action_time": "2025-04-15T15:04:49.488Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "99",
+    "object_repr": "Premium Commercial Plot in [Prime Area] – High ROI Potential",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 101,
+  "fields": {
+    "action_time": "2025-04-15T15:05:48.175Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "96",
+    "object_repr": "Land for Sale – Strategic",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 102,
+  "fields": {
+    "action_time": "2025-04-15T15:06:00.485Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "88",
+    "object_repr": "Corner Commercial Plot – High Visibility & Easy Access",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 103,
+  "fields": {
+    "action_time": "2025-04-15T15:06:41.535Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "67",
+    "object_repr": "Development-Ready Plot – Ideal for Mall/Hotel/Office",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Bedrooms\", \"Bathrooms\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 104,
+  "fields": {
+    "action_time": "2025-04-15T15:07:09.767Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "65",
+    "object_repr": "Freehold Land – Build-to-Suit for Investors",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Bedrooms\", \"Bathrooms\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 105,
+  "fields": {
+    "action_time": "2025-04-15T15:08:20.023Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "50",
+    "object_repr": "High-Growth Commercial Land – Future Business Hub",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Bedrooms\", \"Bathrooms\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 106,
+  "fields": {
+    "action_time": "2025-04-15T15:08:55.924Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "49",
+    "object_repr": "Auction: Prime Plot in Emerging Commercial District",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Bedrooms\", \"Bathrooms\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 107,
+  "fields": {
+    "action_time": "2025-04-15T15:09:41.067Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "43",
+    "object_repr": "Land with Approved Plans – Instant Development Start",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Bedrooms\", \"Bathrooms\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 108,
+  "fields": {
+    "action_time": "2025-04-15T15:10:27.164Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "38",
+    "object_repr": "Sprawling [Acres/Sq.Yd] Plot – Subdividable Options",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Bedrooms\", \"Bathrooms\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 109,
+  "fields": {
+    "action_time": "2025-04-15T15:11:17.111Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "35",
+    "object_repr": "Compact Commercial Land – Perfect for Startup Ventures",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Bedrooms\", \"Bathrooms\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 110,
+  "fields": {
+    "action_time": "2025-04-15T15:11:45.255Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "32",
+    "object_repr": "Fully Serviced Plot – Utilities & Road Access Ready",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Bedrooms\", \"Bathrooms\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 111,
+  "fields": {
+    "action_time": "2025-04-15T15:12:20.266Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "19",
+    "object_repr": "Commercial Land with 24/7 Security – Gated Community",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Bedrooms\", \"Bathrooms\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 112,
+  "fields": {
+    "action_time": "2025-04-15T15:12:52.803Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "15",
+    "object_repr": "Limited-Release Plots – Last Few Remaining!",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Bedrooms\", \"Bathrooms\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 113,
+  "fields": {
+    "action_time": "2025-04-15T15:13:20.005Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "11",
+    "object_repr": "Exclusive Opportunity – Land Near Upcoming [Metro/Airport]",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Bedrooms\", \"Bathrooms\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 114,
+  "fields": {
+    "action_time": "2025-04-15T15:13:45.928Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "9",
+    "object_repr": "Premium Commercial Property – Ideal for Long-Term Assets",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Bedrooms\", \"Bathrooms\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 115,
+  "fields": {
+    "action_time": "2025-04-15T15:14:15.572Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "Land Parcel – Prime Connectivity & Future Appreciation",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Bedrooms\", \"Bathrooms\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 116,
+  "fields": {
+    "action_time": "2025-04-15T15:15:10.685Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "88",
+    "object_repr": "Corner Commercial Plot – High Visibility & Easy Access",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 117,
+  "fields": {
+    "action_time": "2025-04-15T17:02:50.538Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "97",
+    "object_repr": "Luxury Villa in [Prime Location] – Private Oasis",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 118,
+  "fields": {
+    "action_time": "2025-04-15T17:03:12.223Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "92",
+    "object_repr": "Ultra-Modern Villa with Panoramic Views",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 119,
+  "fields": {
+    "action_time": "2025-04-15T17:03:38.450Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "82",
+    "object_repr": "Stunning Designer Villa – Bespoke Finishes",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 120,
+  "fields": {
+    "action_time": "2025-04-15T17:04:04.085Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "78",
+    "object_repr": "Mansion-Style Villa – Grand Living Spaces",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 121,
+  "fields": {
+    "action_time": "2025-04-15T17:05:00.872Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "76",
+    "object_repr": "Waterfront Villa – Private Beach Access",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 122,
+  "fields": {
+    "action_time": "2025-04-15T17:05:35.328Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "75",
+    "object_repr": "Hillside Retreat – Breathtaking [City/Ocean] Views",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 123,
+  "fields": {
+    "action_time": "2025-04-15T17:06:01.453Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "71",
+    "object_repr": "Gated Community Villa – Exclusive & Secure",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 124,
+  "fields": {
+    "action_time": "2025-04-15T17:06:35.972Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "62",
+    "object_repr": "Smart Home Villa – Tech-Integrated Living",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 125,
+  "fields": {
+    "action_time": "2025-04-15T17:07:02.891Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "58",
+    "object_repr": "Eco-Luxury Villa – Solar-Powered & Sustainable",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 126,
+  "fields": {
+    "action_time": "2025-04-15T17:07:45.781Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "52",
+    "object_repr": "Resort-Style Villa – Infinity Pool & Spa",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 127,
+  "fields": {
+    "action_time": "2025-04-15T17:11:02.257Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "48",
+    "object_repr": "Sprawling 4-Bed Villa – Perfect for Families",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 128,
+  "fields": {
+    "action_time": "2025-04-15T17:11:38.805Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "42",
+    "object_repr": "Mini Estate – Guest House + Landscaped Gardens",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 129,
+  "fields": {
+    "action_time": "2025-04-15T17:13:37.113Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "31",
+    "object_repr": "Turnkey Villa – Fully Furnished & Move-in Ready",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 130,
+  "fields": {
+    "action_time": "2025-04-15T17:14:14.244Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "27",
+    "object_repr": "Rare Heritage Villa – Timeless Architecture",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 131,
+  "fields": {
+    "action_time": "2025-04-15T17:15:22.213Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "21",
+    "object_repr": "Villa with Income Potential – Dual-Living Design",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 132,
+  "fields": {
+    "action_time": "2025-04-15T17:16:12.520Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "17",
+    "object_repr": "Your Forever Home – Impeccably Crafted Villa",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 133,
+  "fields": {
+    "action_time": "2025-04-15T17:16:39.651Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "14",
+    "object_repr": "Dream Villa Awaits – Serenity Meets Luxury",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 134,
+  "fields": {
+    "action_time": "2025-04-15T17:17:04.580Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "13",
+    "object_repr": "One-of-a-Kind Villa – Limited Opportunity",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 135,
+  "fields": {
+    "action_time": "2025-04-15T17:17:13.769Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "7",
+    "object_repr": "3BHK in Ahmedabad",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 136,
+  "fields": {
+    "action_time": "2025-04-15T17:19:05.518Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "17",
+    "object_repr": "Your Forever Home – Impeccably Crafted Villa",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 137,
+  "fields": {
+    "action_time": "2025-04-15T17:22:52.696Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "17",
+    "object_repr": "Your Forever Home – Impeccably Crafted Villa",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 138,
+  "fields": {
+    "action_time": "2025-04-15T17:23:59.325Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "58",
+    "object_repr": "Eco-Luxury Villa – Solar-Powered & Sustainable",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 139,
+  "fields": {
+    "action_time": "2025-04-15T17:25:13.270Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "71",
+    "object_repr": "Gated Community Villa – Exclusive & Secure",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 140,
+  "fields": {
+    "action_time": "2025-04-15T17:32:55.514Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "98",
+    "object_repr": "Modern Office Space in Pune",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 141,
+  "fields": {
+    "action_time": "2025-04-15T17:35:02.971Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "95",
+    "object_repr": "Premium Corporate Office",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 142,
+  "fields": {
+    "action_time": "2025-04-15T17:35:13.896Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "85",
+    "object_repr": "Executive Business Center - Noida",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 143,
+  "fields": {
+    "action_time": "2025-04-15T17:35:27.136Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "81",
+    "object_repr": "Fully-Furnished Office with Amenities",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 144,
+  "fields": {
+    "action_time": "2025-04-15T17:35:40.105Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "80",
+    "object_repr": "Tech-Ready Workspace",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 145,
+  "fields": {
+    "action_time": "2025-04-15T17:35:53.275Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "79",
+    "object_repr": "Flexible Coworking Office",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 146,
+  "fields": {
+    "action_time": "2025-04-15T17:36:06.816Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "77",
+    "object_repr": "Shared Workspace with Meeting Rooms",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 147,
+  "fields": {
+    "action_time": "2025-04-15T17:36:17.398Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "64",
+    "object_repr": "Class A Office Tower - Panoramic City Views",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 148,
+  "fields": {
+    "action_time": "2025-04-15T17:36:28.569Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "55",
+    "object_repr": "Luxury Executive Suite with Reception Services",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 149,
+  "fields": {
+    "action_time": "2025-04-15T17:36:41.898Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "39",
+    "object_repr": "Compact Office Cabin - Ideal for Startups",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 150,
+  "fields": {
+    "action_time": "2025-04-15T17:36:52.657Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "28",
+    "object_repr": "Budget-Friendly Office Space - Prime Location",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 151,
+  "fields": {
+    "action_time": "2025-04-15T17:37:05.384Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "26",
+    "object_repr": "Commercial Office Space for Sale in Chennai",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 152,
+  "fields": {
+    "action_time": "2025-04-15T17:37:15.169Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "25",
+    "object_repr": "Best Office Property in [Business District] - Parking Included",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 153,
+  "fields": {
+    "action_time": "2025-04-15T17:37:29.993Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "23",
+    "object_repr": "Serviced Office | Plug-and-Play | High-Speed Internet",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 154,
+  "fields": {
+    "action_time": "2025-04-15T17:37:38.561Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "23",
+    "object_repr": "Serviced Office | Plug-and-Play | High-Speed Internet",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 155,
+  "fields": {
+    "action_time": "2025-04-15T17:37:49.559Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "22",
+    "object_repr": "Your Dream Office Awaits - Move-in Ready!",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 156,
+  "fields": {
+    "action_time": "2025-04-15T17:38:00.430Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "20",
+    "object_repr": "Productivity-Designed Workspace - Book a Tour Today",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 157,
+  "fields": {
+    "action_time": "2025-04-15T17:52:53.285Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "8",
+    "object_repr": "Corporate Address in Premium Business Hub",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 158,
+  "fields": {
+    "action_time": "2025-04-15T17:53:19.492Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "90",
+    "object_repr": "Prime Commercial Space",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 159,
+  "fields": {
+    "action_time": "2025-04-15T17:53:28.305Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "89",
+    "object_repr": "Premium Property for Lease – Ideal for Businesses",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 160,
+  "fields": {
+    "action_time": "2025-04-15T17:53:40.670Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "73",
+    "object_repr": "Corner Unit with High Foot Traffic – Move-in Ready",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 161,
+  "fields": {
+    "action_time": "2025-04-15T17:53:53.320Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "70",
+    "object_repr": "Spacious Property – Ample Parking & Modern Amenities",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 162,
+  "fields": {
+    "action_time": "2025-04-15T17:54:05.184Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "68",
+    "object_repr": "Exclusive Space in [Business District] – Customizable Layout",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 163,
+  "fields": {
+    "action_time": "2025-04-15T17:54:35.281Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "66",
+    "object_repr": "Luxury Property  – Premium Finishings",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 164,
+  "fields": {
+    "action_time": "2025-04-15T17:54:48.537Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "63",
+    "object_repr": "Elite Business Space – Prestigious Address",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 165,
+  "fields": {
+    "action_time": "2025-04-15T17:55:06.543Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "60",
+    "object_repr": "High-End Property – Ideal for Discerning Clients",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 166,
+  "fields": {
+    "action_time": "2025-04-15T17:55:20.262Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "59",
+    "object_repr": "Sophisticated Space with Skyline Views",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 167,
+  "fields": {
+    "action_time": "2025-04-15T17:55:34.820Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "57",
+    "object_repr": "Turnkey Property – Ready for Immediate Occupancy",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 168,
+  "fields": {
+    "action_time": "2025-04-15T17:55:47.179Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "56",
+    "object_repr": "Versatile Space – Perfect for Creative or Corporate Use",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 169,
+  "fields": {
+    "action_time": "2025-04-15T17:55:59.776Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "53",
+    "object_repr": "Open-Concept Property – Adaptable for Multiple Needs",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 170,
+  "fields": {
+    "action_time": "2025-04-15T17:56:14.601Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "51",
+    "object_repr": "Strategic Location – Near Transport & Major Attractions",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 171,
+  "fields": {
+    "action_time": "2025-04-15T17:56:27.697Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "47",
+    "object_repr": "High-Yield Commercial Investment – Strong ROI Potential",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 172,
+  "fields": {
+    "action_time": "2025-04-15T17:56:43.715Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "45",
+    "object_repr": "Freehold Opportunity – Build-to-Suit Available",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 173,
+  "fields": {
+    "action_time": "2025-04-15T17:56:54.722Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "41",
+    "object_repr": "Expansion-Ready Property – Scalable for Growing Businesses",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 174,
+  "fields": {
+    "action_time": "2025-04-15T17:57:10.190Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "33",
+    "object_repr": "Smart Property – Fiber Optic & Advanced Infrastructure",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 175,
+  "fields": {
+    "action_time": "2025-04-15T17:58:08.450Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "33",
+    "object_repr": "Smart Property – Fiber Optic & Advanced Infrastructure",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 176,
+  "fields": {
+    "action_time": "2025-04-15T17:58:21.097Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "24",
+    "object_repr": "Eco-Conscious Space – Energy-Efficient Design",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 177,
+  "fields": {
+    "action_time": "2025-04-15T17:58:32.199Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "16",
+    "object_repr": "Unmatched Exposure – Ideal for Branding",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 178,
+  "fields": {
+    "action_time": "2025-04-15T17:58:42.937Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "10",
+    "object_repr": "A-Grade Property – Limited Availability",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 179,
+  "fields": {
+    "action_time": "2025-04-15T17:58:55.757Z",
+    "user": 31,
+    "content_type": 10,
+    "object_id": "4",
+    "object_repr": "The Ultimate Business Address – Inquire Today",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Bedrooms\", \"Bathrooms\"]}}]"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "2ldsuo7wiebjllxmbrrsbktfqe96gdbt",
+  "fields": {
+    "session_data": ".eJxVjM0OwiAQhN-FsyHAWpZ69O4zkF1-pGogKe3J-O62SQ96m8z3zbyFp3Upfu1p9lMUFwFanH5LpvBMdSfxQfXeZGh1mSeWuyIP2uWtxfS6Hu7fQaFetvVZEWCCoMBkpRBHCyGjxWR1zgMpm6KyBBaYUaNxbsvMRo9IgzMuiM8X6k83Qw:1u4mUv:5OL5p_Rr2hcC5H0sPSPzURftF9NEqehWpkt75rznENo",
+    "expire_date": "2025-04-29T20:03:09.371Z"
+  }
+},
+{
+  "model": "listings.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "agent_josh",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-04-15T11:26:24.105Z",
+    "name": "John Agent",
+    "role": "agent",
+    "phone": "9876543210",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "listings.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "agent_amira",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-04-15T11:26:24.120Z",
+    "name": "Amy Agent",
+    "role": "agent",
+    "phone": "9876543211",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "listings.user",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "agent_bibi",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-04-15T11:26:24.120Z",
+    "name": "Bob Agent",
+    "role": "agent",
+    "phone": "9876543212",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "listings.user",
+  "pk": 4,
+  "fields": {
+    "password": "pbkdf2",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "agent_lulu",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-04-15T11:26:24.120Z",
+    "name": "Lisa Agent",
+    "role": "agent",
+    "phone": "9876543213",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "listings.user",
+  "pk": 5,
+  "fields": {
+    "password": "pbkdf2",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "agent_misha",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-04-15T11:26:24.120Z",
+    "name": "Mike Agent",
+    "role": "agent",
+    "phone": "9876543214",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "listings.user",
+  "pk": 6,
+  "fields": {
+    "password": "pbkdf2",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "owner_rahul",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-04-15T11:26:24.120Z",
+    "name": "Sam Owner",
+    "role": "owner",
+    "phone": "9876543215",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "listings.user",
+  "pk": 7,
+  "fields": {
+    "password": "pbkdf2",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "owner_rani",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-04-15T11:26:24.120Z",
+    "name": "Rita Owner",
+    "role": "owner",
+    "phone": "9876543216",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "listings.user",
+  "pk": 8,
+  "fields": {
+    "password": "pbkdf2",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "buyer_apple",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-04-15T11:26:24.120Z",
+    "name": "Alex Buyer",
+    "role": "buyer",
+    "phone": "9876543217",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "listings.user",
+  "pk": 9,
+  "fields": {
+    "password": "pbkdf2",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "buyer_neha",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-04-15T11:26:24.120Z",
+    "name": "Nina Buyer",
+    "role": "buyer",
+    "phone": "9876543218",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "listings.user",
+  "pk": 10,
+  "fields": {
+    "password": "pbkdf2",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "buyer_raju",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-04-15T11:26:24.120Z",
+    "name": "Raj Buyer",
+    "role": "buyer",
+    "phone": "9876543219",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "listings.user",
+  "pk": 11,
+  "fields": {
+    "password": "pbkdf2",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "owner_sam",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-04-15T11:26:24.120Z",
+    "name": "Sam Owner",
+    "role": "owner",
+    "phone": "9876543230",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "listings.user",
+  "pk": 12,
+  "fields": {
+    "password": "pbkdf2",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "owner_rita",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-04-15T11:26:24.120Z",
+    "name": "Rita Owner",
+    "role": "owner",
+    "phone": "9876543231",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "listings.user",
+  "pk": 13,
+  "fields": {
+    "password": "pbkdf2",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "owner_anish",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-04-15T11:26:24.120Z",
+    "name": "Anish Owner",
+    "role": "owner",
+    "phone": "9876543232",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "listings.user",
+  "pk": 14,
+  "fields": {
+    "password": "pbkdf2",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "owner_nisha",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-04-15T11:26:24.120Z",
+    "name": "Nisha Owner",
+    "role": "owner",
+    "phone": "9876543233",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "listings.user",
+  "pk": 15,
+  "fields": {
+    "password": "pbkdf2",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "owner_mukesh",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-04-15T11:26:24.120Z",
+    "name": "Mukesh Owner",
+    "role": "owner",
+    "phone": "9876543234",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "listings.user",
+  "pk": 16,
+  "fields": {
+    "password": "pbkdf2",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "buyer_alex",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-04-15T11:26:24.120Z",
+    "name": "Alex Buyer",
+    "role": "owner",
+    "phone": "9876543240",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "listings.user",
+  "pk": 17,
+  "fields": {
+    "password": "pbkdf2",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "buyer_nina",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-04-15T11:26:24.136Z",
+    "name": "Nina Buyer",
+    "role": "owner",
+    "phone": "9876543241",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "listings.user",
+  "pk": 18,
+  "fields": {
+    "password": "pbkdf2",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "buyer_raj",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-04-15T11:26:24.136Z",
+    "name": "Raj Buyer",
+    "role": "owner",
+    "phone": "9876543242",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "listings.user",
+  "pk": 19,
+  "fields": {
+    "password": "pbkdf2",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "buyer_pooja",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-04-15T11:26:24.136Z",
+    "name": "Pooja Buyer",
+    "role": "owner",
+    "phone": "9876543243",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "listings.user",
+  "pk": 20,
+  "fields": {
+    "password": "pbkdf2",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "buyer_sahil",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-04-15T11:26:24.136Z",
+    "name": "Sahil Buyer",
+    "role": "owner",
+    "phone": "9876543244",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "listings.user",
+  "pk": 21,
+  "fields": {
+    "password": "pbkdf2",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "agent_john",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-04-15T11:26:24.136Z",
+    "name": "John Agent",
+    "role": "agent",
+    "phone": "9876543210",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "listings.user",
+  "pk": 22,
+  "fields": {
+    "password": "pbkdf2",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "agent_amy",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-04-15T11:26:24.136Z",
+    "name": "Amy Agent",
+    "role": "agent",
+    "phone": "9876543211",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "listings.user",
+  "pk": 23,
+  "fields": {
+    "password": "pbkdf2",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "agent_bob",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-04-15T11:26:24.136Z",
+    "name": "Bob Agent",
+    "role": "agent",
+    "phone": "9876543212",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "listings.user",
+  "pk": 24,
+  "fields": {
+    "password": "pbkdf2",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "agent_lisa",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-04-15T11:26:24.136Z",
+    "name": "Lisa Agent",
+    "role": "agent",
+    "phone": "9876543213",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "listings.user",
+  "pk": 25,
+  "fields": {
+    "password": "pbkdf2",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "agent_mike",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-04-15T11:26:24.136Z",
+    "name": "Mike Agent",
+    "role": "agent",
+    "phone": "9876543214",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "listings.user",
+  "pk": 26,
+  "fields": {
+    "password": "pbkdf2",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "agent_diana",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-04-15T11:26:24.136Z",
+    "name": "Diana Agent",
+    "role": "agent",
+    "phone": "9876543220",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "listings.user",
+  "pk": 27,
+  "fields": {
+    "password": "pbkdf2",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "agent_rohan",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-04-15T11:26:24.136Z",
+    "name": "Rohan Agent",
+    "role": "agent",
+    "phone": "9876543221",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "listings.user",
+  "pk": 28,
+  "fields": {
+    "password": "pbkdf2",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "agent_meera",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-04-15T11:26:24.136Z",
+    "name": "Meera Agent",
+    "role": "agent",
+    "phone": "9876543222",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "listings.user",
+  "pk": 29,
+  "fields": {
+    "password": "pbkdf2",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "agent_kunal",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-04-15T11:26:24.136Z",
+    "name": "Kunal Agent",
+    "role": "agent",
+    "phone": "9876543223",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "listings.user",
+  "pk": 30,
+  "fields": {
+    "password": "pbkdf2",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "agent_riya",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-04-15T11:26:24.136Z",
+    "name": "Riya Agent",
+    "role": "agent",
+    "phone": "9876543224",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "listings.user",
+  "pk": 31,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$AOKRIgTKIEFGxVGWYkOJcH$IjCjyCIvePNDjXSo5xfqB9gTv9v/Mp8On6RM7EZD2zw=",
+    "last_login": "2025-04-15T20:03:09.362Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "admin@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-04-15T13:32:40.439Z",
+    "name": "",
+    "role": "buyer",
+    "phone": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "listings.propertytype",
+  "pk": 1,
+  "fields": {
+    "name": "Apartment",
+    "description": "A self-contained housing unit in a building, typically on one floor.",
+    "icon": "fa-building"
+  }
+},
+{
+  "model": "listings.propertytype",
+  "pk": 2,
+  "fields": {
+    "name": "Office",
+    "description": "A commercial property used for business and workspaces.",
+    "icon": "fa-briefcase"
+  }
+},
+{
+  "model": "listings.propertytype",
+  "pk": 3,
+  "fields": {
+    "name": "Plot",
+    "description": "A piece of land available for construction or investment.",
+    "icon": "fa-map"
+  }
+},
+{
+  "model": "listings.propertytype",
+  "pk": 4,
+  "fields": {
+    "name": "Commercial",
+    "description": "A retail space or outlet meant for selling products or services.",
+    "icon": "fa-store"
+  }
+},
+{
+  "model": "listings.propertytype",
+  "pk": 5,
+  "fields": {
+    "name": "Villa",
+    "description": "A luxurious stand-alone house, usually larger and with a garden.",
+    "icon": "fa-house"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 1,
+  "fields": {
+    "address": "1 MG Road, Ahmedabad",
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "zip_code": "560001",
+    "country": "India",
+    "latitude": "12.912174",
+    "longitude": "78.143134"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 2,
+  "fields": {
+    "address": "2 MG Road, Ahmedabad",
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "zip_code": "560002",
+    "country": "India",
+    "latitude": "13.700328",
+    "longitude": "77.622136"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 3,
+  "fields": {
+    "address": "3 MG Road, Ahmedabad",
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "zip_code": "560003",
+    "country": "India",
+    "latitude": "13.507099",
+    "longitude": "77.592915"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 4,
+  "fields": {
+    "address": "4 MG Road, Ahmedabad",
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "zip_code": "560004",
+    "country": "India",
+    "latitude": "13.563736",
+    "longitude": "77.876410"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 5,
+  "fields": {
+    "address": "5 MG Road, Ahmedabad",
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "zip_code": "560005",
+    "country": "India",
+    "latitude": "13.236307",
+    "longitude": "77.949766"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 6,
+  "fields": {
+    "address": "6 MG Road, Ahmedabad",
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "zip_code": "560006",
+    "country": "India",
+    "latitude": "13.583359",
+    "longitude": "78.372568"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 7,
+  "fields": {
+    "address": "7 MG Road, Ahmedabad",
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "zip_code": "560007",
+    "country": "India",
+    "latitude": "13.295215",
+    "longitude": "77.712624"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 8,
+  "fields": {
+    "address": "8 MG Road, Ahmedabad",
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "zip_code": "560008",
+    "country": "India",
+    "latitude": "13.146130",
+    "longitude": "77.698944"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 9,
+  "fields": {
+    "address": "9 MG Road, Ahmedabad",
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "zip_code": "560009",
+    "country": "India",
+    "latitude": "13.021462",
+    "longitude": "77.518314"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 10,
+  "fields": {
+    "address": "10 MG Road, Ahmedabad",
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "zip_code": "560010",
+    "country": "India",
+    "latitude": "13.440568",
+    "longitude": "78.337630"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 11,
+  "fields": {
+    "address": "1 MG Road, Bangalore",
+    "state": "Karnataka",
+    "city": "Bangalore",
+    "zip_code": "560001",
+    "country": "India",
+    "latitude": "13.548147",
+    "longitude": "77.945747"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 12,
+  "fields": {
+    "address": "2 MG Road, Bangalore",
+    "state": "Karnataka",
+    "city": "Bangalore",
+    "zip_code": "560002",
+    "country": "India",
+    "latitude": "13.651193",
+    "longitude": "78.141719"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 13,
+  "fields": {
+    "address": "3 MG Road, Bangalore",
+    "state": "Karnataka",
+    "city": "Bangalore",
+    "zip_code": "560003",
+    "country": "India",
+    "latitude": "12.905349",
+    "longitude": "78.172512"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 14,
+  "fields": {
+    "address": "4 MG Road, Bangalore",
+    "state": "Karnataka",
+    "city": "Bangalore",
+    "zip_code": "560004",
+    "country": "India",
+    "latitude": "12.985533",
+    "longitude": "77.579568"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 15,
+  "fields": {
+    "address": "5 MG Road, Bangalore",
+    "state": "Karnataka",
+    "city": "Bangalore",
+    "zip_code": "560005",
+    "country": "India",
+    "latitude": "13.383203",
+    "longitude": "77.655241"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 16,
+  "fields": {
+    "address": "6 MG Road, Bangalore",
+    "state": "Karnataka",
+    "city": "Bangalore",
+    "zip_code": "560006",
+    "country": "India",
+    "latitude": "12.995047",
+    "longitude": "77.596879"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 17,
+  "fields": {
+    "address": "7 MG Road, Bangalore",
+    "state": "Karnataka",
+    "city": "Bangalore",
+    "zip_code": "560007",
+    "country": "India",
+    "latitude": "13.862607",
+    "longitude": "77.959812"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 18,
+  "fields": {
+    "address": "8 MG Road, Bangalore",
+    "state": "Karnataka",
+    "city": "Bangalore",
+    "zip_code": "560008",
+    "country": "India",
+    "latitude": "13.814607",
+    "longitude": "78.120792"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 19,
+  "fields": {
+    "address": "9 MG Road, Bangalore",
+    "state": "Karnataka",
+    "city": "Bangalore",
+    "zip_code": "560009",
+    "country": "India",
+    "latitude": "13.525911",
+    "longitude": "77.630644"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 20,
+  "fields": {
+    "address": "10 MG Road, Bangalore",
+    "state": "Karnataka",
+    "city": "Bangalore",
+    "zip_code": "560010",
+    "country": "India",
+    "latitude": "13.164595",
+    "longitude": "77.547783"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 21,
+  "fields": {
+    "address": "1 MG Road, Chennai",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "zip_code": "560001",
+    "country": "India",
+    "latitude": "12.942050",
+    "longitude": "78.004673"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 22,
+  "fields": {
+    "address": "2 MG Road, Chennai",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "zip_code": "560002",
+    "country": "India",
+    "latitude": "13.844271",
+    "longitude": "78.126286"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 23,
+  "fields": {
+    "address": "3 MG Road, Chennai",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "zip_code": "560003",
+    "country": "India",
+    "latitude": "13.712401",
+    "longitude": "77.960197"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 24,
+  "fields": {
+    "address": "4 MG Road, Chennai",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "zip_code": "560004",
+    "country": "India",
+    "latitude": "13.194066",
+    "longitude": "78.100049"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 25,
+  "fields": {
+    "address": "5 MG Road, Chennai",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "zip_code": "560005",
+    "country": "India",
+    "latitude": "13.449075",
+    "longitude": "77.845049"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 26,
+  "fields": {
+    "address": "6 MG Road, Chennai",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "zip_code": "560006",
+    "country": "India",
+    "latitude": "12.912105",
+    "longitude": "77.887124"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 27,
+  "fields": {
+    "address": "7 MG Road, Chennai",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "zip_code": "560007",
+    "country": "India",
+    "latitude": "13.421449",
+    "longitude": "77.949428"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 28,
+  "fields": {
+    "address": "8 MG Road, Chennai",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "zip_code": "560008",
+    "country": "India",
+    "latitude": "13.540652",
+    "longitude": "77.980466"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 29,
+  "fields": {
+    "address": "9 MG Road, Chennai",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "zip_code": "560009",
+    "country": "India",
+    "latitude": "13.579299",
+    "longitude": "78.125854"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 30,
+  "fields": {
+    "address": "10 MG Road, Chennai",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "zip_code": "560010",
+    "country": "India",
+    "latitude": "13.339608",
+    "longitude": "77.897865"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 31,
+  "fields": {
+    "address": "1 MG Road, Delhi",
+    "state": "State",
+    "city": "Delhi",
+    "zip_code": "560001",
+    "country": "India",
+    "latitude": "13.022128",
+    "longitude": "78.175396"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 32,
+  "fields": {
+    "address": "2 MG Road, Delhi",
+    "state": "State",
+    "city": "Delhi",
+    "zip_code": "560002",
+    "country": "India",
+    "latitude": "13.866389",
+    "longitude": "78.479315"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 33,
+  "fields": {
+    "address": "3 MG Road, Delhi",
+    "state": "State",
+    "city": "Delhi",
+    "zip_code": "560003",
+    "country": "India",
+    "latitude": "13.719315",
+    "longitude": "77.780462"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 34,
+  "fields": {
+    "address": "4 MG Road, Delhi",
+    "state": "State",
+    "city": "Delhi",
+    "zip_code": "560004",
+    "country": "India",
+    "latitude": "13.073940",
+    "longitude": "78.315819"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 35,
+  "fields": {
+    "address": "5 MG Road, Delhi",
+    "state": "State",
+    "city": "Delhi",
+    "zip_code": "560005",
+    "country": "India",
+    "latitude": "13.618590",
+    "longitude": "77.613040"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 36,
+  "fields": {
+    "address": "6 MG Road, Delhi",
+    "state": "State",
+    "city": "Delhi",
+    "zip_code": "560006",
+    "country": "India",
+    "latitude": "13.471711",
+    "longitude": "77.801768"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 37,
+  "fields": {
+    "address": "7 MG Road, Delhi",
+    "state": "State",
+    "city": "Delhi",
+    "zip_code": "560007",
+    "country": "India",
+    "latitude": "13.218064",
+    "longitude": "78.228603"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 38,
+  "fields": {
+    "address": "8 MG Road, Delhi",
+    "state": "State",
+    "city": "Delhi",
+    "zip_code": "560008",
+    "country": "India",
+    "latitude": "13.842950",
+    "longitude": "78.002675"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 39,
+  "fields": {
+    "address": "9 MG Road, Delhi",
+    "state": "State",
+    "city": "Delhi",
+    "zip_code": "560009",
+    "country": "India",
+    "latitude": "13.209497",
+    "longitude": "78.285274"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 40,
+  "fields": {
+    "address": "10 MG Road, Delhi",
+    "state": "State",
+    "city": "Delhi",
+    "zip_code": "560010",
+    "country": "India",
+    "latitude": "13.876608",
+    "longitude": "78.403635"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 41,
+  "fields": {
+    "address": "1 MG Road, Gurgaon",
+    "state": "Haryana",
+    "city": "Gurgaon",
+    "zip_code": "560001",
+    "country": "India",
+    "latitude": "13.461273",
+    "longitude": "78.400455"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 42,
+  "fields": {
+    "address": "2 MG Road, Gurgaon",
+    "state": "Haryana",
+    "city": "Gurgaon",
+    "zip_code": "560002",
+    "country": "India",
+    "latitude": "13.338578",
+    "longitude": "78.018036"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 43,
+  "fields": {
+    "address": "3 MG Road, Gurgaon",
+    "state": "Haryana",
+    "city": "Gurgaon",
+    "zip_code": "560003",
+    "country": "India",
+    "latitude": "13.683702",
+    "longitude": "77.635599"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 44,
+  "fields": {
+    "address": "4 MG Road, Gurgaon",
+    "state": "Haryana",
+    "city": "Gurgaon",
+    "zip_code": "560004",
+    "country": "India",
+    "latitude": "13.241991",
+    "longitude": "77.831851"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 45,
+  "fields": {
+    "address": "5 MG Road, Gurgaon",
+    "state": "Haryana",
+    "city": "Gurgaon",
+    "zip_code": "560005",
+    "country": "India",
+    "latitude": "13.491128",
+    "longitude": "78.333661"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 46,
+  "fields": {
+    "address": "6 MG Road, Gurgaon",
+    "state": "Haryana",
+    "city": "Gurgaon",
+    "zip_code": "560006",
+    "country": "India",
+    "latitude": "13.489284",
+    "longitude": "78.423991"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 47,
+  "fields": {
+    "address": "7 MG Road, Gurgaon",
+    "state": "Haryana",
+    "city": "Gurgaon",
+    "zip_code": "560007",
+    "country": "India",
+    "latitude": "13.099767",
+    "longitude": "77.738792"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 48,
+  "fields": {
+    "address": "8 MG Road, Gurgaon",
+    "state": "Haryana",
+    "city": "Gurgaon",
+    "zip_code": "560008",
+    "country": "India",
+    "latitude": "13.432324",
+    "longitude": "77.521569"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 49,
+  "fields": {
+    "address": "9 MG Road, Gurgaon",
+    "state": "Haryana",
+    "city": "Gurgaon",
+    "zip_code": "560009",
+    "country": "India",
+    "latitude": "13.351344",
+    "longitude": "78.241638"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 50,
+  "fields": {
+    "address": "10 MG Road, Gurgaon",
+    "state": "Haryana",
+    "city": "Gurgaon",
+    "zip_code": "560010",
+    "country": "India",
+    "latitude": "13.454235",
+    "longitude": "77.830431"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 51,
+  "fields": {
+    "address": "1 MG Road, Hyderabad",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "zip_code": "560001",
+    "country": "India",
+    "latitude": "13.206676",
+    "longitude": "77.589150"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 52,
+  "fields": {
+    "address": "2 MG Road, Hyderabad",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "zip_code": "560002",
+    "country": "India",
+    "latitude": "13.486445",
+    "longitude": "78.003494"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 53,
+  "fields": {
+    "address": "3 MG Road, Hyderabad",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "zip_code": "560003",
+    "country": "India",
+    "latitude": "13.089866",
+    "longitude": "78.002331"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 54,
+  "fields": {
+    "address": "4 MG Road, Hyderabad",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "zip_code": "560004",
+    "country": "India",
+    "latitude": "13.801576",
+    "longitude": "77.976274"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 55,
+  "fields": {
+    "address": "5 MG Road, Hyderabad",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "zip_code": "560005",
+    "country": "India",
+    "latitude": "13.305454",
+    "longitude": "78.168183"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 56,
+  "fields": {
+    "address": "6 MG Road, Hyderabad",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "zip_code": "560006",
+    "country": "India",
+    "latitude": "13.606849",
+    "longitude": "78.274911"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 57,
+  "fields": {
+    "address": "7 MG Road, Hyderabad",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "zip_code": "560007",
+    "country": "India",
+    "latitude": "13.727393",
+    "longitude": "77.933501"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 58,
+  "fields": {
+    "address": "8 MG Road, Hyderabad",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "zip_code": "560008",
+    "country": "India",
+    "latitude": "13.254137",
+    "longitude": "77.641649"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 59,
+  "fields": {
+    "address": "9 MG Road, Hyderabad",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "zip_code": "560009",
+    "country": "India",
+    "latitude": "13.712681",
+    "longitude": "77.556184"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 60,
+  "fields": {
+    "address": "10 MG Road, Hyderabad",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "zip_code": "560010",
+    "country": "India",
+    "latitude": "13.757839",
+    "longitude": "78.309024"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 61,
+  "fields": {
+    "address": "1 MG Road, Kolkata",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "zip_code": "560001",
+    "country": "India",
+    "latitude": "13.274221",
+    "longitude": "78.482067"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 62,
+  "fields": {
+    "address": "2 MG Road, Kolkata",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "zip_code": "560002",
+    "country": "India",
+    "latitude": "13.480266",
+    "longitude": "77.792729"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 63,
+  "fields": {
+    "address": "3 MG Road, Kolkata",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "zip_code": "560003",
+    "country": "India",
+    "latitude": "13.121749",
+    "longitude": "77.776483"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 64,
+  "fields": {
+    "address": "4 MG Road, Kolkata",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "zip_code": "560004",
+    "country": "India",
+    "latitude": "12.959965",
+    "longitude": "77.991296"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 65,
+  "fields": {
+    "address": "5 MG Road, Kolkata",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "zip_code": "560005",
+    "country": "India",
+    "latitude": "13.078116",
+    "longitude": "78.292330"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 66,
+  "fields": {
+    "address": "6 MG Road, Kolkata",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "zip_code": "560006",
+    "country": "India",
+    "latitude": "13.698754",
+    "longitude": "78.329253"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 67,
+  "fields": {
+    "address": "7 MG Road, Kolkata",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "zip_code": "560007",
+    "country": "India",
+    "latitude": "13.466735",
+    "longitude": "77.576149"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 68,
+  "fields": {
+    "address": "8 MG Road, Kolkata",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "zip_code": "560008",
+    "country": "India",
+    "latitude": "13.116253",
+    "longitude": "77.799204"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 69,
+  "fields": {
+    "address": "9 MG Road, Kolkata",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "zip_code": "560009",
+    "country": "India",
+    "latitude": "13.621603",
+    "longitude": "77.695342"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 70,
+  "fields": {
+    "address": "10 MG Road, Kolkata",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "zip_code": "560010",
+    "country": "India",
+    "latitude": "13.614481",
+    "longitude": "77.824211"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 71,
+  "fields": {
+    "address": "1 MG Road, Mumbai",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "zip_code": "560001",
+    "country": "India",
+    "latitude": "13.410025",
+    "longitude": "77.886146"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 72,
+  "fields": {
+    "address": "2 MG Road, Mumbai",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "zip_code": "560002",
+    "country": "India",
+    "latitude": "13.289731",
+    "longitude": "78.092510"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 73,
+  "fields": {
+    "address": "3 MG Road, Mumbai",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "zip_code": "560003",
+    "country": "India",
+    "latitude": "13.899290",
+    "longitude": "77.757196"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 74,
+  "fields": {
+    "address": "4 MG Road, Mumbai",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "zip_code": "560004",
+    "country": "India",
+    "latitude": "13.747730",
+    "longitude": "77.516913"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 75,
+  "fields": {
+    "address": "5 MG Road, Mumbai",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "zip_code": "560005",
+    "country": "India",
+    "latitude": "13.518756",
+    "longitude": "77.997318"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 76,
+  "fields": {
+    "address": "6 MG Road, Mumbai",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "zip_code": "560006",
+    "country": "India",
+    "latitude": "13.779775",
+    "longitude": "78.008331"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 77,
+  "fields": {
+    "address": "7 MG Road, Mumbai",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "zip_code": "560007",
+    "country": "India",
+    "latitude": "13.498256",
+    "longitude": "78.245813"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 78,
+  "fields": {
+    "address": "8 MG Road, Mumbai",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "zip_code": "560008",
+    "country": "India",
+    "latitude": "12.962225",
+    "longitude": "77.738426"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 79,
+  "fields": {
+    "address": "9 MG Road, Mumbai",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "zip_code": "560009",
+    "country": "India",
+    "latitude": "13.279603",
+    "longitude": "78.351209"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 80,
+  "fields": {
+    "address": "10 MG Road, Mumbai",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "zip_code": "560010",
+    "country": "India",
+    "latitude": "13.096828",
+    "longitude": "78.029438"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 81,
+  "fields": {
+    "address": "1 MG Road, Noida",
+    "state": "Uttar Pradesh",
+    "city": "Noida",
+    "zip_code": "560001",
+    "country": "India",
+    "latitude": "13.263850",
+    "longitude": "78.289798"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 82,
+  "fields": {
+    "address": "2 MG Road, Noida",
+    "state": "Uttar Pradesh",
+    "city": "Noida",
+    "zip_code": "560002",
+    "country": "India",
+    "latitude": "13.413588",
+    "longitude": "77.852871"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 83,
+  "fields": {
+    "address": "3 MG Road, Noida",
+    "state": "Uttar Pradesh",
+    "city": "Noida",
+    "zip_code": "560003",
+    "country": "India",
+    "latitude": "13.703105",
+    "longitude": "78.063652"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 84,
+  "fields": {
+    "address": "4 MG Road, Noida",
+    "state": "Uttar Pradesh",
+    "city": "Noida",
+    "zip_code": "560004",
+    "country": "India",
+    "latitude": "13.468175",
+    "longitude": "77.521357"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 85,
+  "fields": {
+    "address": "5 MG Road, Noida",
+    "state": "Uttar Pradesh",
+    "city": "Noida",
+    "zip_code": "560005",
+    "country": "India",
+    "latitude": "13.483693",
+    "longitude": "77.843038"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 86,
+  "fields": {
+    "address": "6 MG Road, Noida",
+    "state": "Uttar Pradesh",
+    "city": "Noida",
+    "zip_code": "560006",
+    "country": "India",
+    "latitude": "13.249973",
+    "longitude": "78.261255"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 87,
+  "fields": {
+    "address": "7 MG Road, Noida",
+    "state": "Uttar Pradesh",
+    "city": "Noida",
+    "zip_code": "560007",
+    "country": "India",
+    "latitude": "13.687702",
+    "longitude": "78.488814"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 88,
+  "fields": {
+    "address": "8 MG Road, Noida",
+    "state": "Uttar Pradesh",
+    "city": "Noida",
+    "zip_code": "560008",
+    "country": "India",
+    "latitude": "13.580676",
+    "longitude": "77.502055"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 89,
+  "fields": {
+    "address": "9 MG Road, Noida",
+    "state": "Uttar Pradesh",
+    "city": "Noida",
+    "zip_code": "560009",
+    "country": "India",
+    "latitude": "12.975597",
+    "longitude": "77.801994"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 90,
+  "fields": {
+    "address": "10 MG Road, Noida",
+    "state": "Uttar Pradesh",
+    "city": "Noida",
+    "zip_code": "560010",
+    "country": "India",
+    "latitude": "13.358353",
+    "longitude": "77.515659"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 91,
+  "fields": {
+    "address": "1 MG Road, Pune",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "zip_code": "560001",
+    "country": "India",
+    "latitude": "12.931985",
+    "longitude": "78.052684"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 92,
+  "fields": {
+    "address": "2 MG Road, Pune",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "zip_code": "560002",
+    "country": "India",
+    "latitude": "13.504315",
+    "longitude": "78.110473"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 93,
+  "fields": {
+    "address": "3 MG Road, Pune",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "zip_code": "560003",
+    "country": "India",
+    "latitude": "12.971199",
+    "longitude": "78.230941"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 94,
+  "fields": {
+    "address": "4 MG Road, Pune",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "zip_code": "560004",
+    "country": "India",
+    "latitude": "13.851693",
+    "longitude": "77.746486"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 95,
+  "fields": {
+    "address": "5 MG Road, Pune",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "zip_code": "560005",
+    "country": "India",
+    "latitude": "12.996195",
+    "longitude": "77.533418"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 96,
+  "fields": {
+    "address": "6 MG Road, Pune",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "zip_code": "560006",
+    "country": "India",
+    "latitude": "13.472924",
+    "longitude": "77.843590"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 97,
+  "fields": {
+    "address": "7 MG Road, Pune",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "zip_code": "560007",
+    "country": "India",
+    "latitude": "13.449604",
+    "longitude": "77.658608"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 98,
+  "fields": {
+    "address": "8 MG Road, Pune",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "zip_code": "560008",
+    "country": "India",
+    "latitude": "13.614995",
+    "longitude": "78.467604"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 99,
+  "fields": {
+    "address": "9 MG Road, Pune",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "zip_code": "560009",
+    "country": "India",
+    "latitude": "13.513245",
+    "longitude": "77.504172"
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 100,
+  "fields": {
+    "address": "10 MG Road, Pune",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "zip_code": "560010",
+    "country": "India",
+    "latitude": "13.057261",
+    "longitude": "77.710655"
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 1,
+  "fields": {
+    "title": "4BHK in Ahmedabad",
+    "slug": "4bhk-in-ahmedabad2",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 1,
+    "owner": 6,
+    "status": "sold",
+    "price": "4653706.00",
+    "bedrooms": 4,
+    "bathrooms": "1.0",
+    "square_feet": 2288,
+    "lot_size": "1200.00",
+    "year_built": 2010,
+    "location": 1,
+    "agent": 1,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T14:51:48.387Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19_sZ4Wnu1.59.44_2.jpeg",
+    "purpose": "sale",
+    "furnishing": "semi-furnished",
+    "floor": 4,
+    "total_floors": 10,
+    "facing": "east",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 2,
+  "fields": {
+    "title": "Land Parcel – Prime Connectivity & Future Appreciation",
+    "slug": "land-parcel-prime-connectivity-future-appreciation",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 3,
+    "owner": 7,
+    "status": "for_sale",
+    "price": "8942768.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 1718,
+    "lot_size": "2254.00",
+    "year_built": 2016,
+    "location": 2,
+    "agent": 2,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T15:14:15.564Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_20.07.20.jpeg",
+    "purpose": "sale",
+    "furnishing": "unfurnished",
+    "floor": 2,
+    "total_floors": 10,
+    "facing": "west",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 3,
+  "fields": {
+    "title": "2BHK in Ahmedabad",
+    "slug": "2bhk-in-ahmedabad3",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 1,
+    "owner": 11,
+    "status": "rented",
+    "price": "18028858.00",
+    "bedrooms": 3,
+    "bathrooms": "1.0",
+    "square_feet": 1201,
+    "lot_size": "2821.00",
+    "year_built": 2013,
+    "location": 3,
+    "agent": 3,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T14:51:24.727Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19_O4R8ywZ.59.42.jpeg",
+    "purpose": "rent",
+    "furnishing": "unfurnished",
+    "floor": 5,
+    "total_floors": 10,
+    "facing": "west",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 4,
+  "fields": {
+    "title": "The Ultimate Business Address – Inquire Today",
+    "slug": "the-ultimate-business-address-inquire-today",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 4,
+    "owner": 12,
+    "status": "rented",
+    "price": "8021804.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 1277,
+    "lot_size": "2895.00",
+    "year_built": 2010,
+    "location": 4,
+    "agent": 4,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:58:55.749Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19_v6AZF3W.54.49.jpeg",
+    "purpose": "rent",
+    "furnishing": "unfurnished",
+    "floor": 5,
+    "total_floors": 10,
+    "facing": "south",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 5,
+  "fields": {
+    "title": "2BHK in Ahmedabad",
+    "slug": "2bhk-in-ahmedabad2",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 1,
+    "owner": 13,
+    "status": "rented",
+    "price": "18279415.00",
+    "bedrooms": 3,
+    "bathrooms": "3.0",
+    "square_feet": 2258,
+    "lot_size": "1978.00",
+    "year_built": 2004,
+    "location": 5,
+    "agent": 5,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T14:51:05.019Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19_VTDjxtr.59.42_1.jpeg",
+    "purpose": "rent",
+    "furnishing": "furnished",
+    "floor": 6,
+    "total_floors": 10,
+    "facing": "north",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 6,
+  "fields": {
+    "title": "4BHK in Ahmedabad",
+    "slug": "4bhk-in-ahmedabad",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 1,
+    "owner": 14,
+    "status": "sold",
+    "price": "10905163.00",
+    "bedrooms": 4,
+    "bathrooms": "3.0",
+    "square_feet": 2326,
+    "lot_size": "1809.00",
+    "year_built": 2011,
+    "location": 6,
+    "agent": 21,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T14:50:52.791Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19.59.45.jpeg",
+    "purpose": "sale",
+    "furnishing": "semi-furnished",
+    "floor": 5,
+    "total_floors": 10,
+    "facing": "east",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 8,
+  "fields": {
+    "title": "Corporate Address in Premium Business Hub",
+    "slug": "corporate-address-in-premium-business-hub",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 2,
+    "owner": 16,
+    "status": "rented",
+    "price": "11246726.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 2229,
+    "lot_size": "2552.00",
+    "year_built": 2011,
+    "location": 8,
+    "agent": 23,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:52:53.285Z",
+    "main_image": "property_images/17.jpg",
+    "purpose": "rent",
+    "furnishing": "furnished",
+    "floor": 1,
+    "total_floors": 10,
+    "facing": "west",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 9,
+  "fields": {
+    "title": "Premium Commercial Property – Ideal for Long-Term Assets",
+    "slug": "premium-commercial-property-ideal-for-long-term-assets",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 3,
+    "owner": 17,
+    "status": "for_sale",
+    "price": "4563324.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 1393,
+    "lot_size": "1769.00",
+    "year_built": 2017,
+    "location": 9,
+    "agent": 24,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T15:13:45.912Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_20.07.19.jpeg",
+    "purpose": "sale",
+    "furnishing": "unfurnished",
+    "floor": 6,
+    "total_floors": 10,
+    "facing": "south",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 10,
+  "fields": {
+    "title": "A-Grade Property – Limited Availability",
+    "slug": "a-grade-property-limited-availability",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 4,
+    "owner": 18,
+    "status": "sold",
+    "price": "13494197.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 1204,
+    "lot_size": "1655.00",
+    "year_built": 2011,
+    "location": 10,
+    "agent": 25,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:58:42.937Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19_Hlkiod9.54.50_1.jpeg",
+    "purpose": "sale",
+    "furnishing": "semi-furnished",
+    "floor": 9,
+    "total_floors": 10,
+    "facing": "east",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 11,
+  "fields": {
+    "title": "Exclusive Opportunity – Land Near Upcoming [Metro/Airport]",
+    "slug": "exclusive-opportunity-land-near-upcoming-metroairport",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 3,
+    "owner": 19,
+    "status": "for_sale",
+    "price": "15538665.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 1864,
+    "lot_size": "1052.00",
+    "year_built": 2017,
+    "location": 11,
+    "agent": 26,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T15:13:19.997Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_20.07.19_3.jpeg",
+    "purpose": "sale",
+    "furnishing": "unfurnished",
+    "floor": 4,
+    "total_floors": 10,
+    "facing": "north",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 12,
+  "fields": {
+    "title": "2BHK in Bangalore",
+    "slug": "2bhk-in-bangalore2",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 1,
+    "owner": 20,
+    "status": "for_rent",
+    "price": "16469119.00",
+    "bedrooms": 2,
+    "bathrooms": "1.0",
+    "square_feet": 1726,
+    "lot_size": "1821.00",
+    "year_built": 2004,
+    "location": 12,
+    "agent": 27,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T14:50:41.026Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19.59.45_2.jpeg",
+    "purpose": "rent",
+    "furnishing": "semi-furnished",
+    "floor": 2,
+    "total_floors": 10,
+    "facing": "west",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 13,
+  "fields": {
+    "title": "One-of-a-Kind Villa – Limited Opportunity",
+    "slug": "one-of-a-kind-villa-limited-opportunity",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 5,
+    "owner": 6,
+    "status": "rented",
+    "price": "15450148.00",
+    "bedrooms": 2,
+    "bathrooms": "2.0",
+    "square_feet": 2208,
+    "lot_size": "2238.00",
+    "year_built": 2017,
+    "location": 13,
+    "agent": 28,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:17:04.571Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_20.01.42.jpeg",
+    "purpose": "rent",
+    "furnishing": "unfurnished",
+    "floor": 7,
+    "total_floors": 10,
+    "facing": "south",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 14,
+  "fields": {
+    "title": "Dream Villa Awaits – Serenity Meets Luxury",
+    "slug": "dream-villa-awaits-serenity-meets-luxury",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 5,
+    "owner": 7,
+    "status": "sold",
+    "price": "10711905.00",
+    "bedrooms": 5,
+    "bathrooms": "1.0",
+    "square_feet": 2057,
+    "lot_size": "2867.00",
+    "year_built": 2019,
+    "location": 14,
+    "agent": 29,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:16:39.643Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_20_LDUlKpG.01.41.jpeg",
+    "purpose": "sale",
+    "furnishing": "furnished",
+    "floor": 1,
+    "total_floors": 10,
+    "facing": "north",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 15,
+  "fields": {
+    "title": "Limited-Release Plots – Last Few Remaining!",
+    "slug": "limited-release-plots-last-few-remaining",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 3,
+    "owner": 11,
+    "status": "for_rent",
+    "price": "2135974.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 1433,
+    "lot_size": "2279.00",
+    "year_built": 2022,
+    "location": 15,
+    "agent": 30,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T15:12:52.795Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_20.07.19_2.jpeg",
+    "purpose": "rent",
+    "furnishing": "unfurnished",
+    "floor": 10,
+    "total_floors": 10,
+    "facing": "west",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 16,
+  "fields": {
+    "title": "Unmatched Exposure – Ideal for Branding",
+    "slug": "unmatched-exposure-ideal-for-branding",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 4,
+    "owner": 12,
+    "status": "for_rent",
+    "price": "13874933.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 2313,
+    "lot_size": "1510.00",
+    "year_built": 2007,
+    "location": 16,
+    "agent": 1,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:58:32.199Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19.54.50.jpeg",
+    "purpose": "rent",
+    "furnishing": "furnished",
+    "floor": 6,
+    "total_floors": 10,
+    "facing": "north",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 17,
+  "fields": {
+    "title": "Your Forever Home – Impeccably Crafted Villa",
+    "slug": "your-forever-home-impeccably-crafted-villa",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 5,
+    "owner": 13,
+    "status": "rented",
+    "price": "3135389.00",
+    "bedrooms": 3,
+    "bathrooms": "2.0",
+    "square_feet": 1263,
+    "lot_size": "1340.00",
+    "year_built": 2011,
+    "location": 17,
+    "agent": 2,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:22:52.680Z",
+    "main_image": "property_images/1_5Ql87mh.jpg",
+    "purpose": "rent",
+    "furnishing": "furnished",
+    "floor": 3,
+    "total_floors": 10,
+    "facing": "east",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 18,
+  "fields": {
+    "title": "4BHK in Bangalore",
+    "slug": "4bhk-in-bangalore",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 1,
+    "owner": 14,
+    "status": "for_rent",
+    "price": "3091560.00",
+    "bedrooms": 3,
+    "bathrooms": "1.0",
+    "square_feet": 2312,
+    "lot_size": "1757.00",
+    "year_built": 2016,
+    "location": 18,
+    "agent": 3,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T14:50:29.267Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19.59.45_1.jpeg",
+    "purpose": "rent",
+    "furnishing": "unfurnished",
+    "floor": 3,
+    "total_floors": 10,
+    "facing": "east",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 19,
+  "fields": {
+    "title": "Commercial Land with 24/7 Security – Gated Community",
+    "slug": "commercial-land-with-247-security-gated-community",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 3,
+    "owner": 15,
+    "status": "rented",
+    "price": "14590236.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 1777,
+    "lot_size": "1345.00",
+    "year_built": 2022,
+    "location": 19,
+    "agent": 4,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T15:12:20.257Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_20.07.19_1.jpeg",
+    "purpose": "rent",
+    "furnishing": "furnished",
+    "floor": 6,
+    "total_floors": 10,
+    "facing": "south",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 20,
+  "fields": {
+    "title": "Productivity-Designed Workspace - Book a Tour Today",
+    "slug": "productivity-designed-workspace-book-a-tour-today",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 2,
+    "owner": 16,
+    "status": "rented",
+    "price": "10892136.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 2405,
+    "lot_size": "1026.00",
+    "year_built": 2021,
+    "location": 20,
+    "agent": 5,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:38:00.430Z",
+    "main_image": "property_images/16.jpg",
+    "purpose": "rent",
+    "furnishing": "semi-furnished",
+    "floor": 7,
+    "total_floors": 10,
+    "facing": "west",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 21,
+  "fields": {
+    "title": "Villa with Income Potential – Dual-Living Design",
+    "slug": "villa-with-income-potential-dual-living-design",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 5,
+    "owner": 17,
+    "status": "for_rent",
+    "price": "14711410.00",
+    "bedrooms": 5,
+    "bathrooms": "1.0",
+    "square_feet": 2092,
+    "lot_size": "2836.00",
+    "year_built": 2005,
+    "location": 21,
+    "agent": 21,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:15:22.205Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_20.01.41_1.jpeg",
+    "purpose": "rent",
+    "furnishing": "furnished",
+    "floor": 2,
+    "total_floors": 10,
+    "facing": "south",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 22,
+  "fields": {
+    "title": "Your Dream Office Awaits - Move-in Ready!",
+    "slug": "your-dream-office-awaits-move-in-ready",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 2,
+    "owner": 18,
+    "status": "for_rent",
+    "price": "14129746.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 804,
+    "lot_size": "1522.00",
+    "year_built": 2004,
+    "location": 22,
+    "agent": 22,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:37:49.559Z",
+    "main_image": "property_images/15.jpg",
+    "purpose": "rent",
+    "furnishing": "semi-furnished",
+    "floor": 5,
+    "total_floors": 10,
+    "facing": "east",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 23,
+  "fields": {
+    "title": "Serviced Office | Plug-and-Play | High-Speed Internet",
+    "slug": "serviced-office-plug-and-play-high-speed-internet",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 2,
+    "owner": 19,
+    "status": "for_rent",
+    "price": "9661512.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 2317,
+    "lot_size": "1440.00",
+    "year_built": 2022,
+    "location": 23,
+    "agent": 23,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:37:38.561Z",
+    "main_image": "property_images/14.jpg",
+    "purpose": "rent",
+    "furnishing": "semi-furnished",
+    "floor": 4,
+    "total_floors": 10,
+    "facing": "west",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 24,
+  "fields": {
+    "title": "Eco-Conscious Space – Energy-Efficient Design",
+    "slug": "eco-conscious-space-energy-efficient-design",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 4,
+    "owner": 20,
+    "status": "for_sale",
+    "price": "5476226.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 2353,
+    "lot_size": "1737.00",
+    "year_built": 2012,
+    "location": 24,
+    "agent": 24,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:58:21.097Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19.54.52.jpeg",
+    "purpose": "sale",
+    "furnishing": "semi-furnished",
+    "floor": 3,
+    "total_floors": 10,
+    "facing": "south",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 25,
+  "fields": {
+    "title": "Best Office Property in [Business District] - Parking Included",
+    "slug": "best-office-property-in-business-district-parking-included",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 2,
+    "owner": 6,
+    "status": "for_sale",
+    "price": "13188333.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 1192,
+    "lot_size": "1250.00",
+    "year_built": 2011,
+    "location": 25,
+    "agent": 25,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:37:15.161Z",
+    "main_image": "property_images/13.jpg",
+    "purpose": "sale",
+    "furnishing": "furnished",
+    "floor": 1,
+    "total_floors": 10,
+    "facing": "south",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 26,
+  "fields": {
+    "title": "Commercial Office Space for Sale in Chennai",
+    "slug": "commercial-office-space-for-sale-in-chennai",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 2,
+    "owner": 7,
+    "status": "for_sale",
+    "price": "8858703.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 845,
+    "lot_size": "2657.00",
+    "year_built": 2006,
+    "location": 26,
+    "agent": 26,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:37:05.384Z",
+    "main_image": "property_images/12.jpg",
+    "purpose": "sale",
+    "furnishing": "furnished",
+    "floor": 8,
+    "total_floors": 10,
+    "facing": "east",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 27,
+  "fields": {
+    "title": "Rare Heritage Villa – Timeless Architecture",
+    "slug": "rare-heritage-villa-timeless-architecture",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 5,
+    "owner": 11,
+    "status": "for_sale",
+    "price": "3602221.00",
+    "bedrooms": 2,
+    "bathrooms": "3.0",
+    "square_feet": 2122,
+    "lot_size": "2743.00",
+    "year_built": 2001,
+    "location": 27,
+    "agent": 27,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:14:14.236Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_20.01.40.jpeg",
+    "purpose": "sale",
+    "furnishing": "semi-furnished",
+    "floor": 8,
+    "total_floors": 10,
+    "facing": "north",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 28,
+  "fields": {
+    "title": "Budget-Friendly Office Space - Prime Location",
+    "slug": "budget-friendly-office-space-prime-location",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 2,
+    "owner": 12,
+    "status": "sold",
+    "price": "10380759.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 1009,
+    "lot_size": "1646.00",
+    "year_built": 2006,
+    "location": 28,
+    "agent": 28,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:36:52.657Z",
+    "main_image": "property_images/11.jpg",
+    "purpose": "sale",
+    "furnishing": "unfurnished",
+    "floor": 2,
+    "total_floors": 10,
+    "facing": "east",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 29,
+  "fields": {
+    "title": "2BHK in Chennai",
+    "slug": "2bhk-in-chennai2",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 1,
+    "owner": 13,
+    "status": "for_rent",
+    "price": "14892238.00",
+    "bedrooms": 4,
+    "bathrooms": "1.0",
+    "square_feet": 1838,
+    "lot_size": "1327.00",
+    "year_built": 2012,
+    "location": 29,
+    "agent": 29,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T14:50:17.723Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19.59.44_2.jpeg",
+    "purpose": "rent",
+    "furnishing": "unfurnished",
+    "floor": 10,
+    "total_floors": 10,
+    "facing": "west",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 30,
+  "fields": {
+    "title": "2BHK in Chennai",
+    "slug": "2bhk-in-chennai",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 1,
+    "owner": 14,
+    "status": "sold",
+    "price": "9465673.00",
+    "bedrooms": 3,
+    "bathrooms": "2.0",
+    "square_feet": 1942,
+    "lot_size": "1012.00",
+    "year_built": 2010,
+    "location": 30,
+    "agent": 30,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T14:50:03.822Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19.59.44_1.jpeg",
+    "purpose": "sale",
+    "furnishing": "unfurnished",
+    "floor": 2,
+    "total_floors": 10,
+    "facing": "south",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 31,
+  "fields": {
+    "title": "Turnkey Villa – Fully Furnished & Move-in Ready",
+    "slug": "turnkey-villa-fully-furnished-move-in-ready",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 5,
+    "owner": 15,
+    "status": "for_sale",
+    "price": "10460999.00",
+    "bedrooms": 3,
+    "bathrooms": "1.0",
+    "square_feet": 1644,
+    "lot_size": "2026.00",
+    "year_built": 2005,
+    "location": 31,
+    "agent": 1,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:13:37.103Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_20.01.40_1.jpeg",
+    "purpose": "sale",
+    "furnishing": "furnished",
+    "floor": 3,
+    "total_floors": 10,
+    "facing": "west",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 32,
+  "fields": {
+    "title": "Fully Serviced Plot – Utilities & Road Access Ready",
+    "slug": "fully-serviced-plot-utilities-road-access-ready",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 3,
+    "owner": 16,
+    "status": "for_sale",
+    "price": "4575274.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 936,
+    "lot_size": "1409.00",
+    "year_built": 2011,
+    "location": 32,
+    "agent": 2,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T15:11:45.247Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_20.07.18.jpeg",
+    "purpose": "sale",
+    "furnishing": "furnished",
+    "floor": 8,
+    "total_floors": 10,
+    "facing": "east",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 33,
+  "fields": {
+    "title": "Smart Property – Fiber Optic & Advanced Infrastructure",
+    "slug": "smart-property-fiber-optic-advanced-infrastructure",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 4,
+    "owner": 17,
+    "status": "rented",
+    "price": "7044110.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 1313,
+    "lot_size": "2933.00",
+    "year_built": 2007,
+    "location": 33,
+    "agent": 3,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:58:08.442Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19.54.53_1.jpeg",
+    "purpose": "rent",
+    "furnishing": "unfurnished",
+    "floor": 1,
+    "total_floors": 10,
+    "facing": "south",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 34,
+  "fields": {
+    "title": "3BHK in Delhi",
+    "slug": "3bhk-in-delhi",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 1,
+    "owner": 18,
+    "status": "for_sale",
+    "price": "18956370.00",
+    "bedrooms": 2,
+    "bathrooms": "1.0",
+    "square_feet": 1733,
+    "lot_size": "2591.00",
+    "year_built": 2014,
+    "location": 34,
+    "agent": 4,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T14:49:48.107Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19.59.43.jpeg",
+    "purpose": "sale",
+    "furnishing": "semi-furnished",
+    "floor": 8,
+    "total_floors": 10,
+    "facing": "east",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 35,
+  "fields": {
+    "title": "Compact Commercial Land – Perfect for Startup Ventures",
+    "slug": "compact-commercial-land-perfect-for-startup-ventures",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 3,
+    "owner": 19,
+    "status": "for_sale",
+    "price": "3506988.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 984,
+    "lot_size": "1587.00",
+    "year_built": 2005,
+    "location": 35,
+    "agent": 5,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T15:11:17.102Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_20.07.17.jpeg",
+    "purpose": "sale",
+    "furnishing": "unfurnished",
+    "floor": 8,
+    "total_floors": 10,
+    "facing": "south",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 36,
+  "fields": {
+    "title": "2BHK in Delhi",
+    "slug": "2bhk-in-delhi3",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 1,
+    "owner": 20,
+    "status": "rented",
+    "price": "3778013.00",
+    "bedrooms": 2,
+    "bathrooms": "1.0",
+    "square_feet": 1959,
+    "lot_size": "1432.00",
+    "year_built": 2003,
+    "location": 36,
+    "agent": 21,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T14:49:36.739Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19.59.43_1.jpeg",
+    "purpose": "rent",
+    "furnishing": "unfurnished",
+    "floor": 1,
+    "total_floors": 10,
+    "facing": "north",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 37,
+  "fields": {
+    "title": "2BHK in Delhi",
+    "slug": "2bhk-in-delhi2",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 1,
+    "owner": 6,
+    "status": "rented",
+    "price": "9574292.00",
+    "bedrooms": 4,
+    "bathrooms": "1.0",
+    "square_feet": 2396,
+    "lot_size": "2180.00",
+    "year_built": 2002,
+    "location": 37,
+    "agent": 22,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T14:49:21.319Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19.59.42.jpeg",
+    "purpose": "rent",
+    "furnishing": "semi-furnished",
+    "floor": 9,
+    "total_floors": 10,
+    "facing": "east",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 38,
+  "fields": {
+    "title": "Sprawling [Acres/Sq.Yd] Plot – Subdividable Options",
+    "slug": "sprawling-acressqyd-plot-subdividable-options",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 3,
+    "owner": 7,
+    "status": "for_rent",
+    "price": "6673627.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 2433,
+    "lot_size": "2504.00",
+    "year_built": 2009,
+    "location": 38,
+    "agent": 23,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T15:10:27.156Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_20.07.17_2.jpeg",
+    "purpose": "rent",
+    "furnishing": "semi-furnished",
+    "floor": 2,
+    "total_floors": 10,
+    "facing": "west",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 39,
+  "fields": {
+    "title": "Compact Office Cabin - Ideal for Startups",
+    "slug": "compact-office-cabin-ideal-for-startups",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 2,
+    "owner": 11,
+    "status": "for_sale",
+    "price": "17311606.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 2485,
+    "lot_size": "1831.00",
+    "year_built": 2011,
+    "location": 39,
+    "agent": 24,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:36:41.898Z",
+    "main_image": "property_images/10.jpg",
+    "purpose": "sale",
+    "furnishing": "furnished",
+    "floor": 10,
+    "total_floors": 10,
+    "facing": "south",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 40,
+  "fields": {
+    "title": "2BHK in Delhi",
+    "slug": "2bhk-in-delhi",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 1,
+    "owner": 12,
+    "status": "for_rent",
+    "price": "11546198.00",
+    "bedrooms": 3,
+    "bathrooms": "1.0",
+    "square_feet": 1322,
+    "lot_size": "1606.00",
+    "year_built": 2020,
+    "location": 40,
+    "agent": 25,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T14:49:05.926Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19.59.42_1.jpeg",
+    "purpose": "rent",
+    "furnishing": "unfurnished",
+    "floor": 10,
+    "total_floors": 10,
+    "facing": "east",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 41,
+  "fields": {
+    "title": "Expansion-Ready Property – Scalable for Growing Businesses",
+    "slug": "expansion-ready-property-scalable-for-growing-businesses",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 4,
+    "owner": 13,
+    "status": "for_sale",
+    "price": "11869915.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 1261,
+    "lot_size": "1842.00",
+    "year_built": 2010,
+    "location": 41,
+    "agent": 26,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:56:54.721Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19.54.53_2.jpeg",
+    "purpose": "sale",
+    "furnishing": "semi-furnished",
+    "floor": 8,
+    "total_floors": 10,
+    "facing": "east",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 42,
+  "fields": {
+    "title": "Mini Estate – Guest House + Landscaped Gardens",
+    "slug": "mini-estate-guest-house-landscaped-gardens",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 5,
+    "owner": 14,
+    "status": "for_rent",
+    "price": "13604855.00",
+    "bedrooms": 5,
+    "bathrooms": "2.0",
+    "square_feet": 2200,
+    "lot_size": "2297.00",
+    "year_built": 2005,
+    "location": 42,
+    "agent": 27,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:11:38.797Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_20.01.39.jpeg",
+    "purpose": "rent",
+    "furnishing": "furnished",
+    "floor": 9,
+    "total_floors": 10,
+    "facing": "south",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 43,
+  "fields": {
+    "title": "Land with Approved Plans – Instant Development Start",
+    "slug": "land-with-approved-plans-instant-development-start",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 3,
+    "owner": 15,
+    "status": "for_sale",
+    "price": "2312019.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 1199,
+    "lot_size": "2065.00",
+    "year_built": 2013,
+    "location": 43,
+    "agent": 28,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T15:09:41.059Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_20.07.17_1.jpeg",
+    "purpose": "sale",
+    "furnishing": "furnished",
+    "floor": 1,
+    "total_floors": 10,
+    "facing": "east",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 44,
+  "fields": {
+    "title": "4BHK in Gurgaon",
+    "slug": "4bhk-in-gurgaon2",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 1,
+    "owner": 16,
+    "status": "for_rent",
+    "price": "12485064.00",
+    "bedrooms": 5,
+    "bathrooms": "3.0",
+    "square_feet": 1450,
+    "lot_size": "2625.00",
+    "year_built": 2022,
+    "location": 44,
+    "agent": 29,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T14:48:53.846Z",
+    "main_image": "",
+    "purpose": "rent",
+    "furnishing": "unfurnished",
+    "floor": 5,
+    "total_floors": 10,
+    "facing": "east",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 45,
+  "fields": {
+    "title": "Freehold Opportunity – Build-to-Suit Available",
+    "slug": "freehold-opportunity-build-to-suit-available",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 4,
+    "owner": 17,
+    "status": "sold",
+    "price": "3018888.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 2258,
+    "lot_size": "1703.00",
+    "year_built": 2017,
+    "location": 45,
+    "agent": 30,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:56:43.715Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19.54.53.jpeg",
+    "purpose": "sale",
+    "furnishing": "furnished",
+    "floor": 3,
+    "total_floors": 10,
+    "facing": "east",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 46,
+  "fields": {
+    "title": "4BHK in Gurgaon",
+    "slug": "4bhk-in-gurgaon",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 1,
+    "owner": 18,
+    "status": "for_sale",
+    "price": "16582600.00",
+    "bedrooms": 2,
+    "bathrooms": "2.0",
+    "square_feet": 1329,
+    "lot_size": "2732.00",
+    "year_built": 2002,
+    "location": 46,
+    "agent": 1,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T14:48:32.238Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19.59.41_2.jpeg",
+    "purpose": "sale",
+    "furnishing": "furnished",
+    "floor": 3,
+    "total_floors": 10,
+    "facing": "east",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 47,
+  "fields": {
+    "title": "High-Yield Commercial Investment – Strong ROI Potential",
+    "slug": "high-yield-commercial-investment-strong-roi-potential",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 4,
+    "owner": 19,
+    "status": "for_sale",
+    "price": "15575213.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 1504,
+    "lot_size": "2846.00",
+    "year_built": 2001,
+    "location": 47,
+    "agent": 2,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:56:27.697Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19.54.54.jpeg",
+    "purpose": "sale",
+    "furnishing": "semi-furnished",
+    "floor": 7,
+    "total_floors": 10,
+    "facing": "south",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 48,
+  "fields": {
+    "title": "Sprawling 4-Bed Villa – Perfect for Families",
+    "slug": "sprawling-4-bed-villa-perfect-for-families-gurgaon",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 5,
+    "owner": 20,
+    "status": "for_sale",
+    "price": "5278470.00",
+    "bedrooms": 4,
+    "bathrooms": "2.0",
+    "square_feet": 2061,
+    "lot_size": "1729.00",
+    "year_built": 2001,
+    "location": 48,
+    "agent": 3,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:11:02.248Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_20.01.39_2.jpeg",
+    "purpose": "sale",
+    "furnishing": "unfurnished",
+    "floor": 1,
+    "total_floors": 10,
+    "facing": "south",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 49,
+  "fields": {
+    "title": "Auction: Prime Plot in Emerging Commercial District",
+    "slug": "auction-prime-plot-in-emerging-commercial-district",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 3,
+    "owner": 6,
+    "status": "for_sale",
+    "price": "11544544.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 1274,
+    "lot_size": "1773.00",
+    "year_built": 2006,
+    "location": 49,
+    "agent": 4,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T15:08:55.914Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_20.07.16.jpeg",
+    "purpose": "sale",
+    "furnishing": "semi-furnished",
+    "floor": 4,
+    "total_floors": 10,
+    "facing": "west",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 50,
+  "fields": {
+    "title": "High-Growth Commercial Land – Future Business Hub",
+    "slug": "high-growth-commercial-land-future-business-hub",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 3,
+    "owner": 7,
+    "status": "for_sale",
+    "price": "5283692.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 2078,
+    "lot_size": "1493.00",
+    "year_built": 2014,
+    "location": 50,
+    "agent": 5,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T15:08:20.014Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_20.07.15.jpeg",
+    "purpose": "sale",
+    "furnishing": "unfurnished",
+    "floor": 6,
+    "total_floors": 10,
+    "facing": "south",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 51,
+  "fields": {
+    "title": "Strategic Location – Near Transport & Major Attractions",
+    "slug": "strategic-location-near-transport-major-attractions",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 4,
+    "owner": 11,
+    "status": "for_rent",
+    "price": "13207114.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 1756,
+    "lot_size": "1464.00",
+    "year_built": 2006,
+    "location": 51,
+    "agent": 21,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:56:14.601Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19.54.55_1.jpeg",
+    "purpose": "rent",
+    "furnishing": "unfurnished",
+    "floor": 2,
+    "total_floors": 10,
+    "facing": "west",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 52,
+  "fields": {
+    "title": "Resort-Style Villa – Infinity Pool & Spa",
+    "slug": "resort-style-villa-infinity-pool-spa",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 5,
+    "owner": 12,
+    "status": "for_rent",
+    "price": "16699387.00",
+    "bedrooms": 3,
+    "bathrooms": "1.0",
+    "square_feet": 2468,
+    "lot_size": "2441.00",
+    "year_built": 2016,
+    "location": 52,
+    "agent": 22,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:07:45.773Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_20_dxu0HnP.01.39_1.jpeg",
+    "purpose": "rent",
+    "furnishing": "semi-furnished",
+    "floor": 10,
+    "total_floors": 10,
+    "facing": "west",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 53,
+  "fields": {
+    "title": "Open-Concept Property – Adaptable for Multiple Needs",
+    "slug": "open-concept-property-adaptable-for-multiple-needs",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 4,
+    "owner": 13,
+    "status": "for_rent",
+    "price": "15093861.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 1356,
+    "lot_size": "1094.00",
+    "year_built": 2013,
+    "location": 53,
+    "agent": 23,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:55:59.768Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19.54.55_2.jpeg",
+    "purpose": "rent",
+    "furnishing": "unfurnished",
+    "floor": 9,
+    "total_floors": 10,
+    "facing": "east",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 54,
+  "fields": {
+    "title": "4BHK in Hyderabad",
+    "slug": "4bhk-in-hyderabad",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 1,
+    "owner": 14,
+    "status": "for_sale",
+    "price": "16993673.00",
+    "bedrooms": 3,
+    "bathrooms": "3.0",
+    "square_feet": 866,
+    "lot_size": "2677.00",
+    "year_built": 2015,
+    "location": 54,
+    "agent": 24,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T14:48:19.777Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19.59.41_1.jpeg",
+    "purpose": "sale",
+    "furnishing": "furnished",
+    "floor": 5,
+    "total_floors": 10,
+    "facing": "south",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 55,
+  "fields": {
+    "title": "Luxury Executive Suite with Reception Services",
+    "slug": "luxury-executive-suite-with-reception-services",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 2,
+    "owner": 15,
+    "status": "rented",
+    "price": "9562146.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 2363,
+    "lot_size": "2767.00",
+    "year_built": 2014,
+    "location": 55,
+    "agent": 25,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:36:28.569Z",
+    "main_image": "property_images/9.jpg",
+    "purpose": "rent",
+    "furnishing": "semi-furnished",
+    "floor": 7,
+    "total_floors": 10,
+    "facing": "south",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 56,
+  "fields": {
+    "title": "Versatile Space – Perfect for Creative or Corporate Use",
+    "slug": "versatile-space-perfect-for-creative-or-corporate-use",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 4,
+    "owner": 16,
+    "status": "rented",
+    "price": "6172482.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 1316,
+    "lot_size": "2433.00",
+    "year_built": 2016,
+    "location": 56,
+    "agent": 26,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:55:47.179Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19.54.55.jpeg",
+    "purpose": "rent",
+    "furnishing": "unfurnished",
+    "floor": 5,
+    "total_floors": 10,
+    "facing": "south",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 57,
+  "fields": {
+    "title": "Turnkey Property – Ready for Immediate Occupancy",
+    "slug": "turnkey-property-ready-for-immediate-occupancy",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 4,
+    "owner": 17,
+    "status": "sold",
+    "price": "5268531.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 847,
+    "lot_size": "1920.00",
+    "year_built": 2023,
+    "location": 57,
+    "agent": 27,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:55:34.820Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19.54.50_1.jpeg",
+    "purpose": "sale",
+    "furnishing": "furnished",
+    "floor": 7,
+    "total_floors": 10,
+    "facing": "north",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 58,
+  "fields": {
+    "title": "Eco-Luxury Villa – Solar-Powered & Sustainable",
+    "slug": "eco-luxury-villa-solar-powered-sustainable",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 5,
+    "owner": 18,
+    "status": "for_sale",
+    "price": "7599306.00",
+    "bedrooms": 3,
+    "bathrooms": "1.0",
+    "square_feet": 1049,
+    "lot_size": "1972.00",
+    "year_built": 2000,
+    "location": 58,
+    "agent": 28,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:23:59.317Z",
+    "main_image": "property_images/2.jpeg",
+    "purpose": "sale",
+    "furnishing": "unfurnished",
+    "floor": 2,
+    "total_floors": 10,
+    "facing": "east",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 59,
+  "fields": {
+    "title": "Sophisticated Space with Skyline Views",
+    "slug": "sophisticated-space-with-skyline-views",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 4,
+    "owner": 19,
+    "status": "rented",
+    "price": "4642441.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 1769,
+    "lot_size": "1515.00",
+    "year_built": 2019,
+    "location": 59,
+    "agent": 29,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:55:20.262Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19.54.49.jpeg",
+    "purpose": "rent",
+    "furnishing": "unfurnished",
+    "floor": 4,
+    "total_floors": 10,
+    "facing": "west",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 60,
+  "fields": {
+    "title": "High-End Property – Ideal for Discerning Clients",
+    "slug": "high-end-property-ideal-for-discerning-clients",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 4,
+    "owner": 20,
+    "status": "for_rent",
+    "price": "16426399.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 912,
+    "lot_size": "1899.00",
+    "year_built": 2021,
+    "location": 60,
+    "agent": 30,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:55:06.535Z",
+    "main_image": "property_images/9_hkJksYw.jpg",
+    "purpose": "rent",
+    "furnishing": "semi-furnished",
+    "floor": 4,
+    "total_floors": 10,
+    "facing": "south",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 61,
+  "fields": {
+    "title": "4BHK in Kolkata",
+    "slug": "4bhk-in-kolkata",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 1,
+    "owner": 6,
+    "status": "for_rent",
+    "price": "7144565.00",
+    "bedrooms": 5,
+    "bathrooms": "1.0",
+    "square_feet": 802,
+    "lot_size": "1602.00",
+    "year_built": 2006,
+    "location": 61,
+    "agent": 1,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T14:48:06.411Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19.59.40.jpeg",
+    "purpose": "rent",
+    "furnishing": "semi-furnished",
+    "floor": 2,
+    "total_floors": 10,
+    "facing": "west",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 62,
+  "fields": {
+    "title": "Smart Home Villa – Tech-Integrated Living",
+    "slug": "smart-home-villa-tech-integrated-living",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 5,
+    "owner": 7,
+    "status": "rented",
+    "price": "3667363.00",
+    "bedrooms": 5,
+    "bathrooms": "2.0",
+    "square_feet": 2359,
+    "lot_size": "2677.00",
+    "year_built": 2009,
+    "location": 62,
+    "agent": 2,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:06:35.972Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_20_fWOLI4z.01.38.jpeg",
+    "purpose": "rent",
+    "furnishing": "unfurnished",
+    "floor": 1,
+    "total_floors": 10,
+    "facing": "north",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 63,
+  "fields": {
+    "title": "Elite Business Space – Prestigious Address",
+    "slug": "elite-business-space-prestigious-address",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 4,
+    "owner": 11,
+    "status": "for_sale",
+    "price": "2674161.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 998,
+    "lot_size": "1320.00",
+    "year_built": 2014,
+    "location": 63,
+    "agent": 3,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:54:48.537Z",
+    "main_image": "property_images/7_g01x7Ky.jpg",
+    "purpose": "sale",
+    "furnishing": "unfurnished",
+    "floor": 7,
+    "total_floors": 10,
+    "facing": "south",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 64,
+  "fields": {
+    "title": "Class A Office Tower - Panoramic City Views",
+    "slug": "class-a-office-tower-panoramic-city-views",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 2,
+    "owner": 12,
+    "status": "for_rent",
+    "price": "12021598.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 2162,
+    "lot_size": "1481.00",
+    "year_built": 2017,
+    "location": 64,
+    "agent": 4,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:36:17.398Z",
+    "main_image": "property_images/8.jpg",
+    "purpose": "rent",
+    "furnishing": "unfurnished",
+    "floor": 1,
+    "total_floors": 10,
+    "facing": "south",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 65,
+  "fields": {
+    "title": "Freehold Land – Build-to-Suit for Investors",
+    "slug": "freehold-land-build-to-suit-for-investors",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 3,
+    "owner": 13,
+    "status": "sold",
+    "price": "9172828.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 949,
+    "lot_size": "1254.00",
+    "year_built": 2022,
+    "location": 65,
+    "agent": 5,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T15:07:09.758Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_20.07.15_2.jpeg",
+    "purpose": "sale",
+    "furnishing": "semi-furnished",
+    "floor": 3,
+    "total_floors": 10,
+    "facing": "east",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 66,
+  "fields": {
+    "title": "Luxury Property  – Premium Finishings",
+    "slug": "luxury-property-in-landmark-area-premium-finishings",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 4,
+    "owner": 14,
+    "status": "for_sale",
+    "price": "15407674.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 1913,
+    "lot_size": "1071.00",
+    "year_built": 2022,
+    "location": 66,
+    "agent": 21,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:54:35.273Z",
+    "main_image": "property_images/6_klvcIIH.jpg",
+    "purpose": "sale",
+    "furnishing": "furnished",
+    "floor": 3,
+    "total_floors": 10,
+    "facing": "west",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 67,
+  "fields": {
+    "title": "Development-Ready Plot – Ideal for Mall/Hotel/Office",
+    "slug": "development-ready-plot-ideal-for-mallhoteloffice",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 3,
+    "owner": 15,
+    "status": "for_sale",
+    "price": "9161930.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 1105,
+    "lot_size": "2899.00",
+    "year_built": 2002,
+    "location": 67,
+    "agent": 22,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T15:06:41.457Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_20.07.15_1.jpeg",
+    "purpose": "sale",
+    "furnishing": "semi-furnished",
+    "floor": 4,
+    "total_floors": 10,
+    "facing": "east",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 68,
+  "fields": {
+    "title": "Exclusive Space in [Business District] – Customizable Layout",
+    "slug": "exclusive-space-in-business-district-customizable-layout",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 4,
+    "owner": 16,
+    "status": "sold",
+    "price": "9056977.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 1514,
+    "lot_size": "2460.00",
+    "year_built": 2014,
+    "location": 68,
+    "agent": 23,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:54:05.184Z",
+    "main_image": "property_images/5_PuKepGe.jpg",
+    "purpose": "sale",
+    "furnishing": "furnished",
+    "floor": 8,
+    "total_floors": 10,
+    "facing": "south",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 69,
+  "fields": {
+    "title": "3BHK in Kolkata",
+    "slug": "3bhk-in-kolkata",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 1,
+    "owner": 17,
+    "status": "rented",
+    "price": "8860956.00",
+    "bedrooms": 4,
+    "bathrooms": "1.0",
+    "square_feet": 2382,
+    "lot_size": "1908.00",
+    "year_built": 2015,
+    "location": 69,
+    "agent": 24,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T14:47:49.209Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19_0Hm5A7N.59.40_2.jpeg",
+    "purpose": "rent",
+    "furnishing": "unfurnished",
+    "floor": 1,
+    "total_floors": 10,
+    "facing": "south",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 70,
+  "fields": {
+    "title": "Spacious Property – Ample Parking & Modern Amenities",
+    "slug": "spacious-property-ample-parking-modern-amenities",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 4,
+    "owner": 18,
+    "status": "for_sale",
+    "price": "3772147.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 882,
+    "lot_size": "2310.00",
+    "year_built": 2018,
+    "location": 70,
+    "agent": 25,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:53:53.320Z",
+    "main_image": "property_images/4_i22gvFM.jpg",
+    "purpose": "sale",
+    "furnishing": "semi-furnished",
+    "floor": 1,
+    "total_floors": 10,
+    "facing": "west",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 71,
+  "fields": {
+    "title": "Gated Community Villa – Exclusive & Secure",
+    "slug": "gated-community-villa-exclusive-secure",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 5,
+    "owner": 19,
+    "status": "for_rent",
+    "price": "10827371.00",
+    "bedrooms": 2,
+    "bathrooms": "1.0",
+    "square_feet": 2480,
+    "lot_size": "2303.00",
+    "year_built": 2002,
+    "location": 71,
+    "agent": 26,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:25:13.260Z",
+    "main_image": "property_images/3.jpeg",
+    "purpose": "rent",
+    "furnishing": "semi-furnished",
+    "floor": 5,
+    "total_floors": 10,
+    "facing": "east",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 72,
+  "fields": {
+    "title": "4BHK in Mumbai",
+    "slug": "4bhk-in-mumbai",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 1,
+    "owner": 20,
+    "status": "sold",
+    "price": "2135987.00",
+    "bedrooms": 2,
+    "bathrooms": "1.0",
+    "square_feet": 2125,
+    "lot_size": "1997.00",
+    "year_built": 2014,
+    "location": 72,
+    "agent": 27,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T14:54:38.488Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19_Gdk2IgZ.59.44_2.jpeg",
+    "purpose": "sale",
+    "furnishing": "unfurnished",
+    "floor": 1,
+    "total_floors": 10,
+    "facing": "south",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 73,
+  "fields": {
+    "title": "Corner Unit with High Foot Traffic – Move-in Ready",
+    "slug": "corner-unit-with-high-foot-traffic-move-in-ready",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 4,
+    "owner": 6,
+    "status": "sold",
+    "price": "4480209.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 989,
+    "lot_size": "2085.00",
+    "year_built": 2008,
+    "location": 73,
+    "agent": 28,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:53:40.670Z",
+    "main_image": "property_images/3_11VNQce.jpg",
+    "purpose": "sale",
+    "furnishing": "semi-furnished",
+    "floor": 8,
+    "total_floors": 10,
+    "facing": "west",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 74,
+  "fields": {
+    "title": "3BHK in Mumbai",
+    "slug": "3bhk-in-mumbai",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 1,
+    "owner": 7,
+    "status": "for_sale",
+    "price": "7290132.00",
+    "bedrooms": 4,
+    "bathrooms": "1.0",
+    "square_feet": 808,
+    "lot_size": "1968.00",
+    "year_built": 2021,
+    "location": 74,
+    "agent": 29,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T14:47:10.060Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19.59.40_1.jpeg",
+    "purpose": "sale",
+    "furnishing": "furnished",
+    "floor": 1,
+    "total_floors": 10,
+    "facing": "south",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 75,
+  "fields": {
+    "title": "Hillside Retreat – Breathtaking [City/Ocean] Views",
+    "slug": "hillside-retreat-breathtaking-cityocean-views",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 5,
+    "owner": 11,
+    "status": "sold",
+    "price": "6791859.00",
+    "bedrooms": 3,
+    "bathrooms": "1.0",
+    "square_feet": 1230,
+    "lot_size": "1273.00",
+    "year_built": 2003,
+    "location": 75,
+    "agent": 30,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:05:35.320Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_20.01.38_1.jpeg",
+    "purpose": "sale",
+    "furnishing": "unfurnished",
+    "floor": 7,
+    "total_floors": 10,
+    "facing": "west",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 76,
+  "fields": {
+    "title": "Waterfront Villa – Private Beach Access",
+    "slug": "waterfront-villa-private-beach-access",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 5,
+    "owner": 12,
+    "status": "for_rent",
+    "price": "5479125.00",
+    "bedrooms": 2,
+    "bathrooms": "2.0",
+    "square_feet": 2084,
+    "lot_size": "1035.00",
+    "year_built": 2009,
+    "location": 76,
+    "agent": 1,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:05:00.864Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_20.01.37.jpeg",
+    "purpose": "rent",
+    "furnishing": "semi-furnished",
+    "floor": 8,
+    "total_floors": 10,
+    "facing": "west",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 77,
+  "fields": {
+    "title": "Shared Workspace with Meeting Rooms",
+    "slug": "shared-workspace-with-meeting-rooms",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 2,
+    "owner": 13,
+    "status": "sold",
+    "price": "17080968.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 2397,
+    "lot_size": "1937.00",
+    "year_built": 2009,
+    "location": 77,
+    "agent": 2,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:36:06.816Z",
+    "main_image": "property_images/7.jpg",
+    "purpose": "sale",
+    "furnishing": "unfurnished",
+    "floor": 10,
+    "total_floors": 10,
+    "facing": "north",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 78,
+  "fields": {
+    "title": "Mansion-Style Villa – Grand Living Spaces",
+    "slug": "mansion-style-villa-grand-living-spaces",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 5,
+    "owner": 14,
+    "status": "for_sale",
+    "price": "2239015.00",
+    "bedrooms": 4,
+    "bathrooms": "1.0",
+    "square_feet": 1073,
+    "lot_size": "2882.00",
+    "year_built": 2012,
+    "location": 78,
+    "agent": 3,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:04:04.076Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_20.01.37_2.jpeg",
+    "purpose": "sale",
+    "furnishing": "semi-furnished",
+    "floor": 1,
+    "total_floors": 10,
+    "facing": "south",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 79,
+  "fields": {
+    "title": "Flexible Coworking Office",
+    "slug": "flexible-coworking-office",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 2,
+    "owner": 15,
+    "status": "for_rent",
+    "price": "3295145.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 1797,
+    "lot_size": "1304.00",
+    "year_built": 2013,
+    "location": 79,
+    "agent": 4,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:35:53.275Z",
+    "main_image": "property_images/6.jpg",
+    "purpose": "rent",
+    "furnishing": "unfurnished",
+    "floor": 2,
+    "total_floors": 10,
+    "facing": "south",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 80,
+  "fields": {
+    "title": "Tech-Ready Workspace",
+    "slug": "tech-ready-workspace",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 2,
+    "owner": 16,
+    "status": "for_rent",
+    "price": "3173401.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 1643,
+    "lot_size": "1368.00",
+    "year_built": 2002,
+    "location": 80,
+    "agent": 5,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:35:40.105Z",
+    "main_image": "property_images/5.jpg",
+    "purpose": "rent",
+    "furnishing": "unfurnished",
+    "floor": 7,
+    "total_floors": 10,
+    "facing": "west",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 81,
+  "fields": {
+    "title": "Fully-Furnished Office with Amenities",
+    "slug": "fully-furnished-office-with-amenities",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 2,
+    "owner": 17,
+    "status": "sold",
+    "price": "9510037.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 1363,
+    "lot_size": "2091.00",
+    "year_built": 2006,
+    "location": 81,
+    "agent": 21,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:35:27.136Z",
+    "main_image": "property_images/4.jpg",
+    "purpose": "sale",
+    "furnishing": "furnished",
+    "floor": 5,
+    "total_floors": 10,
+    "facing": "east",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 82,
+  "fields": {
+    "title": "Stunning Designer Villa – Bespoke Finishes",
+    "slug": "stunning-designer-villa-bespoke-finishes",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 5,
+    "owner": 18,
+    "status": "for_rent",
+    "price": "10639353.00",
+    "bedrooms": 5,
+    "bathrooms": "3.0",
+    "square_feet": 1617,
+    "lot_size": "2282.00",
+    "year_built": 2018,
+    "location": 82,
+    "agent": 22,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:03:38.442Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_20.01.37_1.jpeg",
+    "purpose": "rent",
+    "furnishing": "furnished",
+    "floor": 1,
+    "total_floors": 10,
+    "facing": "north",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 83,
+  "fields": {
+    "title": "3BHK in Noida",
+    "slug": "3bhk-in-noida3",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 1,
+    "owner": 19,
+    "status": "for_rent",
+    "price": "14906903.00",
+    "bedrooms": 4,
+    "bathrooms": "3.0",
+    "square_feet": 1270,
+    "lot_size": "2551.00",
+    "year_built": 2007,
+    "location": 83,
+    "agent": 23,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T14:46:55.716Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19.59.39.jpeg",
+    "purpose": "rent",
+    "furnishing": "unfurnished",
+    "floor": 1,
+    "total_floors": 10,
+    "facing": "west",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 84,
+  "fields": {
+    "title": "Blank Canvas Land – Zoned Commercial (Approved Plans)",
+    "slug": "blank-canvas-land-zoned-commercial-approved-plans",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 3,
+    "owner": 20,
+    "status": "sold",
+    "price": "8320687.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 871,
+    "lot_size": "2431.00",
+    "year_built": 2011,
+    "location": 84,
+    "agent": 24,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T15:04:35.574Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_20_lg0Pewu.07.13.jpeg",
+    "purpose": "sale",
+    "furnishing": "furnished",
+    "floor": 8,
+    "total_floors": 10,
+    "facing": "west",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 85,
+  "fields": {
+    "title": "Executive Business Center - Noida",
+    "slug": "executive-business-center-noida",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 2,
+    "owner": 6,
+    "status": "for_rent",
+    "price": "6408743.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 2456,
+    "lot_size": "1410.00",
+    "year_built": 2011,
+    "location": 85,
+    "agent": 25,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:35:13.896Z",
+    "main_image": "property_images/3.jpg",
+    "purpose": "rent",
+    "furnishing": "unfurnished",
+    "floor": 8,
+    "total_floors": 10,
+    "facing": "west",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 86,
+  "fields": {
+    "title": "3BHK in Noida",
+    "slug": "3bhk-in-noida2",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 1,
+    "owner": 7,
+    "status": "rented",
+    "price": "14103071.00",
+    "bedrooms": 2,
+    "bathrooms": "3.0",
+    "square_feet": 2292,
+    "lot_size": "1778.00",
+    "year_built": 2014,
+    "location": 86,
+    "agent": 26,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T14:53:42.438Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19_1zLBdtV.59.45.jpeg",
+    "purpose": "rent",
+    "furnishing": "unfurnished",
+    "floor": 2,
+    "total_floors": 10,
+    "facing": "west",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 87,
+  "fields": {
+    "title": "3BHK in Noida",
+    "slug": "3bhk-in-noida",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 1,
+    "owner": 11,
+    "status": "for_rent",
+    "price": "18935352.00",
+    "bedrooms": 3,
+    "bathrooms": "3.0",
+    "square_feet": 1293,
+    "lot_size": "2229.00",
+    "year_built": 2017,
+    "location": 87,
+    "agent": 27,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T14:53:15.440Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19_AJc8gvX.59.45_1.jpeg",
+    "purpose": "rent",
+    "furnishing": "furnished",
+    "floor": 2,
+    "total_floors": 10,
+    "facing": "south",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 88,
+  "fields": {
+    "title": "Corner Commercial Plot – High Visibility & Easy Access",
+    "slug": "corner-commercial-plot-high-visibility-easy-access",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 3,
+    "owner": 12,
+    "status": "sold",
+    "price": "13078505.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 1314,
+    "lot_size": "2146.00",
+    "year_built": 2022,
+    "location": 88,
+    "agent": 28,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T15:15:10.676Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_20.07.21.jpeg",
+    "purpose": "sale",
+    "furnishing": "semi-furnished",
+    "floor": 9,
+    "total_floors": 10,
+    "facing": "east",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 89,
+  "fields": {
+    "title": "Premium Property for Lease – Ideal for Businesses",
+    "slug": "premium-property-for-lease-ideal-for-businesses",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 4,
+    "owner": 13,
+    "status": "rented",
+    "price": "2159252.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 1028,
+    "lot_size": "1615.00",
+    "year_built": 2010,
+    "location": 89,
+    "agent": 29,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:53:28.305Z",
+    "main_image": "property_images/2_eLh9ATN.jpg",
+    "purpose": "rent",
+    "furnishing": "unfurnished",
+    "floor": 3,
+    "total_floors": 10,
+    "facing": "west",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 90,
+  "fields": {
+    "title": "Prime Commercial Space",
+    "slug": "prime-commercial-space",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 4,
+    "owner": 14,
+    "status": "for_sale",
+    "price": "2560478.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 2237,
+    "lot_size": "2857.00",
+    "year_built": 2004,
+    "location": 90,
+    "agent": 30,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:53:19.492Z",
+    "main_image": "property_images/1_ILdH1Dv.jpg",
+    "purpose": "sale",
+    "furnishing": "unfurnished",
+    "floor": 1,
+    "total_floors": 10,
+    "facing": "west",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 91,
+  "fields": {
+    "title": "4BHK in Pune",
+    "slug": "4bhk-in-pune",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 1,
+    "owner": 15,
+    "status": "rented",
+    "price": "10071540.00",
+    "bedrooms": 5,
+    "bathrooms": "2.0",
+    "square_feet": 1357,
+    "lot_size": "2193.00",
+    "year_built": 2018,
+    "location": 91,
+    "agent": 1,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T14:44:37.093Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19_8oYOmAI.59.38_1.jpeg",
+    "purpose": "rent",
+    "furnishing": "semi-furnished",
+    "floor": 1,
+    "total_floors": 10,
+    "facing": "north",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 92,
+  "fields": {
+    "title": "Ultra-Modern Villa with Panoramic Views",
+    "slug": "ultra-modern-villa-with-panoramic-views",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 5,
+    "owner": 16,
+    "status": "rented",
+    "price": "14791361.00",
+    "bedrooms": 5,
+    "bathrooms": "3.0",
+    "square_feet": 2270,
+    "lot_size": "1034.00",
+    "year_built": 2007,
+    "location": 92,
+    "agent": 2,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:03:12.214Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_20.01.36.jpeg",
+    "purpose": "rent",
+    "furnishing": "unfurnished",
+    "floor": 5,
+    "total_floors": 10,
+    "facing": "north",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 93,
+  "fields": {
+    "title": "2BHK in Pune",
+    "slug": "2bhk-in-pune-pune",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 1,
+    "owner": 17,
+    "status": "rented",
+    "price": "11272782.00",
+    "bedrooms": 4,
+    "bathrooms": "1.0",
+    "square_feet": 1626,
+    "lot_size": "2057.00",
+    "year_built": 2022,
+    "location": 93,
+    "agent": 3,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T14:41:14.266Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19.59.37.jpeg",
+    "purpose": "rent",
+    "furnishing": "unfurnished",
+    "floor": 9,
+    "total_floors": 10,
+    "facing": "north",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 94,
+  "fields": {
+    "title": "4BHK in Pune",
+    "slug": "4bhk-in-pune-pune",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 1,
+    "owner": 18,
+    "status": "for_sale",
+    "price": "8194960.00",
+    "bedrooms": 5,
+    "bathrooms": "3.0",
+    "square_feet": 1174,
+    "lot_size": "2781.00",
+    "year_built": 2023,
+    "location": 94,
+    "agent": 4,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T14:40:55.360Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19.59.37_1.jpeg",
+    "purpose": "sale",
+    "furnishing": "unfurnished",
+    "floor": 4,
+    "total_floors": 10,
+    "facing": "east",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 95,
+  "fields": {
+    "title": "Premium Corporate Office",
+    "slug": "premium-corporate-office",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 2,
+    "owner": 19,
+    "status": "for_rent",
+    "price": "3642508.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 1920,
+    "lot_size": "1941.00",
+    "year_built": 2017,
+    "location": 95,
+    "agent": 5,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:35:02.971Z",
+    "main_image": "property_images/2.jpg",
+    "purpose": "rent",
+    "furnishing": "semi-furnished",
+    "floor": 1,
+    "total_floors": 10,
+    "facing": "north",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 96,
+  "fields": {
+    "title": "Land for Sale – Strategic",
+    "slug": "land-for-sale-strategic-cityhighway-location",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 3,
+    "owner": 20,
+    "status": "rented",
+    "price": "14881272.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 1523,
+    "lot_size": "2167.00",
+    "year_built": 2004,
+    "location": 96,
+    "agent": 21,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T15:05:48.172Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_20.07.13_2.jpeg",
+    "purpose": "rent",
+    "furnishing": "semi-furnished",
+    "floor": 8,
+    "total_floors": 10,
+    "facing": "south",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 97,
+  "fields": {
+    "title": "Luxury Villa in [Prime Location] – Private Oasis",
+    "slug": "luxury-villa-in-prime-location-private-oasis",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 5,
+    "owner": 6,
+    "status": "sold",
+    "price": "11213407.00",
+    "bedrooms": 3,
+    "bathrooms": "3.0",
+    "square_feet": 2243,
+    "lot_size": "1724.00",
+    "year_built": 2005,
+    "location": 97,
+    "agent": 22,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:02:50.530Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_20.01.36_1.jpeg",
+    "purpose": "sale",
+    "furnishing": "furnished",
+    "floor": 10,
+    "total_floors": 10,
+    "facing": "south",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 98,
+  "fields": {
+    "title": "Modern Office Space in Pune",
+    "slug": "modern-office-space-in-pune",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 2,
+    "owner": 7,
+    "status": "for_sale",
+    "price": "19102516.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 2070,
+    "lot_size": "2248.00",
+    "year_built": 2003,
+    "location": 98,
+    "agent": 23,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T17:32:55.514Z",
+    "main_image": "property_images/1.jpg",
+    "purpose": "sale",
+    "furnishing": "furnished",
+    "floor": 5,
+    "total_floors": 10,
+    "facing": "west",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 99,
+  "fields": {
+    "title": "Premium Commercial Plot in [Prime Area] – High ROI Potential",
+    "slug": "premium-commercial-plot-in-prime-area-high-roi-potential",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 3,
+    "owner": 11,
+    "status": "rented",
+    "price": "3914242.00",
+    "bedrooms": 0,
+    "bathrooms": "0.0",
+    "square_feet": 1545,
+    "lot_size": "1622.00",
+    "year_built": 2000,
+    "location": 99,
+    "agent": 24,
+    "is_featured": false,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T15:04:49.488Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_20.07.13_1.jpeg",
+    "purpose": "rent",
+    "furnishing": "furnished",
+    "floor": 6,
+    "total_floors": 10,
+    "facing": "west",
+    "amenities": []
+  }
+},
+{
+  "model": "listings.property",
+  "pk": 100,
+  "fields": {
+    "title": "3BHK in Pune",
+    "slug": "3bhk-in-pune-pune",
+    "description": "Spacious and well-lit property with great locality access.",
+    "property_type": 1,
+    "owner": 12,
+    "status": "for_rent",
+    "price": "18109427.00",
+    "bedrooms": 2,
+    "bathrooms": "1.0",
+    "square_feet": 1064,
+    "lot_size": "1684.00",
+    "year_built": 2002,
+    "location": 100,
+    "agent": 25,
+    "is_featured": true,
+    "is_published": true,
+    "created_at": null,
+    "updated_at": "2025-04-15T14:40:43.731Z",
+    "main_image": "property_images/WhatsApp_Image_2025-04-15_at_19.59.36.jpeg",
+    "purpose": "rent",
+    "furnishing": "semi-furnished",
+    "floor": 1,
+    "total_floors": 10,
+    "facing": "east",
+    "amenities": []
+  }
+}
+]

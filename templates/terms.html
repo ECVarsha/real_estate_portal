@@ -1,0 +1,166 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms & Conditions - JV</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+        :root {
+            --armadillo: #463f37;
+            --cold-turkey: #D5BFC4;
+            --polo-blue: #5A6F94;
+            --santas-gray: #9AA1B4;
+        }
+
+        body {
+            font-family: 'Poppins', sans-serif;
+            margin: 0;
+            color: white;
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+            line-height: 1.6;
+        }
+
+        body::before {
+            content: "";
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100vh;
+            background: url('{% static "images/b4.jpg" %}') no-repeat center center fixed;
+            background-size: cover;
+            z-index: -2;
+        }
+
+        body::after {
+            content: "";
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100vh;
+            background: rgba(0, 0, 0, 0.5);
+            z-index: -1;
+        }
+
+        .container {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+            width: 100%;
+            max-width: 700px;
+            text-align: center;
+            box-sizing: border-box;
+            backdrop-filter: blur(6px);
+            color: var(--armadillo);
+        }
+
+        h2 {
+            font-size: 28px;
+            margin-bottom: 25px;
+            color: var(--armadillo);
+            font-weight: 600;
+        }
+
+        p {
+            text-align: left;
+            margin-bottom: 20px;
+            font-size: 15px;
+        }
+
+        .highlight {
+            font-weight: 600;
+            color: var(--polo-blue);
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        .back-button {
+            display: inline-block;
+            margin-top: 30px;
+            padding: 12px 25px;
+            background-color: var(--polo-blue);
+            color: white;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 500;
+            transition: all 0.3s;
+            border: none;
+            cursor: pointer;
+            font-size: 15px;
+        }
+
+        .back-button:hover {
+            background-color: #7d96c0;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .highlight:hover {
+            background-color: rgba(90, 111, 148, 0.1);
+            cursor: pointer;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 30px 25px;
+                max-width: 90%;
+            }
+            h2 {
+                font-size: 24px;
+            }
+            p {
+                font-size: 14px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .container {
+                padding: 25px 20px;
+            }
+            h2 {
+                font-size: 22px;
+                margin-bottom: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Terms & Conditions</h2>
+        <p><span class="highlight" onclick="highlightText(this)">1. Eligibility</span>
+        Users must be at least 18 years of age to register and utilize JV services. By creating an account, you affirm that the information provided is accurate and complete.</p>
+
+        <p><span class="highlight" onclick="highlightText(this)">2. Data Privacy</span>
+        JV prioritizes your privacy. All user data will be managed in accordance with our Privacy Policy, which users are encouraged to read thoroughly before using the platform.</p>
+
+        <p><span class="highlight" onclick="highlightText(this)">3. Acceptable Use</span>
+        Users shall not engage in unlawful activities, spread misinformation, or exploit the platform for fraudulent or harmful purposes. Violations will result in immediate action.</p>
+
+        <p><span class="highlight" onclick="highlightText(this)">4. Account Suspension</span>
+        JV reserves the right to suspend or terminate accounts that breach our policies or exhibit suspicious behavior without prior notice.</p>
+
+        <p><span class="highlight" onclick="highlightText(this)">5. Modification of Terms</span>
+        These Terms & Conditions may be updated periodically. Continued use of the platform following updates constitutes acceptance of the revised terms.</p>
+
+        <a href="{% url 'signup' %}" class="back-button">&larr; Back to Sign Up</a>
+    </div>
+
+    <script>
+        function highlightText(element) {
+            element.style.backgroundColor = '#e3eaf5';
+            element.style.borderRadius = '5px';
+            element.style.padding = '2px 4px';
+        }
+    </script>
+</body>
+</html>

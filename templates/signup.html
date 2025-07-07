@@ -1,0 +1,68 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real Estate Home</title>
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+    <link rel="stylesheet" href="{% static 'css/home.css' %}">
+</head>
+
+<body>
+    <header class="navbar">
+        <nav>
+            <ul class="left">
+                <li><a href="{% url 'home' %}">Home</a></li>
+                <li><a href="#">About Us</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="container signup-specific">
+        <h2>JV Sign Up</h2>
+        <form method="post" action="{% url 'signup' %}{% if request.GET.next %}?next={{ request.GET.next }}{% endif %}" enctype="multipart/form-data">
+            {% csrf_token %}
+            <label>I am:</label>
+            <div class="radio-group">
+                <input type="radio" id="buyer" name="role" value="buyer" required>
+                <label for="buyer">Buyer</label>
+                <input type="radio" id="agent" name="role" value="agent">
+                <label for="agent">Agent</label>
+                <input type="radio" id="owner" name="role" value="owner">
+                <label for="owner">Owner</label>
+            </div>
+            <input type="text" name="name" placeholder="Full Name" required>
+            <input type="email" name="email" placeholder="Email" required>
+            <input type="text" name="phone" placeholder="Mobile Number" required>
+            <input type="password" name="password1" placeholder="Password" required>
+            <input type="password" name="password2" placeholder="Confirm Password" required>
+            <!-- Add license number field that only shows for agents -->
+            <div id="license-field" style="display:none;">
+                <input type="text" name="license_number" placeholder="License Number">
+            </div>
+            <div class="terms-checkbox">
+                <input type="checkbox" name="terms" required>
+                <label>I agree to <a href="{% url 'terms' %}" target="_blank">Terms & Conditions</a></label>
+            </div>
+            <button type="submit">Sign Up</button>
+        </form>
+        
+        <script>
+            // Show license field only for agents
+            document.querySelectorAll('input[name="role"]').forEach(radio => {
+                radio.addEventListener('change', function() {
+                    const licenseField = document.getElementById('license-field');
+                    licenseField.style.display = this.value === 'agent' ? 'block' : 'none';
+                    if (this.value !== 'agent') {
+                        document.querySelector('input[name="license_number"]').value = '';
+                    }
+                });
+            });
+        </script>
+         <p>Already registered? <a href="{% url 'login' %}">Login Now</a></p>
+    </div>
+</body>
+
+</html>

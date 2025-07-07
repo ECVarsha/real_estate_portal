@@ -1,0 +1,157 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real Estate Home</title>
+    <link rel="stylesheet" href="{% static 'css/postproperty.css' %}">
+</head>
+
+<body>
+    <header class="navbar">
+        <nav>
+            <ul class="left">
+                <li><a href="{% url 'home' %}">Home</a></li>
+                <li><a href="#">About Us</a></li>
+            </ul>
+        </nav>
+    </header>
+<form method="POST" action="{% url 'post_message' %}">
+    {% csrf_token %}
+    <div class="page-container">
+        <aside class="left-panel">
+            <div class="left-panel-content">
+                <h2>Your Space</h2>
+                <img src="{% static 'images/AB.jpg' %}" alt="Inspirational Property Image" class="left-panel-image">
+
+                <p>Add your inspiring quote or image here to make the page more engaging!</p>
+
+            </div>
+        </aside>
+
+        <main class="form-panel">
+            <h1>Sell or Rent your Property</h1>
+
+
+            <form action="#" method="post">
+
+                <section class="form-section">
+                    <h2>Personal Details</h2>
+
+                    <div class="form-group radio-group">
+                        <label>I am</label>
+                        <div>
+                            <input type="radio" id="owner" name="user_type" value="owner" checked>
+                            <label for="owner">Owner</label>
+                        </div>
+                        <div>
+                            <input type="radio" id="agent" name="user_type" value="agent">
+                            <label for="agent">Agent</label>
+                        </div>
+                        <div>
+                            <input type="radio" id="builder" name="user_type" value="builder">
+                            <label for="builder">Builder</label>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="name">Name</label>
+                        <input type="text" id="name" name="name" placeholder="Enter Your Name" class="input-field">
+                    </div>
+
+                    <div class="form-group mobile-group">
+                        <label for="mobile">Mobile</label>
+                        <div class="mobile-input-container">
+                            <select id="country_code" name="country_code" class="country-code-select">
+                                <option value="+91">IND +91</option>
+                                <!-- Add other country codes if needed -->
+                            </select>
+                            <input type="tel" id="mobile" name="mobile" placeholder="9391511876" pattern="[0-9]{10}"
+                                class="input-field mobile-number-input">
+                        </div>
+                    </div>
+
+
+
+
+                    <div class="form-group">
+                        <label for="email">Email</label>
+                        <input type="email" id="email" name="email" placeholder="Enter Your Email" class="input-field">
+                    </div>
+                </section>
+
+                <section class="form-section">
+                    <h2>Property Details</h2>
+                    <div class="form-group radio-group">
+                        <label>For</label>
+                        <div>
+                            <input type="radio" id="sale" name="listing_type" value="sale" checked>
+                            <label for="sale">Sale</label>
+                        </div>
+                        <div>
+                            <input type="radio" id="rent" name="listing_type" value="rent">
+                            <label for="rent">Rent/ Lease</label>
+                        </div>
+                        <div>
+                            <input type="radio" id="pg" name="listing_type" value="pg">
+                            <label for="pg">PG/Hostel</label>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="property_type">Property Type</label>
+                        <select id="property_type" name="property_type" class="input-field">
+                            <option value="" disabled selected>Select Property Type</option>
+                            <option value="flat">Residential Apartment / Flat</option>
+                            <option value="house">Independent House / Villa</option>
+                            <option value="plot">Residential Plot</option>
+                            <option value="shop">Commercial Shop</option>
+                            <option value="office">Commercial Office Space</option>
+                            <!-- Add more property types -->
+                        </select>
+                    </div>
+                </section>
+
+                <section class="form-section">
+                    <h2>Property Location</h2>
+                    <div class="form-group">
+                        <label for="city">City</label>
+                        <input type="text" id="city" name="city" placeholder="Enter City" class="input-field">
+                    </div>
+                    <div class="form-group">
+                        <label for="locality">Locality</label>
+                        <input type="text" id="locality" name="locality" placeholder="Enter Locality"
+                            class="input-field">
+                    </div>
+                </section>
+
+                <section class="form-section agreement-section">
+
+                    <div class="form-group checkbox-group">
+                        <input type="checkbox" id="terms" name="terms" checked>
+                        <label for="terms">I agree to JV T&C</label>
+                    </div>
+
+                </section>
+
+                <button type="submit" class="submit-button">Post Property</button>
+
+                <section class="form-section footer-info">
+                    <h3>Looking to Sell or Rent your Flat?</h3>
+                    <p>Do you want to Sell your flat or put your house on rent? JV has the right solution for
+                        you. Your journey to finding the perfect buyer or tenant starts here. Post your property ad
+                        for
+                        free today!</p>
+                </section>
+
+            </form>
+        </main>
+    </div>
+</form>
+
+</body>
+
+</html>

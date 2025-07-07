@@ -1,0 +1,349 @@
+/* Define Color Scheme */
+:root {
+    --armadillo: #463f37;        /* Dark text, potentially borders */
+    --cold-turkey: #D5BFC4;     /* Lighter accent, maybe left panel bg */
+    --polo-blue: #5A6F94;       /* Primary action color (buttons, highlights) */
+    --santas-gray: #9AA1B4;     /* Secondary accent, borders, placeholders */
+
+    /* Additional derived colors */
+    --background-color: #fdfcfc; /* Very light background */
+    --text-color: var(--armadillo);
+    --label-color: #555;         /* Slightly lighter than main text */
+    --input-border: #ccc;
+    --input-bg: #ffffff;
+    --button-bg: var(--polo-blue);
+    --button-text: #ffffff;
+    --button-hover-bg: #899dc1; /* Slightly darker blue for hover */
+    --free-tag-bg: gold;
+    --free-tag-text: var(--armadillo);
+    --info-box-bg: #fffbeb;      /* Light yellow background */
+    --info-box-border: #ffeccc; /* Lighter yellow border */
+    --selected-radio-border: var(--polo-blue); /* Color for selected radio */
+    --left-panel-bg: var(--cold-turkey); /* Use cold-turkey for left panel bg */
+    --left-panel-text: var(--armadillo);
+}
+
+/* Basic Reset & Body Styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    height: 100%; /* Ensure html takes full height */
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    line-height: 1.6;
+    display: flex; /* Use flexbox for overall layout */
+    min-height: 100vh; /* Ensure body takes at least full viewport height */
+    margin: 0;
+    padding-top: 60px;
+}
+header.navbar {
+    background-color: var(--polo-blue);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    color: white;
+    position: fixed; /* Fix navbar at the top */
+    top: 0;
+    left: 0;
+    width: 100%; /* Full width */
+    z-index: 10; /* Ensure it stays above other content */
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 18px;
+    padding: 10px;
+    transition: all 0.3s;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+    transform: translateY(-2px);
+}
+.page-container {
+    display: flex;
+    width: 100%;
+    flex-grow: 1; /* Allow container to grow */
+}
+
+/* Left Panel Styling */
+.left-panel {
+    flex: 1 0 33%; /* Fixed width for the left panel */
+    background-color: var(--left-panel-bg);
+    color: var(--left-panel-text);
+    padding: 40px 25px;
+    border-right: 1px solid var(--santas-gray);
+    height: 100vh; /* Make left panel full height */
+    position: sticky; /* Keep it visible when form scrolls */
+    top: 0;
+    overflow-y: auto; /* Allow scrolling if content overflows */
+}
+.left-panel-image{
+    width:100%;
+}
+.left-panel h2 {
+    color: var(--armadillo); /* Darker heading */
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.left-panel p {
+    font-size: 2em;
+    text-align: center;
+}
+
+/* Form Panel Styling */
+.form-panel {
+    flex-grow: 1; /* Takes remaining space */
+    padding: 30px 40px;
+    overflow-y: auto; /* Allow ONLY the form panel to scroll */
+    max-height: 100vh; /* Limit height to viewport height */
+}
+
+h1 {
+    color: var(--armadillo);
+    margin-bottom: 5px;
+    font-size: 2em;
+}
+
+.sub-heading {
+    color: var(--label-color);
+    margin-bottom: 25px;
+    font-size: 0.95em;
+}
+
+.free-tag {
+    background-color: var(--free-tag-bg);
+    color: var(--free-tag-text);
+    padding: 3px 8px;
+    font-weight: bold;
+    border-radius: 4px;
+    font-size: 0.8em;
+    vertical-align: middle;
+}
+
+h2 {
+    color: var(--armadillo);
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid var(--santas-gray);
+    font-size: 1.4em;
+}
+
+/* Form Sections and Groups */
+.form-section {
+    margin-bottom: 30px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 8px;
+    color: var(--label-color);
+    font-weight: 600;
+    font-size: 0.9em;
+}
+
+/* Input Fields and Select */
+.input-field,
+.country-code-select {
+    width: 100%;
+    padding: 10px 12px;
+    border: 1px solid var(--input-border);
+    border-radius: 5px;
+    font-size: 1em;
+    background-color: var(--input-bg);
+    color: var(--text-color);
+    transition: border-color 0.3s ease;
+}
+
+.input-field::placeholder {
+    color: var(--santas-gray);
+}
+
+.input-field:focus,
+.country-code-select:focus {
+    outline: none;
+    border-color: var(--polo-blue);
+    box-shadow: 0 0 0 2px rgba(154, 175, 212, 0.3); /* Subtle glow using polo-blue */
+}
+
+/* Mobile Input Specifics */
+.mobile-group .mobile-input-container {
+    display: flex;
+    gap: 5px;
+}
+.country-code-select {
+    width: auto; /* Adjust width automatically */
+    flex-shrink: 0; /* Prevent shrinking */
+    padding-right: 25px; /* More space for dropdown arrow */
+}
+.mobile-number-input {
+    flex-grow: 1; /* Take remaining space */
+}
+
+
+/* Radio Button Group */
+.radio-group > label {
+    margin-bottom: 12px; /* More space above radio options */
+}
+
+.radio-group > div {
+    display: inline-block; /* Align radio buttons horizontally */
+    margin-right: 25px;
+    margin-bottom: 10px; /* Space below each radio if they wrap */
+}
+
+.radio-group input[type="radio"] {
+    margin-right: 8px;
+    accent-color: var(--polo-blue); /* Modern way to color radio/checkbox */
+    transform: scale(1.1);
+    vertical-align: middle;
+}
+
+.radio-group label { /* Label next to radio */
+    display: inline;
+    font-weight: normal;
+    color: var(--text-color);
+    font-size: 1em;
+    cursor: pointer;
+    vertical-align: middle;
+}
+
+
+/* Checkbox Group */
+.checkbox-group {
+    display: flex;
+    align-items: center; /* Vertically align checkbox and label */
+    margin-bottom: 12px;
+}
+
+.checkbox-group input[type="checkbox"] {
+    margin-right: 10px;
+    accent-color: var(--polo-blue);
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.checkbox-group label {
+    margin-bottom: 0; /* Reset margin */
+    font-weight: normal;
+    color: var(--text-color);
+    font-size: 0.95em;
+    cursor: pointer;
+}
+
+.checkbox-group i.fa-whatsapp,
+.info-box i.fa-whatsapp {
+    color: #25D366; /* WhatsApp green */
+    font-size: 1.1em;
+    vertical-align: middle;
+    margin: 0 2px;
+}
+
+
+/* Info Box */
+.info-box {
+    background-color: var(--info-box-bg);
+    border: 1px solid var(--info-box-border);
+    padding: 10px 15px;
+    border-radius: 5px;
+    margin-top: 5px; /* Space below mobile input */
+    margin-bottom: 20px; /* Space before next field */
+    font-size: 0.9em;
+    color: var(--armadillo);
+}
+
+/* Submit Button */
+.submit-button {
+    background-color: var(--button-bg);
+    color: var(--button-text);
+    padding: 12px 25px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.1em;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    display: block; /* Make it block level */
+    width: auto; /* Adjust width */
+    margin: 20px 0; /* Add margin */
+}
+
+.submit-button:hover {
+    background-color: var(--button-hover-bg);
+}
+
+/* Footer Info Section */
+.footer-info {
+    margin-top: 40px;
+    border-top: 1px solid var(--santas-gray);
+    padding-top: 20px;
+}
+
+.footer-info h3 {
+    color: var(--armadillo);
+    margin-bottom: 10px;
+    font-size: 1.2em;
+}
+
+.footer-info p {
+    font-size: 0.9em;
+    color: var(--label-color);
+    line-height: 1.5;
+}
+
+/* Responsive Adjustments (Optional Simple Example) */
+@media (max-width: 900px) {
+    .page-container {
+        flex-direction: column; /* Stack panels vertically */
+    }
+    .left-panel {
+        flex: 0 0 auto; /* Reset flex basis */
+        height: auto; /* Allow height to adjust */
+        position: static; /* Remove sticky positioning */
+        border-right: none;
+        border-bottom: 1px solid var(--santas-gray);
+        padding: 20px;
+    }
+    .form-panel {
+        max-height: none; /* Allow form to take needed height */
+        padding: 25px;
+    }
+}
+
+@media (max-width: 480px) {
+    h1 { font-size: 1.6em; }
+    h2 { font-size: 1.2em; }
+    .radio-group > div {
+        display: block; /* Stack radio buttons vertically */
+        margin-right: 0;
+        margin-bottom: 15px;
+    }
+    .submit-button {
+        width: 100%; /* Full width button on small screens */
+    }
+    .form-panel {
+        padding: 20px 15px;
+    }
+}

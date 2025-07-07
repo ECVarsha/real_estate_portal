@@ -1,0 +1,225 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+:root {
+    --armadillo: #463f37;
+    --cold-turkey: #D5BFC4;
+    --polo-blue: #5A6F94;
+    --santas-gray: #9AA1B4;
+}
+
+/* Background with dark overlay - matching homepage */
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    color: white;
+    position: relative;
+    z-index: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+body::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background: url("../images/b4.jpg") no-repeat center center fixed;
+    background-size: cover;
+    z-index: -2;
+}
+
+body::after {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: -1;
+}
+header.navbar {
+    background-color: var(--polo-blue);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    color: white;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 18px;
+    padding: 10px;
+    transition: all 0.3s;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+    transform: translateY(-2px);
+}
+section {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.container {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+    width: 100%;
+    max-width: 380px;
+    text-align: center;
+    box-sizing: border-box;
+    backdrop-filter: blur(5px);
+}
+
+h2 {
+    font-weight: 600;
+    margin-bottom: 25px;
+    color: var(--armadillo);
+}
+
+input, select {
+    width: 100%;
+    padding: 12px 15px;
+    margin: 10px 0;
+    border: 1px solid var(--cold-turkey);
+    border-radius: 8px;
+    font-size: 14px;
+    box-sizing: border-box;
+    transition: all 0.3s;
+    background: rgba(255, 255, 255, 0.8);
+}
+
+input:focus {
+    outline: none;
+    border-color: var(--polo-blue);
+    box-shadow: 0 0 0 2px rgba(154, 175, 212, 0.3);
+}
+
+button {
+    width: 100%;
+    padding: 14px;
+    background: var(--polo-blue);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s;
+    margin-top: 15px;
+}
+
+button:hover {
+    background: #7d96c0;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+p {
+    margin-top: 20px;
+    font-size: 14px;
+    color: var(--armadillo);
+}
+
+a {
+    text-decoration: none;
+    color: var(--polo-blue);
+    font-weight: 500;
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: #7d96c0;
+    text-decoration: underline;
+}
+
+.radio-group {
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+    margin: 15px 0;
+}
+
+.radio-group label {
+    display: flex;
+    align-items: center;
+    color: var(--armadillo);
+    font-size: 14px;
+}
+
+.radio-group input {
+    width: auto;
+    margin-right: 5px;
+}
+
+input[type="checkbox"] {
+    width: auto;
+    margin-right: 8px;
+    accent-color: var(--polo-blue);
+}
+
+/* Responsive adjustments */
+@media (max-width: 480px) {
+    .container {
+        padding: 30px 20px;
+        max-width: 90%;
+    }
+    
+    .radio-group {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 8px;
+    }
+}
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.container.signup-specific {
+    margin: auto;
+    height: auto;
+    min-height: calc(100vh - 100px); /* Adjust based on your navbar height */
+    max-width: 400px;
+
+}
+/* Specific styles for signup page only */
+.signup-specific .radio-group label,
+.signup-specific p,
+.signup-specific .terms-checkbox label, .signup-specific label{
+    color: var(--armadillo); /* Dark color for all text */
+}
+
+.signup-specific .terms-checkbox a {
+    color: var(--polo-blue) !important; /* Blue color only for the link */
+}
+
+/* For better checkbox alignment */
+.terms-checkbox {
+    display: flex;
+    align-items: center;
+    margin: 15px 0;
+}
+
+.terms-checkbox input {
+    margin-right: 10px;
+}
+
+

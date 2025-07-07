@@ -1,0 +1,3902 @@
+[
+    {
+        "model": "listings.location",
+        "pk": 1,
+        "fields": {
+            "address": "1 MG Road, Ahmedabad",
+            "city": "Ahmedabad",
+            "state": "Gujarat",
+            "zip_code": "560001",
+            "country": "India",
+            "latitude": 12.912174,
+            "longitude": 78.143134
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 1,
+        "fields": {
+            "title": "4BHK in Ahmedabad",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 1,
+            "purpose": "sale",
+            "status": "sold",
+            "price": 4653706,
+            "bedrooms": 4,
+            "bathrooms": 1.0,
+            "square_feet": 2288,
+            "lot_size": 1200.00,
+            "year_built": 2010,
+            "furnishing": "semi-furnished",
+            "floor": 4,
+            "total_floors": 10,
+            "facing": "east",
+            "is_featured": true,
+            "is_published": true,
+            "location": 1,
+            "owner": 6,
+            "agent": 1
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 2,
+        "fields": {
+            "address": "2 MG Road, Ahmedabad",
+            "city": "Ahmedabad",
+            "state": "Gujarat",
+            "zip_code": "560002",
+            "country": "India",
+            "latitude": 13.700328,
+            "longitude": 77.622136
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 2,
+        "fields": {
+            "title": "4BHK in Ahmedabad",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 3,
+            "purpose": "sale",
+            "status": "for_sale",
+            "price": 8942768,
+            "bedrooms": 4,
+            "bathrooms": 2.0,
+            "square_feet": 1718,
+            "lot_size": 2254.00,
+            "year_built": 2016,
+            "furnishing": "unfurnished",
+            "floor": 2,
+            "total_floors": 10,
+            "facing": "west",
+            "is_featured": false,
+            "is_published": true,
+            "location": 2,
+            "owner": 7,
+            "agent": 2
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 3,
+        "fields": {
+            "address": "3 MG Road, Ahmedabad",
+            "city": "Ahmedabad",
+            "state": "Gujarat",
+            "zip_code": "560003",
+            "country": "India",
+            "latitude": 13.507099,
+            "longitude": 77.592915
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 3,
+        "fields": {
+            "title": "2BHK in Ahmedabad",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 1,
+            "purpose": "rent",
+            "status": "rented",
+            "price": 18028858,
+            "bedrooms": 3,
+            "bathrooms": 1.0,
+            "square_feet": 1201,
+            "lot_size": 2821.00,
+            "year_built": 2013,
+            "furnishing": "unfurnished",
+            "floor": 5,
+            "total_floors": 10,
+            "facing": "west",
+            "is_featured": false,
+            "is_published": true,
+            "location": 3,
+            "owner": 11,
+            "agent": 3
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 4,
+        "fields": {
+            "address": "4 MG Road, Ahmedabad",
+            "city": "Ahmedabad",
+            "state": "Gujarat",
+            "zip_code": "560004",
+            "country": "India",
+            "latitude": 13.563736,
+            "longitude": 77.876410
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 4,
+        "fields": {
+            "title": "4BHK in Ahmedabad",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 4,
+            "purpose": "rent",
+            "status": "rented",
+            "price": 8021804,
+            "bedrooms": 3,
+            "bathrooms": 3.0,
+            "square_feet": 1277,
+            "lot_size": 2895.00,
+            "year_built": 2010,
+            "furnishing": "unfurnished",
+            "floor": 5,
+            "total_floors": 10,
+            "facing": "south",
+            "is_featured": false,
+            "is_published": true,
+            "location": 4,
+            "owner": 12,
+            "agent": 4
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 5,
+        "fields": {
+            "address": "5 MG Road, Ahmedabad",
+            "city": "Ahmedabad",
+            "state": "Gujarat",
+            "zip_code": "560005",
+            "country": "India",
+            "latitude": 13.236307,
+            "longitude": 77.949766
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 5,
+        "fields": {
+            "title": "2BHK in Ahmedabad",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 1,
+            "purpose": "rent",
+            "status": "rented",
+            "price": 18279415,
+            "bedrooms": 3,
+            "bathrooms": 3.0,
+            "square_feet": 2258,
+            "lot_size": 1978.00,
+            "year_built": 2004,
+            "furnishing": "furnished",
+            "floor": 6,
+            "total_floors": 10,
+            "facing": "north",
+            "is_featured": true,
+            "is_published": true,
+            "location": 5,
+            "owner": 13,
+            "agent": 5
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 6,
+        "fields": {
+            "address": "6 MG Road, Ahmedabad",
+            "city": "Ahmedabad",
+            "state": "Gujarat",
+            "zip_code": "560006",
+            "country": "India",
+            "latitude": 13.583359,
+            "longitude": 78.372568
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 6,
+        "fields": {
+            "title": "4BHK in Ahmedabad",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 1,
+            "purpose": "sale",
+            "status": "sold",
+            "price": 10905163,
+            "bedrooms": 4,
+            "bathrooms": 3.0,
+            "square_feet": 2326,
+            "lot_size": 1809.00,
+            "year_built": 2011,
+            "furnishing": "semi-furnished",
+            "floor": 5,
+            "total_floors": 10,
+            "facing": "east",
+            "is_featured": false,
+            "is_published": true,
+            "location": 6,
+            "owner": 14,
+            "agent": 21
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 7,
+        "fields": {
+            "address": "7 MG Road, Ahmedabad",
+            "city": "Ahmedabad",
+            "state": "Gujarat",
+            "zip_code": "560007",
+            "country": "India",
+            "latitude": 13.295215,
+            "longitude": 77.712624
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 7,
+        "fields": {
+            "title": "3BHK in Ahmedabad",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 5,
+            "purpose": "rent",
+            "status": "for_rent",
+            "price": 2624374,
+            "bedrooms": 5,
+            "bathrooms": 2.0,
+            "square_feet": 1730,
+            "lot_size": 2060.00,
+            "year_built": 2000,
+            "furnishing": "furnished",
+            "floor": 5,
+            "total_floors": 10,
+            "facing": "west",
+            "is_featured": false,
+            "is_published": true,
+            "location": 7,
+            "owner": 15,
+            "agent": 22
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 8,
+        "fields": {
+            "address": "8 MG Road, Ahmedabad",
+            "city": "Ahmedabad",
+            "state": "Gujarat",
+            "zip_code": "560008",
+            "country": "India",
+            "latitude": 13.146130,
+            "longitude": 77.698944
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 8,
+        "fields": {
+            "title": "2BHK in Ahmedabad",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 2,
+            "purpose": "rent",
+            "status": "rented",
+            "price": 11246726,
+            "bedrooms": 2,
+            "bathrooms": 3.0,
+            "square_feet": 2229,
+            "lot_size": 2552.00,
+            "year_built": 2011,
+            "furnishing": "furnished",
+            "floor": 1,
+            "total_floors": 10,
+            "facing": "west",
+            "is_featured": true,
+            "is_published": true,
+            "location": 8,
+            "owner": 16,
+            "agent": 23
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 9,
+        "fields": {
+            "address": "9 MG Road, Ahmedabad",
+            "city": "Ahmedabad",
+            "state": "Gujarat",
+            "zip_code": "560009",
+            "country": "India",
+            "latitude": 13.021462,
+            "longitude": 77.518314
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 9,
+        "fields": {
+            "title": "4BHK in Ahmedabad",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 3,
+            "purpose": "sale",
+            "status": "for_sale",
+            "price": 4563324,
+            "bedrooms": 3,
+            "bathrooms": 3.0,
+            "square_feet": 1393,
+            "lot_size": 1769.00,
+            "year_built": 2017,
+            "furnishing": "unfurnished",
+            "floor": 6,
+            "total_floors": 10,
+            "facing": "south",
+            "is_featured": true,
+            "is_published": true,
+            "location": 9,
+            "owner": 17,
+            "agent": 24
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 10,
+        "fields": {
+            "address": "10 MG Road, Ahmedabad",
+            "city": "Ahmedabad",
+            "state": "Gujarat",
+            "zip_code": "560010",
+            "country": "India",
+            "latitude": 13.440568,
+            "longitude": 78.337630
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 10,
+        "fields": {
+            "title": "2BHK in Ahmedabad",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 4,
+            "purpose": "sale",
+            "status": "sold",
+            "price": 13494197,
+            "bedrooms": 3,
+            "bathrooms": 1.0,
+            "square_feet": 1204,
+            "lot_size": 1655.00,
+            "year_built": 2011,
+            "furnishing": "semi-furnished",
+            "floor": 9,
+            "total_floors": 10,
+            "facing": "east",
+            "is_featured": false,
+            "is_published": true,
+            "location": 10,
+            "owner": 18,
+            "agent": 25
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 11,
+        "fields": {
+            "address": "1 MG Road, Bangalore",
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "zip_code": "560001",
+            "country": "India",
+            "latitude": 13.548147,
+            "longitude": 77.945747
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 11,
+        "fields": {
+            "title": "3BHK in Bangalore",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 3,
+            "purpose": "sale",
+            "status": "for_sale",
+            "price": 15538665,
+            "bedrooms": 2,
+            "bathrooms": 3.0,
+            "square_feet": 1864,
+            "lot_size": 1052.00,
+            "year_built": 2017,
+            "furnishing": "unfurnished",
+            "floor": 4,
+            "total_floors": 10,
+            "facing": "north",
+            "is_featured": true,
+            "is_published": true,
+            "location": 11,
+            "owner": 19,
+            "agent": 26
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 12,
+        "fields": {
+            "address": "2 MG Road, Bangalore",
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "zip_code": "560002",
+            "country": "India",
+            "latitude": 13.651193,
+            "longitude": 78.141719
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 12,
+        "fields": {
+            "title": "2BHK in Bangalore",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 1,
+            "purpose": "rent",
+            "status": "for_rent",
+            "price": 16469119,
+            "bedrooms": 2,
+            "bathrooms": 1.0,
+            "square_feet": 1726,
+            "lot_size": 1821.00,
+            "year_built": 2004,
+            "furnishing": "semi-furnished",
+            "floor": 2,
+            "total_floors": 10,
+            "facing": "west",
+            "is_featured": true,
+            "is_published": true,
+            "location": 12,
+            "owner": 20,
+            "agent": 27
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 13,
+        "fields": {
+            "address": "3 MG Road, Bangalore",
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "zip_code": "560003",
+            "country": "India",
+            "latitude": 12.905349,
+            "longitude": 78.172512
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 13,
+        "fields": {
+            "title": "3BHK in Bangalore",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 5,
+            "purpose": "rent",
+            "status": "rented",
+            "price": 15450148,
+            "bedrooms": 2,
+            "bathrooms": 2.0,
+            "square_feet": 2208,
+            "lot_size": 2238.00,
+            "year_built": 2017,
+            "furnishing": "unfurnished",
+            "floor": 7,
+            "total_floors": 10,
+            "facing": "south",
+            "is_featured": true,
+            "is_published": true,
+            "location": 13,
+            "owner": 6,
+            "agent": 28
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 14,
+        "fields": {
+            "address": "4 MG Road, Bangalore",
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "zip_code": "560004",
+            "country": "India",
+            "latitude": 12.985533,
+            "longitude": 77.579568
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 14,
+        "fields": {
+            "title": "4BHK in Bangalore",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 5,
+            "purpose": "sale",
+            "status": "sold",
+            "price": 10711905,
+            "bedrooms": 5,
+            "bathrooms": 1.0,
+            "square_feet": 2057,
+            "lot_size": 2867.00,
+            "year_built": 2019,
+            "furnishing": "furnished",
+            "floor": 1,
+            "total_floors": 10,
+            "facing": "north",
+            "is_featured": true,
+            "is_published": true,
+            "location": 14,
+            "owner": 7,
+            "agent": 29
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 15,
+        "fields": {
+            "address": "5 MG Road, Bangalore",
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "zip_code": "560005",
+            "country": "India",
+            "latitude": 13.383203,
+            "longitude": 77.655241
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 15,
+        "fields": {
+            "title": "3BHK in Bangalore",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 3,
+            "purpose": "rent",
+            "status": "for_rent",
+            "price": 2135974,
+            "bedrooms": 2,
+            "bathrooms": 2.0,
+            "square_feet": 1433,
+            "lot_size": 2279.00,
+            "year_built": 2022,
+            "furnishing": "unfurnished",
+            "floor": 10,
+            "total_floors": 10,
+            "facing": "west",
+            "is_featured": false,
+            "is_published": true,
+            "location": 15,
+            "owner": 11,
+            "agent": 30
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 16,
+        "fields": {
+            "address": "6 MG Road, Bangalore",
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "zip_code": "560006",
+            "country": "India",
+            "latitude": 12.995047,
+            "longitude": 77.596879
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 16,
+        "fields": {
+            "title": "3BHK in Bangalore",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 4,
+            "purpose": "rent",
+            "status": "for_rent",
+            "price": 13874933,
+            "bedrooms": 3,
+            "bathrooms": 3.0,
+            "square_feet": 2313,
+            "lot_size": 1510.00,
+            "year_built": 2007,
+            "furnishing": "furnished",
+            "floor": 6,
+            "total_floors": 10,
+            "facing": "north",
+            "is_featured": true,
+            "is_published": true,
+            "location": 16,
+            "owner": 12,
+            "agent": 1
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 17,
+        "fields": {
+            "address": "7 MG Road, Bangalore",
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "zip_code": "560007",
+            "country": "India",
+            "latitude": 13.862607,
+            "longitude": 77.959812
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 17,
+        "fields": {
+            "title": "3BHK in Bangalore",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 5,
+            "purpose": "rent",
+            "status": "rented",
+            "price": 3135389,
+            "bedrooms": 3,
+            "bathrooms": 2.0,
+            "square_feet": 1263,
+            "lot_size": 1340.00,
+            "year_built": 2011,
+            "furnishing": "furnished",
+            "floor": 3,
+            "total_floors": 10,
+            "facing": "east",
+            "is_featured": false,
+            "is_published": true,
+            "location": 17,
+            "owner": 13,
+            "agent": 2
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 18,
+        "fields": {
+            "address": "8 MG Road, Bangalore",
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "zip_code": "560008",
+            "country": "India",
+            "latitude": 13.814607,
+            "longitude": 78.120792
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 18,
+        "fields": {
+            "title": "4BHK in Bangalore",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 1,
+            "purpose": "rent",
+            "status": "for_rent",
+            "price": 3091560,
+            "bedrooms": 3,
+            "bathrooms": 1.0,
+            "square_feet": 2312,
+            "lot_size": 1757.00,
+            "year_built": 2016,
+            "furnishing": "unfurnished",
+            "floor": 3,
+            "total_floors": 10,
+            "facing": "east",
+            "is_featured": false,
+            "is_published": true,
+            "location": 18,
+            "owner": 14,
+            "agent": 3
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 19,
+        "fields": {
+            "address": "9 MG Road, Bangalore",
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "zip_code": "560009",
+            "country": "India",
+            "latitude": 13.525911,
+            "longitude": 77.630644
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 19,
+        "fields": {
+            "title": "3BHK in Bangalore",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 3,
+            "purpose": "rent",
+            "status": "rented",
+            "price": 14590236,
+            "bedrooms": 5,
+            "bathrooms": 1.0,
+            "square_feet": 1777,
+            "lot_size": 1345.00,
+            "year_built": 2022,
+            "furnishing": "furnished",
+            "floor": 6,
+            "total_floors": 10,
+            "facing": "south",
+            "is_featured": true,
+            "is_published": true,
+            "location": 19,
+            "owner": 15,
+            "agent": 4
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 20,
+        "fields": {
+            "address": "10 MG Road, Bangalore",
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "zip_code": "560010",
+            "country": "India",
+            "latitude": 13.164595,
+            "longitude": 77.547783
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 20,
+        "fields": {
+            "title": "3BHK in Bangalore",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 2,
+            "purpose": "rent",
+            "status": "rented",
+            "price": 10892136,
+            "bedrooms": 5,
+            "bathrooms": 1.0,
+            "square_feet": 2405,
+            "lot_size": 1026.00,
+            "year_built": 2021,
+            "furnishing": "semi-furnished",
+            "floor": 7,
+            "total_floors": 10,
+            "facing": "west",
+            "is_featured": false,
+            "is_published": true,
+            "location": 20,
+            "owner": 16,
+            "agent": 5
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 21,
+        "fields": {
+            "address": "1 MG Road, Chennai",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "zip_code": "560001",
+            "country": "India",
+            "latitude": 12.942050,
+            "longitude": 78.004673
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 21,
+        "fields": {
+            "title": "3BHK in Chennai",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 5,
+            "purpose": "rent",
+            "status": "for_rent",
+            "price": 14711410,
+            "bedrooms": 5,
+            "bathrooms": 1.0,
+            "square_feet": 2092,
+            "lot_size": 2836.00,
+            "year_built": 2005,
+            "furnishing": "furnished",
+            "floor": 2,
+            "total_floors": 10,
+            "facing": "south",
+            "is_featured": false,
+            "is_published": true,
+            "location": 21,
+            "owner": 17,
+            "agent": 21
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 22,
+        "fields": {
+            "address": "2 MG Road, Chennai",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "zip_code": "560002",
+            "country": "India",
+            "latitude": 13.844271,
+            "longitude": 78.126286
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 22,
+        "fields": {
+            "title": "4BHK in Chennai",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 2,
+            "purpose": "rent",
+            "status": "for_rent",
+            "price": 14129746,
+            "bedrooms": 2,
+            "bathrooms": 3.0,
+            "square_feet": 804,
+            "lot_size": 1522.00,
+            "year_built": 2004,
+            "furnishing": "semi-furnished",
+            "floor": 5,
+            "total_floors": 10,
+            "facing": "east",
+            "is_featured": true,
+            "is_published": true,
+            "location": 22,
+            "owner": 18,
+            "agent": 22
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 23,
+        "fields": {
+            "address": "3 MG Road, Chennai",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "zip_code": "560003",
+            "country": "India",
+            "latitude": 13.712401,
+            "longitude": 77.960197
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 23,
+        "fields": {
+            "title": "3BHK in Chennai",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 2,
+            "purpose": "rent",
+            "status": "for_rent",
+            "price": 9661512,
+            "bedrooms": 2,
+            "bathrooms": 1.0,
+            "square_feet": 2317,
+            "lot_size": 1440.00,
+            "year_built": 2022,
+            "furnishing": "semi-furnished",
+            "floor": 4,
+            "total_floors": 10,
+            "facing": "west",
+            "is_featured": true,
+            "is_published": true,
+            "location": 23,
+            "owner": 19,
+            "agent": 23
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 24,
+        "fields": {
+            "address": "4 MG Road, Chennai",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "zip_code": "560004",
+            "country": "India",
+            "latitude": 13.194066,
+            "longitude": 78.100049
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 24,
+        "fields": {
+            "title": "3BHK in Chennai",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 4,
+            "purpose": "sale",
+            "status": "for_sale",
+            "price": 5476226,
+            "bedrooms": 4,
+            "bathrooms": 3.0,
+            "square_feet": 2353,
+            "lot_size": 1737.00,
+            "year_built": 2012,
+            "furnishing": "semi-furnished",
+            "floor": 3,
+            "total_floors": 10,
+            "facing": "south",
+            "is_featured": false,
+            "is_published": true,
+            "location": 24,
+            "owner": 20,
+            "agent": 24
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 25,
+        "fields": {
+            "address": "5 MG Road, Chennai",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "zip_code": "560005",
+            "country": "India",
+            "latitude": 13.449075,
+            "longitude": 77.845049
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 25,
+        "fields": {
+            "title": "3BHK in Chennai",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 2,
+            "purpose": "sale",
+            "status": "for_sale",
+            "price": 13188333,
+            "bedrooms": 2,
+            "bathrooms": 2.0,
+            "square_feet": 1192,
+            "lot_size": 1250.00,
+            "year_built": 2011,
+            "furnishing": "furnished",
+            "floor": 1,
+            "total_floors": 10,
+            "facing": "south",
+            "is_featured": true,
+            "is_published": true,
+            "location": 25,
+            "owner": 6,
+            "agent": 25
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 26,
+        "fields": {
+            "address": "6 MG Road, Chennai",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "zip_code": "560006",
+            "country": "India",
+            "latitude": 12.912105,
+            "longitude": 77.887124
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 26,
+        "fields": {
+            "title": "3BHK in Chennai",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 2,
+            "purpose": "sale",
+            "status": "for_sale",
+            "price": 8858703,
+            "bedrooms": 3,
+            "bathrooms": 2.0,
+            "square_feet": 845,
+            "lot_size": 2657.00,
+            "year_built": 2006,
+            "furnishing": "furnished",
+            "floor": 8,
+            "total_floors": 10,
+            "facing": "east",
+            "is_featured": false,
+            "is_published": true,
+            "location": 26,
+            "owner": 7,
+            "agent": 26
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 27,
+        "fields": {
+            "address": "7 MG Road, Chennai",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "zip_code": "560007",
+            "country": "India",
+            "latitude": 13.421449,
+            "longitude": 77.949428
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 27,
+        "fields": {
+            "title": "2BHK in Chennai",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 5,
+            "purpose": "sale",
+            "status": "for_sale",
+            "price": 3602221,
+            "bedrooms": 2,
+            "bathrooms": 3.0,
+            "square_feet": 2122,
+            "lot_size": 2743.00,
+            "year_built": 2001,
+            "furnishing": "semi-furnished",
+            "floor": 8,
+            "total_floors": 10,
+            "facing": "north",
+            "is_featured": true,
+            "is_published": true,
+            "location": 27,
+            "owner": 11,
+            "agent": 27
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 28,
+        "fields": {
+            "address": "8 MG Road, Chennai",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "zip_code": "560008",
+            "country": "India",
+            "latitude": 13.540652,
+            "longitude": 77.980466
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 28,
+        "fields": {
+            "title": "3BHK in Chennai",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 2,
+            "purpose": "sale",
+            "status": "sold",
+            "price": 10380759,
+            "bedrooms": 5,
+            "bathrooms": 1.0,
+            "square_feet": 1009,
+            "lot_size": 1646.00,
+            "year_built": 2006,
+            "furnishing": "unfurnished",
+            "floor": 2,
+            "total_floors": 10,
+            "facing": "east",
+            "is_featured": false,
+            "is_published": true,
+            "location": 28,
+            "owner": 12,
+            "agent": 28
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 29,
+        "fields": {
+            "address": "9 MG Road, Chennai",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "zip_code": "560009",
+            "country": "India",
+            "latitude": 13.579299,
+            "longitude": 78.125854
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 29,
+        "fields": {
+            "title": "2BHK in Chennai",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 1,
+            "purpose": "rent",
+            "status": "for_rent",
+            "price": 14892238,
+            "bedrooms": 4,
+            "bathrooms": 1.0,
+            "square_feet": 1838,
+            "lot_size": 1327.00,
+            "year_built": 2012,
+            "furnishing": "unfurnished",
+            "floor": 10,
+            "total_floors": 10,
+            "facing": "west",
+            "is_featured": false,
+            "is_published": true,
+            "location": 29,
+            "owner": 13,
+            "agent": 29
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 30,
+        "fields": {
+            "address": "10 MG Road, Chennai",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "zip_code": "560010",
+            "country": "India",
+            "latitude": 13.339608,
+            "longitude": 77.897865
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 30,
+        "fields": {
+            "title": "2BHK in Chennai",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 1,
+            "purpose": "sale",
+            "status": "sold",
+            "price": 9465673,
+            "bedrooms": 3,
+            "bathrooms": 2.0,
+            "square_feet": 1942,
+            "lot_size": 1012.00,
+            "year_built": 2010,
+            "furnishing": "unfurnished",
+            "floor": 2,
+            "total_floors": 10,
+            "facing": "south",
+            "is_featured": true,
+            "is_published": true,
+            "location": 30,
+            "owner": 14,
+            "agent": 30
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 31,
+        "fields": {
+            "address": "1 MG Road, Delhi",
+            "city": "Delhi",
+            "state": "State",
+            "zip_code": "560001",
+            "country": "India",
+            "latitude": 13.022128,
+            "longitude": 78.175396
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 31,
+        "fields": {
+            "title": "2BHK in Delhi",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 5,
+            "purpose": "sale",
+            "status": "for_sale",
+            "price": 10460999,
+            "bedrooms": 3,
+            "bathrooms": 1.0,
+            "square_feet": 1644,
+            "lot_size": 2026.00,
+            "year_built": 2005,
+            "furnishing": "furnished",
+            "floor": 3,
+            "total_floors": 10,
+            "facing": "west",
+            "is_featured": false,
+            "is_published": true,
+            "location": 31,
+            "owner": 15,
+            "agent": 1
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 32,
+        "fields": {
+            "address": "2 MG Road, Delhi",
+            "city": "Delhi",
+            "state": "State",
+            "zip_code": "560002",
+            "country": "India",
+            "latitude": 13.866389,
+            "longitude": 78.479315
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 32,
+        "fields": {
+            "title": "3BHK in Delhi",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 3,
+            "purpose": "sale",
+            "status": "for_sale",
+            "price": 4575274,
+            "bedrooms": 5,
+            "bathrooms": 2.0,
+            "square_feet": 936,
+            "lot_size": 1409.00,
+            "year_built": 2011,
+            "furnishing": "furnished",
+            "floor": 8,
+            "total_floors": 10,
+            "facing": "east",
+            "is_featured": false,
+            "is_published": true,
+            "location": 32,
+            "owner": 16,
+            "agent": 2
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 33,
+        "fields": {
+            "address": "3 MG Road, Delhi",
+            "city": "Delhi",
+            "state": "State",
+            "zip_code": "560003",
+            "country": "India",
+            "latitude": 13.719315,
+            "longitude": 77.780462
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 33,
+        "fields": {
+            "title": "2BHK in Delhi",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 4,
+            "purpose": "rent",
+            "status": "rented",
+            "price": 7044110,
+            "bedrooms": 5,
+            "bathrooms": 2.0,
+            "square_feet": 1313,
+            "lot_size": 2933.00,
+            "year_built": 2007,
+            "furnishing": "unfurnished",
+            "floor": 1,
+            "total_floors": 10,
+            "facing": "south",
+            "is_featured": false,
+            "is_published": true,
+            "location": 33,
+            "owner": 17,
+            "agent": 3
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 34,
+        "fields": {
+            "address": "4 MG Road, Delhi",
+            "city": "Delhi",
+            "state": "State",
+            "zip_code": "560004",
+            "country": "India",
+            "latitude": 13.073940,
+            "longitude": 78.315819
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 34,
+        "fields": {
+            "title": "3BHK in Delhi",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 1,
+            "purpose": "sale",
+            "status": "for_sale",
+            "price": 18956370,
+            "bedrooms": 2,
+            "bathrooms": 1.0,
+            "square_feet": 1733,
+            "lot_size": 2591.00,
+            "year_built": 2014,
+            "furnishing": "semi-furnished",
+            "floor": 8,
+            "total_floors": 10,
+            "facing": "east",
+            "is_featured": false,
+            "is_published": true,
+            "location": 34,
+            "owner": 18,
+            "agent": 4
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 35,
+        "fields": {
+            "address": "5 MG Road, Delhi",
+            "city": "Delhi",
+            "state": "State",
+            "zip_code": "560005",
+            "country": "India",
+            "latitude": 13.618590,
+            "longitude": 77.613040
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 35,
+        "fields": {
+            "title": "4BHK in Delhi",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 3,
+            "purpose": "sale",
+            "status": "for_sale",
+            "price": 3506988,
+            "bedrooms": 3,
+            "bathrooms": 3.0,
+            "square_feet": 984,
+            "lot_size": 1587.00,
+            "year_built": 2005,
+            "furnishing": "unfurnished",
+            "floor": 8,
+            "total_floors": 10,
+            "facing": "south",
+            "is_featured": false,
+            "is_published": true,
+            "location": 35,
+            "owner": 19,
+            "agent": 5
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 36,
+        "fields": {
+            "address": "6 MG Road, Delhi",
+            "city": "Delhi",
+            "state": "State",
+            "zip_code": "560006",
+            "country": "India",
+            "latitude": 13.471711,
+            "longitude": 77.801768
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 36,
+        "fields": {
+            "title": "2BHK in Delhi",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 1,
+            "purpose": "rent",
+            "status": "rented",
+            "price": 3778013,
+            "bedrooms": 2,
+            "bathrooms": 1.0,
+            "square_feet": 1959,
+            "lot_size": 1432.00,
+            "year_built": 2003,
+            "furnishing": "unfurnished",
+            "floor": 1,
+            "total_floors": 10,
+            "facing": "north",
+            "is_featured": true,
+            "is_published": true,
+            "location": 36,
+            "owner": 20,
+            "agent": 21
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 37,
+        "fields": {
+            "address": "7 MG Road, Delhi",
+            "city": "Delhi",
+            "state": "State",
+            "zip_code": "560007",
+            "country": "India",
+            "latitude": 13.218064,
+            "longitude": 78.228603
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 37,
+        "fields": {
+            "title": "2BHK in Delhi",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 1,
+            "purpose": "rent",
+            "status": "rented",
+            "price": 9574292,
+            "bedrooms": 4,
+            "bathrooms": 1.0,
+            "square_feet": 2396,
+            "lot_size": 2180.00,
+            "year_built": 2002,
+            "furnishing": "semi-furnished",
+            "floor": 9,
+            "total_floors": 10,
+            "facing": "east",
+            "is_featured": true,
+            "is_published": true,
+            "location": 37,
+            "owner": 6,
+            "agent": 22
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 38,
+        "fields": {
+            "address": "8 MG Road, Delhi",
+            "city": "Delhi",
+            "state": "State",
+            "zip_code": "560008",
+            "country": "India",
+            "latitude": 13.842950,
+            "longitude": 78.002675
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 38,
+        "fields": {
+            "title": "4BHK in Delhi",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 3,
+            "purpose": "rent",
+            "status": "for_rent",
+            "price": 6673627,
+            "bedrooms": 5,
+            "bathrooms": 3.0,
+            "square_feet": 2433,
+            "lot_size": 2504.00,
+            "year_built": 2009,
+            "furnishing": "semi-furnished",
+            "floor": 2,
+            "total_floors": 10,
+            "facing": "west",
+            "is_featured": true,
+            "is_published": true,
+            "location": 38,
+            "owner": 7,
+            "agent": 23
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 39,
+        "fields": {
+            "address": "9 MG Road, Delhi",
+            "city": "Delhi",
+            "state": "State",
+            "zip_code": "560009",
+            "country": "India",
+            "latitude": 13.209497,
+            "longitude": 78.285274
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 39,
+        "fields": {
+            "title": "3BHK in Delhi",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 2,
+            "purpose": "sale",
+            "status": "for_sale",
+            "price": 17311606,
+            "bedrooms": 2,
+            "bathrooms": 1.0,
+            "square_feet": 2485,
+            "lot_size": 1831.00,
+            "year_built": 2011,
+            "furnishing": "furnished",
+            "floor": 10,
+            "total_floors": 10,
+            "facing": "south",
+            "is_featured": true,
+            "is_published": true,
+            "location": 39,
+            "owner": 11,
+            "agent": 24
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 40,
+        "fields": {
+            "address": "10 MG Road, Delhi",
+            "city": "Delhi",
+            "state": "State",
+            "zip_code": "560010",
+            "country": "India",
+            "latitude": 13.876608,
+            "longitude": 78.403635
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 40,
+        "fields": {
+            "title": "2BHK in Delhi",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 1,
+            "purpose": "rent",
+            "status": "for_rent",
+            "price": 11546198,
+            "bedrooms": 3,
+            "bathrooms": 1.0,
+            "square_feet": 1322,
+            "lot_size": 1606.00,
+            "year_built": 2020,
+            "furnishing": "unfurnished",
+            "floor": 10,
+            "total_floors": 10,
+            "facing": "east",
+            "is_featured": true,
+            "is_published": true,
+            "location": 40,
+            "owner": 12,
+            "agent": 25
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 41,
+        "fields": {
+            "address": "1 MG Road, Gurgaon",
+            "city": "Gurgaon",
+            "state": "Haryana",
+            "zip_code": "560001",
+            "country": "India",
+            "latitude": 13.461273,
+            "longitude": 78.400455
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 41,
+        "fields": {
+            "title": "3BHK in Gurgaon",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 4,
+            "purpose": "sale",
+            "status": "for_sale",
+            "price": 11869915,
+            "bedrooms": 2,
+            "bathrooms": 1.0,
+            "square_feet": 1261,
+            "lot_size": 1842.00,
+            "year_built": 2010,
+            "furnishing": "semi-furnished",
+            "floor": 8,
+            "total_floors": 10,
+            "facing": "east",
+            "is_featured": false,
+            "is_published": true,
+            "location": 41,
+            "owner": 13,
+            "agent": 26
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 42,
+        "fields": {
+            "address": "2 MG Road, Gurgaon",
+            "city": "Gurgaon",
+            "state": "Haryana",
+            "zip_code": "560002",
+            "country": "India",
+            "latitude": 13.338578,
+            "longitude": 78.018036
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 42,
+        "fields": {
+            "title": "2BHK in Gurgaon",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 5,
+            "purpose": "rent",
+            "status": "for_rent",
+            "price": 13604855,
+            "bedrooms": 5,
+            "bathrooms": 2.0,
+            "square_feet": 2200,
+            "lot_size": 2297.00,
+            "year_built": 2005,
+            "furnishing": "furnished",
+            "floor": 9,
+            "total_floors": 10,
+            "facing": "south",
+            "is_featured": true,
+            "is_published": true,
+            "location": 42,
+            "owner": 14,
+            "agent": 27
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 43,
+        "fields": {
+            "address": "3 MG Road, Gurgaon",
+            "city": "Gurgaon",
+            "state": "Haryana",
+            "zip_code": "560003",
+            "country": "India",
+            "latitude": 13.683702,
+            "longitude": 77.635599
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 43,
+        "fields": {
+            "title": "3BHK in Gurgaon",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 3,
+            "purpose": "sale",
+            "status": "for_sale",
+            "price": 2312019,
+            "bedrooms": 4,
+            "bathrooms": 3.0,
+            "square_feet": 1199,
+            "lot_size": 2065.00,
+            "year_built": 2013,
+            "furnishing": "furnished",
+            "floor": 1,
+            "total_floors": 10,
+            "facing": "east",
+            "is_featured": false,
+            "is_published": true,
+            "location": 43,
+            "owner": 15,
+            "agent": 28
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 44,
+        "fields": {
+            "address": "4 MG Road, Gurgaon",
+            "city": "Gurgaon",
+            "state": "Haryana",
+            "zip_code": "560004",
+            "country": "India",
+            "latitude": 13.241991,
+            "longitude": 77.831851
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 44,
+        "fields": {
+            "title": "4BHK in Gurgaon",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 1,
+            "purpose": "rent",
+            "status": "for_rent",
+            "price": 12485064,
+            "bedrooms": 5,
+            "bathrooms": 3.0,
+            "square_feet": 1450,
+            "lot_size": 2625.00,
+            "year_built": 2022,
+            "furnishing": "unfurnished",
+            "floor": 5,
+            "total_floors": 10,
+            "facing": "east",
+            "is_featured": true,
+            "is_published": true,
+            "location": 44,
+            "owner": 16,
+            "agent": 29
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 45,
+        "fields": {
+            "address": "5 MG Road, Gurgaon",
+            "city": "Gurgaon",
+            "state": "Haryana",
+            "zip_code": "560005",
+            "country": "India",
+            "latitude": 13.491128,
+            "longitude": 78.333661
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 45,
+        "fields": {
+            "title": "3BHK in Gurgaon",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 4,
+            "purpose": "sale",
+            "status": "sold",
+            "price": 3018888,
+            "bedrooms": 4,
+            "bathrooms": 3.0,
+            "square_feet": 2258,
+            "lot_size": 1703.00,
+            "year_built": 2017,
+            "furnishing": "furnished",
+            "floor": 3,
+            "total_floors": 10,
+            "facing": "east",
+            "is_featured": false,
+            "is_published": true,
+            "location": 45,
+            "owner": 17,
+            "agent": 30
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 46,
+        "fields": {
+            "address": "6 MG Road, Gurgaon",
+            "city": "Gurgaon",
+            "state": "Haryana",
+            "zip_code": "560006",
+            "country": "India",
+            "latitude": 13.489284,
+            "longitude": 78.423991
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 46,
+        "fields": {
+            "title": "4BHK in Gurgaon",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 1,
+            "purpose": "sale",
+            "status": "for_sale",
+            "price": 16582600,
+            "bedrooms": 2,
+            "bathrooms": 2.0,
+            "square_feet": 1329,
+            "lot_size": 2732.00,
+            "year_built": 2002,
+            "furnishing": "furnished",
+            "floor": 3,
+            "total_floors": 10,
+            "facing": "east",
+            "is_featured": false,
+            "is_published": true,
+            "location": 46,
+            "owner": 18,
+            "agent": 1
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 47,
+        "fields": {
+            "address": "7 MG Road, Gurgaon",
+            "city": "Gurgaon",
+            "state": "Haryana",
+            "zip_code": "560007",
+            "country": "India",
+            "latitude": 13.099767,
+            "longitude": 77.738792
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 47,
+        "fields": {
+            "title": "3BHK in Gurgaon",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 4,
+            "purpose": "sale",
+            "status": "for_sale",
+            "price": 15575213,
+            "bedrooms": 3,
+            "bathrooms": 3.0,
+            "square_feet": 1504,
+            "lot_size": 2846.00,
+            "year_built": 2001,
+            "furnishing": "semi-furnished",
+            "floor": 7,
+            "total_floors": 10,
+            "facing": "south",
+            "is_featured": true,
+            "is_published": true,
+            "location": 47,
+            "owner": 19,
+            "agent": 2
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 48,
+        "fields": {
+            "address": "8 MG Road, Gurgaon",
+            "city": "Gurgaon",
+            "state": "Haryana",
+            "zip_code": "560008",
+            "country": "India",
+            "latitude": 13.432324,
+            "longitude": 77.521569
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 48,
+        "fields": {
+            "title": "2BHK in Gurgaon",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 5,
+            "purpose": "sale",
+            "status": "for_sale",
+            "price": 5278470,
+            "bedrooms": 4,
+            "bathrooms": 2.0,
+            "square_feet": 2061,
+            "lot_size": 1729.00,
+            "year_built": 2001,
+            "furnishing": "unfurnished",
+            "floor": 1,
+            "total_floors": 10,
+            "facing": "south",
+            "is_featured": false,
+            "is_published": true,
+            "location": 48,
+            "owner": 20,
+            "agent": 3
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 49,
+        "fields": {
+            "address": "9 MG Road, Gurgaon",
+            "city": "Gurgaon",
+            "state": "Haryana",
+            "zip_code": "560009",
+            "country": "India",
+            "latitude": 13.351344,
+            "longitude": 78.241638
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 49,
+        "fields": {
+            "title": "2BHK in Gurgaon",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 3,
+            "purpose": "sale",
+            "status": "for_sale",
+            "price": 11544544,
+            "bedrooms": 2,
+            "bathrooms": 2.0,
+            "square_feet": 1274,
+            "lot_size": 1773.00,
+            "year_built": 2006,
+            "furnishing": "semi-furnished",
+            "floor": 4,
+            "total_floors": 10,
+            "facing": "west",
+            "is_featured": true,
+            "is_published": true,
+            "location": 49,
+            "owner": 6,
+            "agent": 4
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 50,
+        "fields": {
+            "address": "10 MG Road, Gurgaon",
+            "city": "Gurgaon",
+            "state": "Haryana",
+            "zip_code": "560010",
+            "country": "India",
+            "latitude": 13.454235,
+            "longitude": 77.830431
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 50,
+        "fields": {
+            "title": "3BHK in Gurgaon",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 3,
+            "purpose": "sale",
+            "status": "for_sale",
+            "price": 5283692,
+            "bedrooms": 5,
+            "bathrooms": 2.0,
+            "square_feet": 2078,
+            "lot_size": 1493.00,
+            "year_built": 2014,
+            "furnishing": "unfurnished",
+            "floor": 6,
+            "total_floors": 10,
+            "facing": "south",
+            "is_featured": false,
+            "is_published": true,
+            "location": 50,
+            "owner": 7,
+            "agent": 5
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 51,
+        "fields": {
+            "address": "1 MG Road, Hyderabad",
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "zip_code": "560001",
+            "country": "India",
+            "latitude": 13.206676,
+            "longitude": 77.589150
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 51,
+        "fields": {
+            "title": "2BHK in Hyderabad",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 4,
+            "purpose": "rent",
+            "status": "for_rent",
+            "price": 13207114,
+            "bedrooms": 3,
+            "bathrooms": 2.0,
+            "square_feet": 1756,
+            "lot_size": 1464.00,
+            "year_built": 2006,
+            "furnishing": "unfurnished",
+            "floor": 2,
+            "total_floors": 10,
+            "facing": "west",
+            "is_featured": false,
+            "is_published": true,
+            "location": 51,
+            "owner": 11,
+            "agent": 21
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 52,
+        "fields": {
+            "address": "2 MG Road, Hyderabad",
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "zip_code": "560002",
+            "country": "India",
+            "latitude": 13.486445,
+            "longitude": 78.003494
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 52,
+        "fields": {
+            "title": "3BHK in Hyderabad",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 5,
+            "purpose": "rent",
+            "status": "for_rent",
+            "price": 16699387,
+            "bedrooms": 3,
+            "bathrooms": 1.0,
+            "square_feet": 2468,
+            "lot_size": 2441.00,
+            "year_built": 2016,
+            "furnishing": "semi-furnished",
+            "floor": 10,
+            "total_floors": 10,
+            "facing": "west",
+            "is_featured": false,
+            "is_published": true,
+            "location": 52,
+            "owner": 12,
+            "agent": 22
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 53,
+        "fields": {
+            "address": "3 MG Road, Hyderabad",
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "zip_code": "560003",
+            "country": "India",
+            "latitude": 13.089866,
+            "longitude": 78.002331
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 53,
+        "fields": {
+            "title": "4BHK in Hyderabad",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 4,
+            "purpose": "rent",
+            "status": "for_rent",
+            "price": 15093861,
+            "bedrooms": 3,
+            "bathrooms": 3.0,
+            "square_feet": 1356,
+            "lot_size": 1094.00,
+            "year_built": 2013,
+            "furnishing": "unfurnished",
+            "floor": 9,
+            "total_floors": 10,
+            "facing": "east",
+            "is_featured": false,
+            "is_published": true,
+            "location": 53,
+            "owner": 13,
+            "agent": 23
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 54,
+        "fields": {
+            "address": "4 MG Road, Hyderabad",
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "zip_code": "560004",
+            "country": "India",
+            "latitude": 13.801576,
+            "longitude": 77.976274
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 54,
+        "fields": {
+            "title": "4BHK in Hyderabad",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 1,
+            "purpose": "sale",
+            "status": "for_sale",
+            "price": 16993673,
+            "bedrooms": 3,
+            "bathrooms": 3.0,
+            "square_feet": 866,
+            "lot_size": 2677.00,
+            "year_built": 2015,
+            "furnishing": "furnished",
+            "floor": 5,
+            "total_floors": 10,
+            "facing": "south",
+            "is_featured": false,
+            "is_published": true,
+            "location": 54,
+            "owner": 14,
+            "agent": 24
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 55,
+        "fields": {
+            "address": "5 MG Road, Hyderabad",
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "zip_code": "560005",
+            "country": "India",
+            "latitude": 13.305454,
+            "longitude": 78.168183
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 55,
+        "fields": {
+            "title": "4BHK in Hyderabad",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 2,
+            "purpose": "rent",
+            "status": "rented",
+            "price": 9562146,
+            "bedrooms": 5,
+            "bathrooms": 3.0,
+            "square_feet": 2363,
+            "lot_size": 2767.00,
+            "year_built": 2014,
+            "furnishing": "semi-furnished",
+            "floor": 7,
+            "total_floors": 10,
+            "facing": "south",
+            "is_featured": false,
+            "is_published": true,
+            "location": 55,
+            "owner": 15,
+            "agent": 25
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 56,
+        "fields": {
+            "address": "6 MG Road, Hyderabad",
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "zip_code": "560006",
+            "country": "India",
+            "latitude": 13.606849,
+            "longitude": 78.274911
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 56,
+        "fields": {
+            "title": "3BHK in Hyderabad",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 4,
+            "purpose": "rent",
+            "status": "rented",
+            "price": 6172482,
+            "bedrooms": 3,
+            "bathrooms": 3.0,
+            "square_feet": 1316,
+            "lot_size": 2433.00,
+            "year_built": 2016,
+            "furnishing": "unfurnished",
+            "floor": 5,
+            "total_floors": 10,
+            "facing": "south",
+            "is_featured": true,
+            "is_published": true,
+            "location": 56,
+            "owner": 16,
+            "agent": 26
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 57,
+        "fields": {
+            "address": "7 MG Road, Hyderabad",
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "zip_code": "560007",
+            "country": "India",
+            "latitude": 13.727393,
+            "longitude": 77.933501
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 57,
+        "fields": {
+            "title": "2BHK in Hyderabad",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 4,
+            "purpose": "sale",
+            "status": "sold",
+            "price": 5268531,
+            "bedrooms": 5,
+            "bathrooms": 1.0,
+            "square_feet": 847,
+            "lot_size": 1920.00,
+            "year_built": 2023,
+            "furnishing": "furnished",
+            "floor": 7,
+            "total_floors": 10,
+            "facing": "north",
+            "is_featured": false,
+            "is_published": true,
+            "location": 57,
+            "owner": 17,
+            "agent": 27
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 58,
+        "fields": {
+            "address": "8 MG Road, Hyderabad",
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "zip_code": "560008",
+            "country": "India",
+            "latitude": 13.254137,
+            "longitude": 77.641649
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 58,
+        "fields": {
+            "title": "2BHK in Hyderabad",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 5,
+            "purpose": "sale",
+            "status": "for_sale",
+            "price": 7599306,
+            "bedrooms": 3,
+            "bathrooms": 1.0,
+            "square_feet": 1049,
+            "lot_size": 1972.00,
+            "year_built": 2000,
+            "furnishing": "unfurnished",
+            "floor": 2,
+            "total_floors": 10,
+            "facing": "east",
+            "is_featured": false,
+            "is_published": true,
+            "location": 58,
+            "owner": 18,
+            "agent": 28
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 59,
+        "fields": {
+            "address": "9 MG Road, Hyderabad",
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "zip_code": "560009",
+            "country": "India",
+            "latitude": 13.712681,
+            "longitude": 77.556184
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 59,
+        "fields": {
+            "title": "2BHK in Hyderabad",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 4,
+            "purpose": "rent",
+            "status": "rented",
+            "price": 4642441,
+            "bedrooms": 4,
+            "bathrooms": 2.0,
+            "square_feet": 1769,
+            "lot_size": 1515.00,
+            "year_built": 2019,
+            "furnishing": "unfurnished",
+            "floor": 4,
+            "total_floors": 10,
+            "facing": "west",
+            "is_featured": false,
+            "is_published": true,
+            "location": 59,
+            "owner": 19,
+            "agent": 29
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 60,
+        "fields": {
+            "address": "10 MG Road, Hyderabad",
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "zip_code": "560010",
+            "country": "India",
+            "latitude": 13.757839,
+            "longitude": 78.309024
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 60,
+        "fields": {
+            "title": "2BHK in Hyderabad",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 4,
+            "purpose": "rent",
+            "status": "for_rent",
+            "price": 16426399,
+            "bedrooms": 4,
+            "bathrooms": 3.0,
+            "square_feet": 912,
+            "lot_size": 1899.00,
+            "year_built": 2021,
+            "furnishing": "semi-furnished",
+            "floor": 4,
+            "total_floors": 10,
+            "facing": "south",
+            "is_featured": true,
+            "is_published": true,
+            "location": 60,
+            "owner": 20,
+            "agent": 30
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 61,
+        "fields": {
+            "address": "1 MG Road, Kolkata",
+            "city": "Kolkata",
+            "state": "West Bengal",
+            "zip_code": "560001",
+            "country": "India",
+            "latitude": 13.274221,
+            "longitude": 78.482067
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 61,
+        "fields": {
+            "title": "4BHK in Kolkata",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 1,
+            "purpose": "rent",
+            "status": "for_rent",
+            "price": 7144565,
+            "bedrooms": 5,
+            "bathrooms": 1.0,
+            "square_feet": 802,
+            "lot_size": 1602.00,
+            "year_built": 2006,
+            "furnishing": "semi-furnished",
+            "floor": 2,
+            "total_floors": 10,
+            "facing": "west",
+            "is_featured": true,
+            "is_published": true,
+            "location": 61,
+            "owner": 6,
+            "agent": 1
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 62,
+        "fields": {
+            "address": "2 MG Road, Kolkata",
+            "city": "Kolkata",
+            "state": "West Bengal",
+            "zip_code": "560002",
+            "country": "India",
+            "latitude": 13.480266,
+            "longitude": 77.792729
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 62,
+        "fields": {
+            "title": "4BHK in Kolkata",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 5,
+            "purpose": "rent",
+            "status": "rented",
+            "price": 3667363,
+            "bedrooms": 5,
+            "bathrooms": 2.0,
+            "square_feet": 2359,
+            "lot_size": 2677.00,
+            "year_built": 2009,
+            "furnishing": "unfurnished",
+            "floor": 1,
+            "total_floors": 10,
+            "facing": "north",
+            "is_featured": false,
+            "is_published": true,
+            "location": 62,
+            "owner": 7,
+            "agent": 2
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 63,
+        "fields": {
+            "address": "3 MG Road, Kolkata",
+            "city": "Kolkata",
+            "state": "West Bengal",
+            "zip_code": "560003",
+            "country": "India",
+            "latitude": 13.121749,
+            "longitude": 77.776483
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 63,
+        "fields": {
+            "title": "4BHK in Kolkata",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 4,
+            "purpose": "sale",
+            "status": "for_sale",
+            "price": 2674161,
+            "bedrooms": 2,
+            "bathrooms": 3.0,
+            "square_feet": 998,
+            "lot_size": 1320.00,
+            "year_built": 2014,
+            "furnishing": "unfurnished",
+            "floor": 7,
+            "total_floors": 10,
+            "facing": "south",
+            "is_featured": true,
+            "is_published": true,
+            "location": 63,
+            "owner": 11,
+            "agent": 3
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 64,
+        "fields": {
+            "address": "4 MG Road, Kolkata",
+            "city": "Kolkata",
+            "state": "West Bengal",
+            "zip_code": "560004",
+            "country": "India",
+            "latitude": 12.959965,
+            "longitude": 77.991296
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 64,
+        "fields": {
+            "title": "4BHK in Kolkata",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 2,
+            "purpose": "rent",
+            "status": "for_rent",
+            "price": 12021598,
+            "bedrooms": 4,
+            "bathrooms": 3.0,
+            "square_feet": 2162,
+            "lot_size": 1481.00,
+            "year_built": 2017,
+            "furnishing": "unfurnished",
+            "floor": 1,
+            "total_floors": 10,
+            "facing": "south",
+            "is_featured": false,
+            "is_published": true,
+            "location": 64,
+            "owner": 12,
+            "agent": 4
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 65,
+        "fields": {
+            "address": "5 MG Road, Kolkata",
+            "city": "Kolkata",
+            "state": "West Bengal",
+            "zip_code": "560005",
+            "country": "India",
+            "latitude": 13.078116,
+            "longitude": 78.292330
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 65,
+        "fields": {
+            "title": "3BHK in Kolkata",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 3,
+            "purpose": "sale",
+            "status": "sold",
+            "price": 9172828,
+            "bedrooms": 5,
+            "bathrooms": 2.0,
+            "square_feet": 949,
+            "lot_size": 1254.00,
+            "year_built": 2022,
+            "furnishing": "semi-furnished",
+            "floor": 3,
+            "total_floors": 10,
+            "facing": "east",
+            "is_featured": true,
+            "is_published": true,
+            "location": 65,
+            "owner": 13,
+            "agent": 5
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 66,
+        "fields": {
+            "address": "6 MG Road, Kolkata",
+            "city": "Kolkata",
+            "state": "West Bengal",
+            "zip_code": "560006",
+            "country": "India",
+            "latitude": 13.698754,
+            "longitude": 78.329253
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 66,
+        "fields": {
+            "title": "4BHK in Kolkata",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 4,
+            "purpose": "sale",
+            "status": "for_sale",
+            "price": 15407674,
+            "bedrooms": 4,
+            "bathrooms": 2.0,
+            "square_feet": 1913,
+            "lot_size": 1071.00,
+            "year_built": 2022,
+            "furnishing": "furnished",
+            "floor": 3,
+            "total_floors": 10,
+            "facing": "west",
+            "is_featured": true,
+            "is_published": true,
+            "location": 66,
+            "owner": 14,
+            "agent": 21
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 67,
+        "fields": {
+            "address": "7 MG Road, Kolkata",
+            "city": "Kolkata",
+            "state": "West Bengal",
+            "zip_code": "560007",
+            "country": "India",
+            "latitude": 13.466735,
+            "longitude": 77.576149
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 67,
+        "fields": {
+            "title": "2BHK in Kolkata",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 3,
+            "purpose": "sale",
+            "status": "for_sale",
+            "price": 9161930,
+            "bedrooms": 3,
+            "bathrooms": 1.0,
+            "square_feet": 1105,
+            "lot_size": 2899.00,
+            "year_built": 2002,
+            "furnishing": "semi-furnished",
+            "floor": 4,
+            "total_floors": 10,
+            "facing": "east",
+            "is_featured": true,
+            "is_published": true,
+            "location": 67,
+            "owner": 15,
+            "agent": 22
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 68,
+        "fields": {
+            "address": "8 MG Road, Kolkata",
+            "city": "Kolkata",
+            "state": "West Bengal",
+            "zip_code": "560008",
+            "country": "India",
+            "latitude": 13.116253,
+            "longitude": 77.799204
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 68,
+        "fields": {
+            "title": "3BHK in Kolkata",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 4,
+            "purpose": "sale",
+            "status": "sold",
+            "price": 9056977,
+            "bedrooms": 3,
+            "bathrooms": 1.0,
+            "square_feet": 1514,
+            "lot_size": 2460.00,
+            "year_built": 2014,
+            "furnishing": "furnished",
+            "floor": 8,
+            "total_floors": 10,
+            "facing": "south",
+            "is_featured": false,
+            "is_published": true,
+            "location": 68,
+            "owner": 16,
+            "agent": 23
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 69,
+        "fields": {
+            "address": "9 MG Road, Kolkata",
+            "city": "Kolkata",
+            "state": "West Bengal",
+            "zip_code": "560009",
+            "country": "India",
+            "latitude": 13.621603,
+            "longitude": 77.695342
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 69,
+        "fields": {
+            "title": "3BHK in Kolkata",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 1,
+            "purpose": "rent",
+            "status": "rented",
+            "price": 8860956,
+            "bedrooms": 4,
+            "bathrooms": 1.0,
+            "square_feet": 2382,
+            "lot_size": 1908.00,
+            "year_built": 2015,
+            "furnishing": "unfurnished",
+            "floor": 1,
+            "total_floors": 10,
+            "facing": "south",
+            "is_featured": true,
+            "is_published": true,
+            "location": 69,
+            "owner": 17,
+            "agent": 24
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 70,
+        "fields": {
+            "address": "10 MG Road, Kolkata",
+            "city": "Kolkata",
+            "state": "West Bengal",
+            "zip_code": "560010",
+            "country": "India",
+            "latitude": 13.614481,
+            "longitude": 77.824211
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 70,
+        "fields": {
+            "title": "3BHK in Kolkata",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 4,
+            "purpose": "sale",
+            "status": "for_sale",
+            "price": 3772147,
+            "bedrooms": 2,
+            "bathrooms": 2.0,
+            "square_feet": 882,
+            "lot_size": 2310.00,
+            "year_built": 2018,
+            "furnishing": "semi-furnished",
+            "floor": 1,
+            "total_floors": 10,
+            "facing": "west",
+            "is_featured": true,
+            "is_published": true,
+            "location": 70,
+            "owner": 18,
+            "agent": 25
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 71,
+        "fields": {
+            "address": "1 MG Road, Mumbai",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "zip_code": "560001",
+            "country": "India",
+            "latitude": 13.410025,
+            "longitude": 77.886146
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 71,
+        "fields": {
+            "title": "3BHK in Mumbai",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 5,
+            "purpose": "rent",
+            "status": "for_rent",
+            "price": 10827371,
+            "bedrooms": 2,
+            "bathrooms": 1.0,
+            "square_feet": 2480,
+            "lot_size": 2303.00,
+            "year_built": 2002,
+            "furnishing": "semi-furnished",
+            "floor": 5,
+            "total_floors": 10,
+            "facing": "east",
+            "is_featured": true,
+            "is_published": true,
+            "location": 71,
+            "owner": 19,
+            "agent": 26
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 72,
+        "fields": {
+            "address": "2 MG Road, Mumbai",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "zip_code": "560002",
+            "country": "India",
+            "latitude": 13.289731,
+            "longitude": 78.092510
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 72,
+        "fields": {
+            "title": "4BHK in Mumbai",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 1,
+            "purpose": "sale",
+            "status": "sold",
+            "price": 2135987,
+            "bedrooms": 2,
+            "bathrooms": 1.0,
+            "square_feet": 2125,
+            "lot_size": 1997.00,
+            "year_built": 2014,
+            "furnishing": "unfurnished",
+            "floor": 1,
+            "total_floors": 10,
+            "facing": "south",
+            "is_featured": true,
+            "is_published": true,
+            "location": 72,
+            "owner": 20,
+            "agent": 27
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 73,
+        "fields": {
+            "address": "3 MG Road, Mumbai",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "zip_code": "560003",
+            "country": "India",
+            "latitude": 13.899290,
+            "longitude": 77.757196
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 73,
+        "fields": {
+            "title": "2BHK in Mumbai",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 4,
+            "purpose": "sale",
+            "status": "sold",
+            "price": 4480209,
+            "bedrooms": 3,
+            "bathrooms": 3.0,
+            "square_feet": 989,
+            "lot_size": 2085.00,
+            "year_built": 2008,
+            "furnishing": "semi-furnished",
+            "floor": 8,
+            "total_floors": 10,
+            "facing": "west",
+            "is_featured": false,
+            "is_published": true,
+            "location": 73,
+            "owner": 6,
+            "agent": 28
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 74,
+        "fields": {
+            "address": "4 MG Road, Mumbai",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "zip_code": "560004",
+            "country": "India",
+            "latitude": 13.747730,
+            "longitude": 77.516913
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 74,
+        "fields": {
+            "title": "3BHK in Mumbai",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 1,
+            "purpose": "sale",
+            "status": "for_sale",
+            "price": 7290132,
+            "bedrooms": 4,
+            "bathrooms": 1.0,
+            "square_feet": 808,
+            "lot_size": 1968.00,
+            "year_built": 2021,
+            "furnishing": "furnished",
+            "floor": 1,
+            "total_floors": 10,
+            "facing": "south",
+            "is_featured": true,
+            "is_published": true,
+            "location": 74,
+            "owner": 7,
+            "agent": 29
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 75,
+        "fields": {
+            "address": "5 MG Road, Mumbai",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "zip_code": "560005",
+            "country": "India",
+            "latitude": 13.518756,
+            "longitude": 77.997318
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 75,
+        "fields": {
+            "title": "3BHK in Mumbai",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 5,
+            "purpose": "sale",
+            "status": "sold",
+            "price": 6791859,
+            "bedrooms": 3,
+            "bathrooms": 1.0,
+            "square_feet": 1230,
+            "lot_size": 1273.00,
+            "year_built": 2003,
+            "furnishing": "unfurnished",
+            "floor": 7,
+            "total_floors": 10,
+            "facing": "west",
+            "is_featured": true,
+            "is_published": true,
+            "location": 75,
+            "owner": 11,
+            "agent": 30
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 76,
+        "fields": {
+            "address": "6 MG Road, Mumbai",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "zip_code": "560006",
+            "country": "India",
+            "latitude": 13.779775,
+            "longitude": 78.008331
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 76,
+        "fields": {
+            "title": "2BHK in Mumbai",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 5,
+            "purpose": "rent",
+            "status": "for_rent",
+            "price": 5479125,
+            "bedrooms": 2,
+            "bathrooms": 2.0,
+            "square_feet": 2084,
+            "lot_size": 1035.00,
+            "year_built": 2009,
+            "furnishing": "semi-furnished",
+            "floor": 8,
+            "total_floors": 10,
+            "facing": "west",
+            "is_featured": true,
+            "is_published": true,
+            "location": 76,
+            "owner": 12,
+            "agent": 1
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 77,
+        "fields": {
+            "address": "7 MG Road, Mumbai",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "zip_code": "560007",
+            "country": "India",
+            "latitude": 13.498256,
+            "longitude": 78.245813
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 77,
+        "fields": {
+            "title": "3BHK in Mumbai",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 2,
+            "purpose": "sale",
+            "status": "sold",
+            "price": 17080968,
+            "bedrooms": 3,
+            "bathrooms": 2.0,
+            "square_feet": 2397,
+            "lot_size": 1937.00,
+            "year_built": 2009,
+            "furnishing": "unfurnished",
+            "floor": 10,
+            "total_floors": 10,
+            "facing": "north",
+            "is_featured": false,
+            "is_published": true,
+            "location": 77,
+            "owner": 13,
+            "agent": 2
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 78,
+        "fields": {
+            "address": "8 MG Road, Mumbai",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "zip_code": "560008",
+            "country": "India",
+            "latitude": 12.962225,
+            "longitude": 77.738426
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 78,
+        "fields": {
+            "title": "4BHK in Mumbai",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 5,
+            "purpose": "sale",
+            "status": "for_sale",
+            "price": 2239015,
+            "bedrooms": 4,
+            "bathrooms": 1.0,
+            "square_feet": 1073,
+            "lot_size": 2882.00,
+            "year_built": 2012,
+            "furnishing": "semi-furnished",
+            "floor": 1,
+            "total_floors": 10,
+            "facing": "south",
+            "is_featured": false,
+            "is_published": true,
+            "location": 78,
+            "owner": 14,
+            "agent": 3
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 79,
+        "fields": {
+            "address": "9 MG Road, Mumbai",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "zip_code": "560009",
+            "country": "India",
+            "latitude": 13.279603,
+            "longitude": 78.351209
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 79,
+        "fields": {
+            "title": "4BHK in Mumbai",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 2,
+            "purpose": "rent",
+            "status": "for_rent",
+            "price": 3295145,
+            "bedrooms": 5,
+            "bathrooms": 3.0,
+            "square_feet": 1797,
+            "lot_size": 1304.00,
+            "year_built": 2013,
+            "furnishing": "unfurnished",
+            "floor": 2,
+            "total_floors": 10,
+            "facing": "south",
+            "is_featured": true,
+            "is_published": true,
+            "location": 79,
+            "owner": 15,
+            "agent": 4
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 80,
+        "fields": {
+            "address": "10 MG Road, Mumbai",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "zip_code": "560010",
+            "country": "India",
+            "latitude": 13.096828,
+            "longitude": 78.029438
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 80,
+        "fields": {
+            "title": "2BHK in Mumbai",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 2,
+            "purpose": "rent",
+            "status": "for_rent",
+            "price": 3173401,
+            "bedrooms": 2,
+            "bathrooms": 3.0,
+            "square_feet": 1643,
+            "lot_size": 1368.00,
+            "year_built": 2002,
+            "furnishing": "unfurnished",
+            "floor": 7,
+            "total_floors": 10,
+            "facing": "west",
+            "is_featured": true,
+            "is_published": true,
+            "location": 80,
+            "owner": 16,
+            "agent": 5
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 81,
+        "fields": {
+            "address": "1 MG Road, Noida",
+            "city": "Noida",
+            "state": "Uttar Pradesh",
+            "zip_code": "560001",
+            "country": "India",
+            "latitude": 13.263850,
+            "longitude": 78.289798
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 81,
+        "fields": {
+            "title": "4BHK in Noida",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 2,
+            "purpose": "sale",
+            "status": "sold",
+            "price": 9510037,
+            "bedrooms": 5,
+            "bathrooms": 2.0,
+            "square_feet": 1363,
+            "lot_size": 2091.00,
+            "year_built": 2006,
+            "furnishing": "furnished",
+            "floor": 5,
+            "total_floors": 10,
+            "facing": "east",
+            "is_featured": false,
+            "is_published": true,
+            "location": 81,
+            "owner": 17,
+            "agent": 21
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 82,
+        "fields": {
+            "address": "2 MG Road, Noida",
+            "city": "Noida",
+            "state": "Uttar Pradesh",
+            "zip_code": "560002",
+            "country": "India",
+            "latitude": 13.413588,
+            "longitude": 77.852871
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 82,
+        "fields": {
+            "title": "3BHK in Noida",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 5,
+            "purpose": "rent",
+            "status": "for_rent",
+            "price": 10639353,
+            "bedrooms": 5,
+            "bathrooms": 3.0,
+            "square_feet": 1617,
+            "lot_size": 2282.00,
+            "year_built": 2018,
+            "furnishing": "furnished",
+            "floor": 1,
+            "total_floors": 10,
+            "facing": "north",
+            "is_featured": true,
+            "is_published": true,
+            "location": 82,
+            "owner": 18,
+            "agent": 22
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 83,
+        "fields": {
+            "address": "3 MG Road, Noida",
+            "city": "Noida",
+            "state": "Uttar Pradesh",
+            "zip_code": "560003",
+            "country": "India",
+            "latitude": 13.703105,
+            "longitude": 78.063652
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 83,
+        "fields": {
+            "title": "3BHK in Noida",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 1,
+            "purpose": "rent",
+            "status": "for_rent",
+            "price": 14906903,
+            "bedrooms": 4,
+            "bathrooms": 3.0,
+            "square_feet": 1270,
+            "lot_size": 2551.00,
+            "year_built": 2007,
+            "furnishing": "unfurnished",
+            "floor": 1,
+            "total_floors": 10,
+            "facing": "west",
+            "is_featured": false,
+            "is_published": true,
+            "location": 83,
+            "owner": 19,
+            "agent": 23
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 84,
+        "fields": {
+            "address": "4 MG Road, Noida",
+            "city": "Noida",
+            "state": "Uttar Pradesh",
+            "zip_code": "560004",
+            "country": "India",
+            "latitude": 13.468175,
+            "longitude": 77.521357
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 84,
+        "fields": {
+            "title": "4BHK in Noida",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 3,
+            "purpose": "sale",
+            "status": "sold",
+            "price": 8320687,
+            "bedrooms": 3,
+            "bathrooms": 2.0,
+            "square_feet": 871,
+            "lot_size": 2431.00,
+            "year_built": 2011,
+            "furnishing": "furnished",
+            "floor": 8,
+            "total_floors": 10,
+            "facing": "west",
+            "is_featured": false,
+            "is_published": true,
+            "location": 84,
+            "owner": 20,
+            "agent": 24
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 85,
+        "fields": {
+            "address": "5 MG Road, Noida",
+            "city": "Noida",
+            "state": "Uttar Pradesh",
+            "zip_code": "560005",
+            "country": "India",
+            "latitude": 13.483693,
+            "longitude": 77.843038
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 85,
+        "fields": {
+            "title": "2BHK in Noida",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 2,
+            "purpose": "rent",
+            "status": "for_rent",
+            "price": 6408743,
+            "bedrooms": 5,
+            "bathrooms": 3.0,
+            "square_feet": 2456,
+            "lot_size": 1410.00,
+            "year_built": 2011,
+            "furnishing": "unfurnished",
+            "floor": 8,
+            "total_floors": 10,
+            "facing": "west",
+            "is_featured": true,
+            "is_published": true,
+            "location": 85,
+            "owner": 6,
+            "agent": 25
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 86,
+        "fields": {
+            "address": "6 MG Road, Noida",
+            "city": "Noida",
+            "state": "Uttar Pradesh",
+            "zip_code": "560006",
+            "country": "India",
+            "latitude": 13.249973,
+            "longitude": 78.261255
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 86,
+        "fields": {
+            "title": "3BHK in Noida",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 1,
+            "purpose": "rent",
+            "status": "rented",
+            "price": 14103071,
+            "bedrooms": 2,
+            "bathrooms": 3.0,
+            "square_feet": 2292,
+            "lot_size": 1778.00,
+            "year_built": 2014,
+            "furnishing": "unfurnished",
+            "floor": 2,
+            "total_floors": 10,
+            "facing": "west",
+            "is_featured": false,
+            "is_published": true,
+            "location": 86,
+            "owner": 7,
+            "agent": 26
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 87,
+        "fields": {
+            "address": "7 MG Road, Noida",
+            "city": "Noida",
+            "state": "Uttar Pradesh",
+            "zip_code": "560007",
+            "country": "India",
+            "latitude": 13.687702,
+            "longitude": 78.488814
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 87,
+        "fields": {
+            "title": "3BHK in Noida",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 1,
+            "purpose": "rent",
+            "status": "for_rent",
+            "price": 18935352,
+            "bedrooms": 3,
+            "bathrooms": 3.0,
+            "square_feet": 1293,
+            "lot_size": 2229.00,
+            "year_built": 2017,
+            "furnishing": "furnished",
+            "floor": 2,
+            "total_floors": 10,
+            "facing": "south",
+            "is_featured": false,
+            "is_published": true,
+            "location": 87,
+            "owner": 11,
+            "agent": 27
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 88,
+        "fields": {
+            "address": "8 MG Road, Noida",
+            "city": "Noida",
+            "state": "Uttar Pradesh",
+            "zip_code": "560008",
+            "country": "India",
+            "latitude": 13.580676,
+            "longitude": 77.502055
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 88,
+        "fields": {
+            "title": "2BHK in Noida",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 3,
+            "purpose": "sale",
+            "status": "sold",
+            "price": 13078505,
+            "bedrooms": 3,
+            "bathrooms": 2.0,
+            "square_feet": 1314,
+            "lot_size": 2146.00,
+            "year_built": 2022,
+            "furnishing": "semi-furnished",
+            "floor": 9,
+            "total_floors": 10,
+            "facing": "east",
+            "is_featured": false,
+            "is_published": true,
+            "location": 88,
+            "owner": 12,
+            "agent": 28
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 89,
+        "fields": {
+            "address": "9 MG Road, Noida",
+            "city": "Noida",
+            "state": "Uttar Pradesh",
+            "zip_code": "560009",
+            "country": "India",
+            "latitude": 12.975597,
+            "longitude": 77.801994
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 89,
+        "fields": {
+            "title": "2BHK in Noida",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 4,
+            "purpose": "rent",
+            "status": "rented",
+            "price": 2159252,
+            "bedrooms": 3,
+            "bathrooms": 2.0,
+            "square_feet": 1028,
+            "lot_size": 1615.00,
+            "year_built": 2010,
+            "furnishing": "unfurnished",
+            "floor": 3,
+            "total_floors": 10,
+            "facing": "west",
+            "is_featured": false,
+            "is_published": true,
+            "location": 89,
+            "owner": 13,
+            "agent": 29
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 90,
+        "fields": {
+            "address": "10 MG Road, Noida",
+            "city": "Noida",
+            "state": "Uttar Pradesh",
+            "zip_code": "560010",
+            "country": "India",
+            "latitude": 13.358353,
+            "longitude": 77.515659
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 90,
+        "fields": {
+            "title": "4BHK in Noida",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 4,
+            "purpose": "sale",
+            "status": "for_sale",
+            "price": 2560478,
+            "bedrooms": 3,
+            "bathrooms": 2.0,
+            "square_feet": 2237,
+            "lot_size": 2857.00,
+            "year_built": 2004,
+            "furnishing": "unfurnished",
+            "floor": 1,
+            "total_floors": 10,
+            "facing": "west",
+            "is_featured": true,
+            "is_published": true,
+            "location": 90,
+            "owner": 14,
+            "agent": 30
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 91,
+        "fields": {
+            "address": "1 MG Road, Pune",
+            "city": "Pune",
+            "state": "Maharashtra",
+            "zip_code": "560001",
+            "country": "India",
+            "latitude": 12.931985,
+            "longitude": 78.052684
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 91,
+        "fields": {
+            "title": "4BHK in Pune",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 1,
+            "purpose": "rent",
+            "status": "rented",
+            "price": 10071540,
+            "bedrooms": 5,
+            "bathrooms": 2.0,
+            "square_feet": 1357,
+            "lot_size": 2193.00,
+            "year_built": 2018,
+            "furnishing": "semi-furnished",
+            "floor": 1,
+            "total_floors": 10,
+            "facing": "north",
+            "is_featured": true,
+            "is_published": true,
+            "location": 91,
+            "owner": 15,
+            "agent": 1
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 92,
+        "fields": {
+            "address": "2 MG Road, Pune",
+            "city": "Pune",
+            "state": "Maharashtra",
+            "zip_code": "560002",
+            "country": "India",
+            "latitude": 13.504315,
+            "longitude": 78.110473
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 92,
+        "fields": {
+            "title": "3BHK in Pune",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 5,
+            "purpose": "rent",
+            "status": "rented",
+            "price": 14791361,
+            "bedrooms": 5,
+            "bathrooms": 3.0,
+            "square_feet": 2270,
+            "lot_size": 1034.00,
+            "year_built": 2007,
+            "furnishing": "unfurnished",
+            "floor": 5,
+            "total_floors": 10,
+            "facing": "north",
+            "is_featured": true,
+            "is_published": true,
+            "location": 92,
+            "owner": 16,
+            "agent": 2
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 93,
+        "fields": {
+            "address": "3 MG Road, Pune",
+            "city": "Pune",
+            "state": "Maharashtra",
+            "zip_code": "560003",
+            "country": "India",
+            "latitude": 12.971199,
+            "longitude": 78.230941
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 93,
+        "fields": {
+            "title": "2BHK in Pune",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 1,
+            "purpose": "rent",
+            "status": "rented",
+            "price": 11272782,
+            "bedrooms": 4,
+            "bathrooms": 1.0,
+            "square_feet": 1626,
+            "lot_size": 2057.00,
+            "year_built": 2022,
+            "furnishing": "unfurnished",
+            "floor": 9,
+            "total_floors": 10,
+            "facing": "north",
+            "is_featured": true,
+            "is_published": true,
+            "location": 93,
+            "owner": 17,
+            "agent": 3
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 94,
+        "fields": {
+            "address": "4 MG Road, Pune",
+            "city": "Pune",
+            "state": "Maharashtra",
+            "zip_code": "560004",
+            "country": "India",
+            "latitude": 13.851693,
+            "longitude": 77.746486
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 94,
+        "fields": {
+            "title": "4BHK in Pune",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 1,
+            "purpose": "sale",
+            "status": "for_sale",
+            "price": 8194960,
+            "bedrooms": 5,
+            "bathrooms": 3.0,
+            "square_feet": 1174,
+            "lot_size": 2781.00,
+            "year_built": 2023,
+            "furnishing": "unfurnished",
+            "floor": 4,
+            "total_floors": 10,
+            "facing": "east",
+            "is_featured": true,
+            "is_published": true,
+            "location": 94,
+            "owner": 18,
+            "agent": 4
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 95,
+        "fields": {
+            "address": "5 MG Road, Pune",
+            "city": "Pune",
+            "state": "Maharashtra",
+            "zip_code": "560005",
+            "country": "India",
+            "latitude": 12.996195,
+            "longitude": 77.533418
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 95,
+        "fields": {
+            "title": "3BHK in Pune",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 2,
+            "purpose": "rent",
+            "status": "for_rent",
+            "price": 3642508,
+            "bedrooms": 3,
+            "bathrooms": 1.0,
+            "square_feet": 1920,
+            "lot_size": 1941.00,
+            "year_built": 2017,
+            "furnishing": "semi-furnished",
+            "floor": 1,
+            "total_floors": 10,
+            "facing": "north",
+            "is_featured": true,
+            "is_published": true,
+            "location": 95,
+            "owner": 19,
+            "agent": 5
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 96,
+        "fields": {
+            "address": "6 MG Road, Pune",
+            "city": "Pune",
+            "state": "Maharashtra",
+            "zip_code": "560006",
+            "country": "India",
+            "latitude": 13.472924,
+            "longitude": 77.843590
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 96,
+        "fields": {
+            "title": "4BHK in Pune",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 3,
+            "purpose": "rent",
+            "status": "rented",
+            "price": 14881272,
+            "bedrooms": 5,
+            "bathrooms": 2.0,
+            "square_feet": 1523,
+            "lot_size": 2167.00,
+            "year_built": 2004,
+            "furnishing": "semi-furnished",
+            "floor": 8,
+            "total_floors": 10,
+            "facing": "south",
+            "is_featured": true,
+            "is_published": true,
+            "location": 96,
+            "owner": 20,
+            "agent": 21
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 97,
+        "fields": {
+            "address": "7 MG Road, Pune",
+            "city": "Pune",
+            "state": "Maharashtra",
+            "zip_code": "560007",
+            "country": "India",
+            "latitude": 13.449604,
+            "longitude": 77.658608
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 97,
+        "fields": {
+            "title": "4BHK in Pune",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 5,
+            "purpose": "sale",
+            "status": "sold",
+            "price": 11213407,
+            "bedrooms": 3,
+            "bathrooms": 3.0,
+            "square_feet": 2243,
+            "lot_size": 1724.00,
+            "year_built": 2005,
+            "furnishing": "furnished",
+            "floor": 10,
+            "total_floors": 10,
+            "facing": "south",
+            "is_featured": false,
+            "is_published": true,
+            "location": 97,
+            "owner": 6,
+            "agent": 22
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 98,
+        "fields": {
+            "address": "8 MG Road, Pune",
+            "city": "Pune",
+            "state": "Maharashtra",
+            "zip_code": "560008",
+            "country": "India",
+            "latitude": 13.614995,
+            "longitude": 78.467604
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 98,
+        "fields": {
+            "title": "4BHK in Pune",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 2,
+            "purpose": "sale",
+            "status": "for_sale",
+            "price": 19102516,
+            "bedrooms": 4,
+            "bathrooms": 2.0,
+            "square_feet": 2070,
+            "lot_size": 2248.00,
+            "year_built": 2003,
+            "furnishing": "furnished",
+            "floor": 5,
+            "total_floors": 10,
+            "facing": "west",
+            "is_featured": false,
+            "is_published": true,
+            "location": 98,
+            "owner": 7,
+            "agent": 23
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 99,
+        "fields": {
+            "address": "9 MG Road, Pune",
+            "city": "Pune",
+            "state": "Maharashtra",
+            "zip_code": "560009",
+            "country": "India",
+            "latitude": 13.513245,
+            "longitude": 77.504172
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 99,
+        "fields": {
+            "title": "4BHK in Pune",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 3,
+            "purpose": "rent",
+            "status": "rented",
+            "price": 3914242,
+            "bedrooms": 5,
+            "bathrooms": 2.0,
+            "square_feet": 1545,
+            "lot_size": 1622.00,
+            "year_built": 2000,
+            "furnishing": "furnished",
+            "floor": 6,
+            "total_floors": 10,
+            "facing": "west",
+            "is_featured": false,
+            "is_published": true,
+            "location": 99,
+            "owner": 11,
+            "agent": 24
+        }
+    },
+    {
+        "model": "listings.location",
+        "pk": 100,
+        "fields": {
+            "address": "10 MG Road, Pune",
+            "city": "Pune",
+            "state": "Maharashtra",
+            "zip_code": "560010",
+            "country": "India",
+            "latitude": 13.057261,
+            "longitude": 77.710655
+        }
+    },
+    {
+        "model": "listings.property",
+        "pk": 100,
+        "fields": {
+            "title": "3BHK in Pune",
+            "description": "Spacious and well-lit property with great locality access.",
+            "property_type": 1,
+            "purpose": "rent",
+            "status": "for_rent",
+            "price": 18109427,
+            "bedrooms": 2,
+            "bathrooms": 1.0,
+            "square_feet": 1064,
+            "lot_size": 1684.00,
+            "year_built": 2002,
+            "furnishing": "semi-furnished",
+            "floor": 1,
+            "total_floors": 10,
+            "facing": "east",
+            "is_featured": true,
+            "is_published": true,
+            "location": 100,
+            "owner": 12,
+            "agent": 25
+        }
+    }
+]

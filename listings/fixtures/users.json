@@ -1,0 +1,332 @@
+[
+  {
+    "model": "listings.User",
+    "pk": 1,
+    "fields": {
+      "username": "agent_josh",
+      "password": "pbkdf2",
+      "name": "John Agent",
+      "role": "agent",
+      "phone": "9876543210"
+    }
+  },
+  {
+    "model": "listings.User",
+    "pk": 2,
+    "fields": {
+      "username": "agent_amira",
+      "password": "pbkdf2",
+      "name": "Amy Agent",
+      "role": "agent",
+      "phone": "9876543211"
+    }
+  },
+  {
+    "model": "listings.User",
+    "pk": 3,
+    "fields": {
+      "username": "agent_bibi",
+      "password": "pbkdf2",
+      "name": "Bob Agent",
+      "role": "agent",
+      "phone": "9876543212"
+    }
+  },
+  {
+    "model": "listings.User",
+    "pk": 4,
+    "fields": {
+      "username": "agent_lulu",
+      "password": "pbkdf2",
+      "name": "Lisa Agent",
+      "role": "agent",
+      "phone": "9876543213"
+    }
+  },
+  {
+    "model": "listings.User",
+    "pk": 5,
+    "fields": {
+      "username": "agent_misha",
+      "password": "pbkdf2",
+      "name": "Mike Agent",
+      "role": "agent",
+      "phone": "9876543214"
+    }
+  },
+  {
+    "model": "listings.User",
+    "pk": 6,
+    "fields": {
+      "username": "owner_rahul",
+      "password": "pbkdf2",
+      "name": "Sam Owner",
+      "role": "owner",
+      "phone": "9876543215"
+    }
+  },
+  {
+    "model": "listings.User",
+    "pk": 7,
+    "fields": {
+      "username": "owner_rani",
+      "password": "pbkdf2",
+      "name": "Rita Owner",
+      "role": "owner",
+      "phone": "9876543216"
+    }
+  },
+  {
+    "model": "listings.User",
+    "pk": 8,
+    "fields": {
+      "username": "buyer_apple",
+      "password": "pbkdf2",
+      "name": "Alex Buyer",
+      "role": "buyer",
+      "phone": "9876543217"
+    }
+  },
+  {
+    "model": "listings.User",
+    "pk": 9,
+    "fields": {
+      "username": "buyer_neha",
+      "password": "pbkdf2",
+      "name": "Nina Buyer",
+      "role": "buyer",
+      "phone": "9876543218"
+    }
+  },
+  {
+    "model": "listings.User",
+    "pk": 10,
+    "fields": {
+      "username": "buyer_raju",
+      "password": "pbkdf2",
+      "name": "Raj Buyer",
+      "role": "buyer",
+      "phone": "9876543219"
+    }
+  },
+  {
+    "model": "listings.User",
+    "pk": 11,
+    "fields": {
+      "username": "owner_sam",
+      "password": "pbkdf2",
+      "name": "Sam Owner",
+      "role": "owner",
+      "phone": "9876543230"
+    }
+  },
+  {
+    "model": "listings.User",
+    "pk": 12,
+    "fields": {
+      "username": "owner_rita",
+      "password": "pbkdf2",
+      "name": "Rita Owner",
+      "role": "owner",
+      "phone": "9876543231"
+    }
+  },
+  {
+    "model": "listings.User",
+    "pk": 13,
+    "fields": {
+      "username": "owner_anish",
+      "password": "pbkdf2",
+      "name": "Anish Owner",
+      "role": "owner",
+      "phone": "9876543232"
+    }
+  },
+  {
+    "model": "listings.User",
+    "pk": 14,
+    "fields": {
+      "username": "owner_nisha",
+      "password": "pbkdf2",
+      "name": "Nisha Owner",
+      "role": "owner",
+      "phone": "9876543233"
+    }
+  },
+  {
+    "model": "listings.User",
+    "pk": 15,
+    "fields": {
+      "username": "owner_mukesh",
+      "password": "pbkdf2",
+      "name": "Mukesh Owner",
+      "role": "owner",
+      "phone": "9876543234"
+    }
+  },
+  {
+    "model": "listings.User",
+    "pk": 16,
+    "fields": {
+      "username": "buyer_alex",
+      "password": "pbkdf2",
+      "name": "Alex Buyer",
+      "role": "owner",
+      "phone": "9876543240"
+    }
+  },
+  {
+    "model": "listings.User",
+    "pk": 17,
+    "fields": {
+      "username": "buyer_nina",
+      "password": "pbkdf2",
+      "name": "Nina Buyer",
+      "role": "owner",
+      "phone": "9876543241"
+    }
+  },
+  {
+    "model": "listings.User",
+    "pk": 18,
+    "fields": {
+      "username": "buyer_raj",
+      "password": "pbkdf2",
+      "name": "Raj Buyer",
+      "role": "owner",
+      "phone": "9876543242"
+    }
+  },
+  {
+    "model": "listings.User",
+    "pk": 19,
+    "fields": {
+      "username": "buyer_pooja",
+      "password": "pbkdf2",
+      "name": "Pooja Buyer",
+      "role": "owner",
+      "phone": "9876543243"
+    }
+  },
+  {
+    "model": "listings.User",
+    "pk": 20,
+    "fields": {
+      "username": "buyer_sahil",
+      "password": "pbkdf2",
+      "name": "Sahil Buyer",
+      "role": "owner",
+      "phone": "9876543244"
+    }
+  },
+  {
+    "model": "listings.User",
+    "pk": 21,
+    "fields": {
+      "username": "agent_john",
+      "password": "pbkdf2",
+      "name": "John Agent",
+      "role": "agent",
+      "phone": "9876543210"
+    }
+  },
+  {
+    "model": "listings.User",
+    "pk": 22,
+    "fields": {
+      "username": "agent_amy",
+      "password": "pbkdf2",
+      "name": "Amy Agent",
+      "role": "agent",
+      "phone": "9876543211"
+    }
+  },
+  {
+    "model": "listings.User",
+    "pk": 23,
+    "fields": {
+      "username": "agent_bob",
+      "password": "pbkdf2",
+      "name": "Bob Agent",
+      "role": "agent",
+      "phone": "9876543212"
+    }
+  },
+  {
+    "model": "listings.User",
+    "pk": 24,
+    "fields": {
+      "username": "agent_lisa",
+      "password": "pbkdf2",
+      "name": "Lisa Agent",
+      "role": "agent",
+      "phone": "9876543213"
+    }
+  },
+  {
+    "model": "listings.User",
+    "pk": 25,
+    "fields": {
+      "username": "agent_mike",
+      "password": "pbkdf2",
+      "name": "Mike Agent",
+      "role": "agent",
+      "phone": "9876543214"
+    }
+  },
+  {
+    "model": "listings.User",
+    "pk": 26,
+    "fields": {
+      "username": "agent_diana",
+      "password": "pbkdf2",
+      "name": "Diana Agent",
+      "role": "agent",
+      "phone": "9876543220"
+    }
+  },
+  {
+    "model": "listings.User",
+    "pk": 27,
+    "fields": {
+      "username": "agent_rohan",
+      "password": "pbkdf2",
+      "name": "Rohan Agent",
+      "role": "agent",
+      "phone": "9876543221"
+    }
+  },
+  {
+    "model": "listings.User",
+    "pk": 28,
+    "fields": {
+      "username": "agent_meera",
+      "password": "pbkdf2",
+      "name": "Meera Agent",
+      "role": "agent",
+      "phone": "9876543222"
+    }
+  },
+  {
+    "model": "listings.User",
+    "pk": 29,
+    "fields": {
+      "username": "agent_kunal",
+      "password": "pbkdf2",
+      "name": "Kunal Agent",
+      "role": "agent",
+      "phone": "9876543223"
+    }
+  },
+  {
+    "model": "listings.User",
+    "pk": 30,
+    "fields": {
+      "username": "agent_riya",
+      "password": "pbkdf2",
+      "name": "Riya Agent",
+      "role": "agent",
+      "phone": "9876543224"
+    }
+  }
+]

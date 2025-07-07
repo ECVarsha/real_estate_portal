@@ -1,0 +1,47 @@
+[
+    {
+        "model": "listings.propertytype",
+        "pk": 1,
+        "fields": {
+            "name": "Apartment",
+            "description": "A self-contained housing unit in a building, typically on one floor.",
+            "icon": "fa-building"
+        }
+    },
+    {
+        "model": "listings.propertytype",
+        "pk": 5,
+        "fields": {
+            "name": "Villa",
+            "description": "A luxurious stand-alone house, usually larger and with a garden.",
+            "icon": "fa-house"
+        }
+    },
+    {
+        "model": "listings.propertytype",
+        "pk": 3,
+        "fields": {
+            "name": "Plot",
+            "description": "A piece of land available for construction or investment.",
+            "icon": "fa-map"
+        }
+    },
+    {
+        "model": "listings.propertytype",
+        "pk": 2,
+        "fields": {
+            "name": "Office",
+            "description": "A commercial property used for business and workspaces.",
+            "icon": "fa-briefcase"
+        }
+    },
+    {
+        "model": "listings.propertytype",
+        "pk": 4,
+        "fields": {
+            "name": "Commercial",
+            "description": "A retail space or outlet meant for selling products or services.",
+            "icon": "fa-store"
+        }
+    }
+]
