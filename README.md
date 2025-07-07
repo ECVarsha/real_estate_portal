@@ -1,10 +1,10 @@
-# 🏡 UrbanNest – Real Estate Web Portal
+# 🏡 Real Estate Web Portal
 
 UrbanNest is a full-stack real estate web application that helps users search, view, and post properties for rent or sale. Built using Django, it supports secure user authentication, property listings, search filters, reviews, and favorites.
 
 ---
 
-## 🚀 Features
+## Features
 
 - 🧑‍💼 User Registration & Login
 - 🏘️ Property Posting (by agents or users)
@@ -25,25 +25,13 @@ UrbanNest is a full-stack real estate web application that helps users search, v
  
 
 ---
-
-## 📂 Folder Structure (Simplified)
-
-UrbanNest/
-├── accounts/ # User management (signup, login)
-├── properties/ # Property listing, search, details
-├── templates/ # HTML pages
-├── static/ # CSS, JS, images
-├── media/ # Uploaded property images
-├── db.sqlite3
-└── manage.py
-
-
 ---
 
 ## 🖥️ How to Run Locally
 
-1. Clone the repository
+
 ```bash
+1. Clone the repository
 git clone https://github.com/your-username/urban-nest.git
 cd urban-nest
 
